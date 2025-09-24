@@ -1,0 +1,1 @@
+# This file stores detailed logging output from the crawler, including information about the crawling process and any errors encountered. It is useful for debugging and monitoring the crawler's performance.
