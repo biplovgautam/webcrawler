@@ -1,7 +1,7 @@
-# Cala Eye Need It Essential Brush Kit – Prettyclick
+# Cala 3D Faux Mink Lashes – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/products/cala-eye-need-it-essential-brush-kit
-**Crawled:** 2025-09-24T23:45:18.210915
+**URL:** https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes
+**Crawled:** 2025-09-25T00:04:00.320371
 
 ---
 
@@ -19,15 +19,39 @@ Open media 4 in modal
 
 Open media 5 in modal
 
+Open media 6 in modal
+
+Open media 7 in modal
+
+Open media 8 in modal
+
+Open media 9 in modal
+
+Open media 10 in modal
+
+Open media 11 in modal
+
+Open media 12 in modal
+
+Open media 13 in modal
+
+Open media 14 in modal
+
+Open media 15 in modal
+
+Open media 16 in modal
+
+Open media 17 in modal
+
 Save
 
-50%
+74%
 
-Cala Eye Need It Essential Brush Kit
+Cala 3D Faux Mink Lashes
 
-Cala Eye Need It Essential Brush Kit
+Cala 3D Faux Mink Lashes
 
-3 reviews
+1 review
 
 Vendor:
 
@@ -35,7 +59,7 @@ Cala
 
 Type:
 
-Makeup Brush
+Eyelash
 
 PRETTYCLICK REWARD POINTS
 
@@ -43,15 +67,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs600.00
+Rs99.00
 
 Sale price
 
-Rs600.00
+Rs99.00
 
 Regular price
 
-Rs1,200.00
+Rs385.00
 
 Unit price
 
@@ -69,43 +93,51 @@ calculated at checkout.
 
 Available in stock
 
-Acessories:
+Lashes:
 
-Lavender
+Bossy 35102
 
-Lavender
-
-Variant sold out or unavailable
-
-Black
+Noir 35101
 
 Variant sold out or unavailable
 
-Rose Gold
+Bossy 35102
 
 Variant sold out or unavailable
 
-Silver-76666
+Sassy 35103
 
 Variant sold out or unavailable
 
-Mixed Color-76669
+Fuego 35104
 
 Variant sold out or unavailable
 
-Mixed Metalic-76667
+Nova 35105
 
 Variant sold out or unavailable
 
-Metallic Pink-76665
+Rouge 35106
+
+Variant sold out or unavailable
+
+Cashmere 35107
+
+Variant sold out or unavailable
+
+Posh 35108
+
+Variant sold out or unavailable
+
+Pixie35109
 
 Variant sold out or unavailable
 
 Quantity
 
-Decrease quantity for Cala Eye Need It Essential Brush Kit
+Decrease quantity for Cala 3D Faux Mink Lashes
 
-Increase quantity for Cala Eye Need It Essential Brush Kit
+Increase quantity for Cala 3D Faux Mink Lashes
 
 Add to cart
 
@@ -127,19 +159,19 @@ Share on X
 
 Pin on Pinterest
 
-Cala Eye Need It Essential Brush Kit
+Cala 3D Faux Mink Lashes
 
 Regular price
 
-Rs600.00
+Rs99.00
 
 Sale price
 
-Rs600.00
+Rs99.00
 
 Regular price
 
-Rs1,200.00
+Rs385.00
 
 Unit price
 
@@ -147,37 +179,41 @@ Unit price
 
 per
 
-Lavender
+Noir 35101
 
-Black
+Bossy 35102
 
-Rose Gold
+Sassy 35103
 
-Silver-76666
+Fuego 35104
 
-Mixed Color-76669
+Nova 35105
 
-Mixed Metalic-76667
+Rouge 35106
 
-Metallic Pink-76665
+Cashmere 35107
 
-Decrease quantity for Cala Eye Need It Essential Brush Kit
+Posh 35108
 
-Increase quantity for Cala Eye Need It Essential Brush Kit
+Pixie35109
+
+Decrease quantity for Cala 3D Faux Mink Lashes
+
+Increase quantity for Cala 3D Faux Mink Lashes
 
 Add to cart
 
 Customer Reviews
 
-Based on 3 reviews
+Based on 1 review
 
 Write a review
 
-67%
+0%
 
-(2)
+(0)
 
-33%
+100%
 
 (1)
 
@@ -193,22 +229,10 @@ Write a review
 
 (0)
 
-R
+A
 
-Ranu Bista
+Amysha Limbu
 
-Nice
+Nice product
 
-R
-
-R.B.
-
-really nice
-
-I have it in black. it is smaller than regular cala brush but as good as the regular ones. it's is so cute and handy.very travel friendly. good colour pick up and blendebilty. use it every day 💜💜💯💯
-
-R
-
-Ritu Maharjan
-
-Cala Eye Need It  Essential Brush Kit
+Haven't used it yet. But I got this for just Rs.100 on sale . So worth buying

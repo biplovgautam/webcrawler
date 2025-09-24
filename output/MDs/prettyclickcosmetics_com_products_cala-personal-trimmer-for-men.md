@@ -1,9 +1,7 @@
-# Prettyclick Lip Cream- Hope
+# Cala Personal Trimmer For Men – Prettyclick
 
-*A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone. Made in Korea*
-
-**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-hope-1
-**Crawled:** 2025-09-24T23:44:41.683208
+**URL:** https://prettyclickcosmetics.com/products/cala-personal-trimmer-for-men
+**Crawled:** 2025-09-25T00:03:49.678313
 
 ---
 
@@ -13,33 +11,23 @@ Open media 0 in modal
 
 Open media 1 in modal
 
-Open media 2 in modal
-
-Open media 3 in modal
-
-Open media 4 in modal
-
-Open media 5 in modal
-
-Open media 6 in modal
-
 Save
 
-25%
+49%
 
-Prettyclick Lip Cream- Hope
+Cala Personal Trimmer For Men
 
-Prettyclick Lip Cream- Hope
+Cala Personal Trimmer For Men
 
 No reviews
 
 Vendor:
 
-Prettyclick
+Cala
 
 Type:
 
-Lip Cream
+Accessories
 
 PRETTYCLICK REWARD POINTS
 
@@ -47,15 +35,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs750.00
+Rs490.00
 
 Sale price
 
-Rs750.00
+Rs490.00
 
 Regular price
 
-Rs1,000.00
+Rs975.00
 
 Unit price
 
@@ -73,15 +61,11 @@ calculated at checkout.
 
 Available in stock
 
-A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.
-
-Made in Korea
-
 Quantity
 
-Decrease quantity for Prettyclick Lip Cream- Hope
+Decrease quantity for Cala Personal Trimmer For Men
 
-Increase quantity for Prettyclick Lip Cream- Hope
+Increase quantity for Cala Personal Trimmer For Men
 
 Add to cart
 
@@ -103,19 +87,19 @@ Share on X
 
 Pin on Pinterest
 
-Prettyclick Lip Cream- Hope
+Cala Personal Trimmer For Men
 
 Regular price
 
-Rs750.00
+Rs490.00
 
 Sale price
 
-Rs750.00
+Rs490.00
 
 Regular price
 
-Rs1,000.00
+Rs975.00
 
 Unit price
 
@@ -125,9 +109,9 @@ per
 
 Default Title
 
-Decrease quantity for Prettyclick Lip Cream- Hope
+Decrease quantity for Cala Personal Trimmer For Men
 
-Increase quantity for Prettyclick Lip Cream- Hope
+Increase quantity for Cala Personal Trimmer For Men
 
 Add to cart
 

@@ -3,7 +3,7 @@
 *KIEC broadly known as Kathmandu Infosys is one of the leading and most sought Education Consultancies incorporated under the office of the Company Registrar,...*
 
 **URL:** https://www.youtube.com/c/kiecpage
-**Crawled:** 2025-09-24T23:44:05.497780
+**Crawled:** 2025-09-25T00:02:15.060359
 
 ---
 

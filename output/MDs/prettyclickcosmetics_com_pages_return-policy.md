@@ -3,7 +3,7 @@
 *If you have an issue with a product after the return period, Prettyclick Cosmetics has a policy in place. Here are the key points to remember:   1. Return Period Policy: Prettyclick Cosmetics explicitly states that they will not accept returns after the specified return period, and there are no exceptions to this polic*
 
 **URL:** https://prettyclickcosmetics.com/pages/return-policy
-**Crawled:** 2025-09-24T23:45:22.541157
+**Crawled:** 2025-09-25T00:03:30.356153
 
 ---
 

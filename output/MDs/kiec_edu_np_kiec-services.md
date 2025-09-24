@@ -3,7 +3,7 @@
 *Get expert guidance on university admission, scholarship info, visas, and more—your smooth pathway to studying abroad begins with KIEC.*
 
 **URL:** https://kiec.edu.np/kiec-services/
-**Crawled:** 2025-09-24T23:44:23.910695
+**Crawled:** 2025-09-25T00:02:30.960352
 
 ---
 

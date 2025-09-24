@@ -2,8 +2,8 @@
 
 *The most trusted name in the Nepalese market with 20 physical outlets throughout the major cities of Nepal for all the makeup and skincare needs!*
 
-**URL:** https://prettyclickcosmetics.com/
-**Crawled:** 2025-09-24T23:43:14.723144
+**URL:** https://prettyclickcosmetics.com
+**Crawled:** 2025-09-25T00:03:36.340957
 
 ---
 

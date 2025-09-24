@@ -1,7 +1,7 @@
-# SO…? Peony Petals Body Mist 100ml – Prettyclick
+# Prettyclick Soft & High Resilience 5 Pcs Beauty Blender
 
-**URL:** https://prettyclickcosmetics.com/products/copy-of-so-rainbow-sorbet-body-mist-100ml
-**Crawled:** 2025-09-24T23:44:40.289302
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-soft-high-resilience-5-pcs-beauty-blender
+**Crawled:** 2025-09-25T00:03:04.897116
 
 ---
 
@@ -9,21 +9,23 @@ Skip to product information
 
 Open media 0 in modal
 
-Sold out
+Save
 
-SO…? Peony Petals Body Mist 100ml
+47%
 
-SO…? Peony Petals Body Mist 100ml
+Prettyclick Soft & High Resilience 5 Pcs Beauty Blender
+
+Prettyclick Soft & High Resilience 5 Pcs Beauty Blender
 
 No reviews
 
 Vendor:
 
-Incos
+Prettyclick
 
 Type:
 
-Body Mist
+Beauty Blender
 
 PRETTYCLICK REWARD POINTS
 
@@ -31,15 +33,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs300.00
+Rs500.00
 
 Sale price
 
-Rs300.00
+Rs500.00
 
 Regular price
 
-Rs850.00
+Rs950.00
 
 Unit price
 
@@ -55,15 +57,15 @@ calculated at checkout.
 
 100% Authentic
 
-Out of stock
+Available in stock
 
 Quantity
 
-Decrease quantity for SO…? Peony Petals Body Mist 100ml
+Decrease quantity for Prettyclick Soft &amp; High Resilience 5 Pcs Beauty Blender
 
-Increase quantity for SO…? Peony Petals Body Mist 100ml
+Increase quantity for Prettyclick Soft &amp; High Resilience 5 Pcs Beauty Blender
 
-Sold out
+Add to cart
 
 This item is a recurring or deferred purchase. By continuing, I agree to the
 
@@ -83,19 +85,19 @@ Share on X
 
 Pin on Pinterest
 
-SO…? Peony Petals Body Mist 100ml
+Prettyclick Soft & High Resilience 5 Pcs Beauty Blender
 
 Regular price
 
-Rs300.00
+Rs500.00
 
 Sale price
 
-Rs300.00
+Rs500.00
 
 Regular price
 
-Rs850.00
+Rs950.00
 
 Unit price
 
@@ -105,11 +107,11 @@ per
 
 Default Title
 
-Decrease quantity for SO…? Peony Petals Body Mist 100ml
+Decrease quantity for Prettyclick Soft &amp; High Resilience 5 Pcs Beauty Blender
 
-Increase quantity for SO…? Peony Petals Body Mist 100ml
+Increase quantity for Prettyclick Soft &amp; High Resilience 5 Pcs Beauty Blender
 
-Sold out
+Add to cart
 
 Customer Reviews
 

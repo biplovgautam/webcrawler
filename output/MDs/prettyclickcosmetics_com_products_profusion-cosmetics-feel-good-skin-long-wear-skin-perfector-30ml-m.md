@@ -3,7 +3,7 @@
 *FEEL GOOD INGREDIENTS This satin-finish skin perfector is infused with Hyaluronic Acid and packed with SPF 15 to keep your skin protected and hydrated, allowing your radiance to glow from within! VEGAN &amp; CRUELTY FREE Like all of our products, this luminous skin perfector is created without being tested on animals.*
 
 **URL:** https://prettyclickcosmetics.com/products/profusion-cosmetics-feel-good-skin-long-wear-skin-perfector-30ml-medium-5
-**Crawled:** 2025-09-24T23:44:49.251661
+**Crawled:** 2025-09-25T00:03:00.417888
 
 ---
 

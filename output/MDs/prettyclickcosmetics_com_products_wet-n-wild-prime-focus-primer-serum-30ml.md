@@ -3,7 +3,7 @@
 *About this item WET N WILD Prime Focus Hydrating Primer Serum Hydration with a lightweight formula that leaves skin feeling smooth Sheer color for an instant skin enhancer*
 
 **URL:** https://prettyclickcosmetics.com/products/wet-n-wild-prime-focus-primer-serum-30ml
-**Crawled:** 2025-09-24T23:45:25.374612
+**Crawled:** 2025-09-25T00:03:48.327987
 
 ---
 

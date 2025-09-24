@@ -1,7 +1,7 @@
-# Milani – Prettyclick
+# La Girl – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/milani-1
-**Crawled:** 2025-09-24T23:45:09.036037
+**URL:** https://prettyclickcosmetics.com/collections/la-girl
+**Crawled:** 2025-09-25T00:03:09.071023
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-33 products
+53 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs1,960.00
+The highest price is Rs1,500.00
 
 From
 
@@ -67,11 +67,21 @@ Availability
 
 In stock
 
-33
+48
 
 Out of stock
 
-11
+23
+
+Body Mist
+
+Gold
+
+1
+
+Rose Gold
+
+1
 
 Apply
 
@@ -101,7 +111,7 @@ View as:
 
 Price
 
-The highest price is Rs1,960.00
+The highest price is Rs1,500.00
 
 From
 
@@ -119,11 +129,21 @@ Availability
 
 In stock
 
-33
+48
 
 Out of stock
 
-11
+23
+
+Body Mist
+
+Gold
+
+1
+
+Rose Gold
+
+1
 
 NEW
 
@@ -131,25 +151,25 @@ Shop Now
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Setting Spray
+BB Cream
 
-Milani 16HR Make It Dewy Setting Spray
+L.A. Girl Pro Bb Cream
 
 Regular price
 
-Rs1,480.00
+Rs825.00
 
 Sale price
 
-Rs1,480.00
+Rs825.00
 
 Regular price
 
-Rs1,850.00
+Rs1,100.00
 
 Unit price
 
@@ -157,7 +177,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -171,19 +191,19 @@ Compare
 
 Foundation
 
-Milani Conceal + Perfect 2 In One Foundation + Concealer
+L.A. Girl Pro Matte Foundation
 
 Regular price
 
-Rs1,400.00
+Rs1,200.00
 
 Sale price
 
-Rs1,400.00
+Rs1,200.00
 
 Regular price
 
-Rs1,750.00
+Rs1,600.00
 
 Unit price
 
@@ -199,93 +219,93 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
+
+Compare
+
+Foundation
+
+L.A. Girl Pro Coverage Illuminating Foundation
+
+Regular price
+
+Rs1,162.50
+
+Sale price
+
+Rs1,162.50
+
+Regular price
+
+Rs1,550.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Lipliner
+
+L.A. Girl Shockwave Nude Lip Liner Pencil
+
+Regular price
+
+Rs371.25
+
+Sale price
+
+Rs371.25
+
+Regular price
+
+Rs495.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
 
 Compare
 
 Mascara
 
-Milani Highly Rated Anti Gravity Mascara - 115
+L.A. Girl Volumatic Mascara
 
 Regular price
 
-Rs1,480.00
+Rs637.50
 
 Sale price
 
-Rs1,480.00
+Rs637.50
 
 Regular price
 
-Rs1,850.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-primer
-
-Milani Conceal + Perfect Blur Out Smoothing Primer 21g
-
-Regular price
-
-Rs1,960.00
-
-Sale price
-
-Rs1,960.00
-
-Regular price
-
-Rs2,450.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Powder
-
-Milani Conceal+Perfect Shine-Proof Powder
-
-Regular price
-
-Rs1,760.00
-
-Sale price
-
-Rs1,760.00
-
-Regular price
-
-Rs2,200.00
+Rs850.00
 
 Unit price
 
@@ -301,25 +321,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Eyeliner
+Setting Powder
 
-Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+L.A. Girl Pro face powder
 
 Regular price
 
-Rs1,200.00
+Rs862.50
 
 Sale price
 
-Rs1,200.00
+Rs862.50
 
 Regular price
 
-Rs1,500.00
+Rs1,150.00
 
 Unit price
 
@@ -327,7 +347,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -341,19 +361,19 @@ Compare
 
 Highlighter
 
-Milani Baked Highlighter
+L.A. Girl luminous glow highlighter
 
 Regular price
 
-Rs1,760.00
+Rs937.50
 
 Sale price
 
-Rs1,760.00
+Rs937.50
 
 Regular price
 
-Rs2,200.00
+Rs1,250.00
 
 Unit price
 
@@ -369,59 +389,25 @@ Choose your option
 
 Sale
 
-Add to cart
-
-Compare
-
-primer
-
-Milani No Pore Zone Mattifying Face Primer
-
-Regular price
-
-Rs1,400.00
-
-Sale price
-
-Rs1,400.00
-
-Regular price
-
-Rs1,750.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
 Choose options
 
 Compare
 
-Blush
+Concealer
 
-Milani Cheek Kiss Blush + Glow Liquid Blush 10ml
+L.A. Girl Pro Concealer
 
 Regular price
 
-Rs1,760.00
+Rs525.00
 
 Sale price
 
-Rs1,760.00
+Rs525.00
 
 Regular price
 
-Rs2,200.00
+Rs700.00
 
 Unit price
 
@@ -437,263 +423,25 @@ Choose your option
 
 Sale
 
-Add to cart
-
-Compare
-
-Lipstick
-
-Milani Color Statement Lipstick Matte Kiss 72
-
-Regular price
-
-Rs1,080.00
-
-Sale price
-
-Rs1,080.00
-
-Regular price
-
-Rs1,350.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Lipstick
-
-Milani Color Statement Lipstick Matte Dreamy 80
-
-Regular price
-
-Rs1,080.00
-
-Sale price
-
-Rs1,080.00
-
-Regular price
-
-Rs1,350.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
 Choose options
-
-Compare
-
-Lipstick
-
-Milani Color Fetish Hydrating Lip Stain
-
-Regular price
-
-Rs1,440.00
-
-Sale price
-
-Rs1,440.00
-
-Regular price
-
-Rs1,800.00
-
-Unit price
-
-/
-
-per
-
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Setting Spray
-
-Milani Make It Last Original - Natural Finish Setting Spray
-
-Regular price
-
-Rs1,480.00
-
-Sale price
-
-Rs1,480.00
-
-Regular price
-
-Rs1,850.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Blush
-
-Milani Cheek Kiss Cream Blush
-
-Regular price
-
-Rs1,400.00
-
-Sale price
-
-Rs1,400.00
-
-Regular price
-
-Rs1,750.00
-
-Unit price
-
-/
-
-per
-
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
 
 Compare
 
 Eyeliner
 
-Milani The Tank Waterproof Liquid Eyeliner Black
+L.A. Girl Pastel Dream Auto Liner
 
 Regular price
 
-Rs1,280.00
+Rs731.25
 
 Sale price
 
-Rs1,280.00
+Rs731.25
 
 Regular price
 
-Rs1,600.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Mascara
-
-Milani Highly Rated Lash Extensions Mascara
-
-Regular price
-
-Rs1,480.00
-
-Sale price
-
-Rs1,480.00
-
-Regular price
-
-Rs1,850.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Blush
-
-Milani Baked Blush
-
-Regular price
-
-Rs1,120.00
-
-Sale price
-
-Rs1,120.00
-
-Regular price
-
-Rs1,400.00
+Rs975.00
 
 Unit price
 
@@ -709,25 +457,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-primer
+Eyeshadow
 
-Milani Skin Quench Hydrating Face Primer
+L.A. Girl Keep it Playful Eyeshadow
 
 Regular price
 
-Rs1,400.00
+Rs787.50
 
 Sale price
 
-Rs1,400.00
+Rs787.50
 
 Regular price
 
-Rs1,750.00
+Rs1,050.00
 
 Unit price
 
@@ -735,7 +483,109 @@ Unit price
 
 per
 
-Add to cart
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Foundation
+
+L.A. Girl Pro Color Foundation Mixing Pigment
+
+Regular price
+
+Rs1,012.50
+
+Sale price
+
+Rs1,012.50
+
+Regular price
+
+Rs1,350.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sold out
+
+Choose options
+
+Compare
+
+Setting Spray
+
+L.A. Girl Shimmery Spray Finishing Spray For Face & Body
+
+Regular price
+
+Rs975.00
+
+Sale price
+
+Rs975.00
+
+Regular price
+
+Rs1,300.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Eyeliner
+
+L.A. Girl Shock Wave Metallic Eyeliner Pencil
+
+Regular price
+
+Rs731.25
+
+Sale price
+
+Rs731.25
+
+Regular price
+
+Rs975.00
+
+Unit price
+
+/
+
+per
+
+Choose options
 
 View details
 
@@ -749,19 +599,19 @@ Compare
 
 Brow Pomade
 
-Milani Stay Put Brow Color
+L.A. Girl Brow Pomade
 
 Regular price
 
-Rs1,200.00
+Rs900.00
 
 Sale price
 
-Rs1,200.00
+Rs900.00
 
 Regular price
 
-Rs1,500.00
+Rs1,200.00
 
 Unit price
 
@@ -770,6 +620,176 @@ Unit price
 per
 
 Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+primer
+
+L.A. Girl Pro Face Primer
+
+Regular price
+
+Rs843.75
+
+Sale price
+
+Rs843.75
+
+Regular price
+
+Rs1,125.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Blush
+
+L.A. Girl Rosy Glow Envy Bouncy Blush
+
+Regular price
+
+Rs1,087.50
+
+Sale price
+
+Rs1,087.50
+
+Regular price
+
+Rs1,450.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Eyeliner
+
+L.A. Girl Shockwave Eyeliner
+
+Regular price
+
+Rs525.00
+
+Sale price
+
+Rs525.00
+
+Regular price
+
+Rs700.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Setting Powder
+
+L.A. Girl Pro HD Setting Powder
+
+Regular price
+
+Rs900.00
+
+Sale price
+
+Rs900.00
+
+Regular price
+
+Rs1,200.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Eyeliner
+
+L.A. Girl Skinny Gel Eyeliner
+
+Regular price
+
+Rs412.50
+
+Sale price
+
+Rs412.50
+
+Regular price
+
+Rs550.00
+
+Unit price
+
+/
+
+per
+
+Sold out
 
 View details
 

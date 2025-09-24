@@ -1,7 +1,7 @@
-# Roc Skincare – Prettyclick
+# Body Mist – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/roc-skincare
-**Crawled:** 2025-09-24T23:45:04.771463
+**URL:** https://prettyclickcosmetics.com/collections/body-mist
+**Crawled:** 2025-09-25T00:04:05.076233
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-12 products
+14 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs3,750.00
+The highest price is Rs500.00
 
 From
 
@@ -67,11 +67,11 @@ Availability
 
 In stock
 
-7
+5
 
 Out of stock
 
-5
+9
 
 Apply
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs3,750.00
+The highest price is Rs500.00
 
 From
 
@@ -119,101 +119,37 @@ Availability
 
 In stock
 
-7
+5
 
 Out of stock
 
-5
+9
 
 NEW
 
 Shop Now
 
-Sold out
-
-Sold out
-
-Compare
-
-Eye Cream
-
-Roc Retinol Correction Line Smoothing Eye Cream
-
-Regular price
-
-Rs3,100.00
-
-Sale price
-
-Rs3,100.00
-
-Regular price
-
-Rs3,100.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Night Capsules
-
-Roc Retinol Correxion� Line Smoothing Night Serum Capsules
-
-Regular price
-
-Rs3,750.00
-
-Sale price
-
-Rs3,750.00
-
-Regular price
-
-Rs3,750.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
+Sale
 
 Add to cart
 
 Compare
 
-Moisturizer
+Body Mist
 
-Roc Multi Correxion� Revive + Glow Moisturizer
+SO…? Sweet Pea Body Mist 100ml
 
 Regular price
 
-Rs3,750.00
+Rs300.00
 
 Sale price
 
-Rs3,750.00
+Rs300.00
 
 Regular price
+
+Rs850.00
 
 Unit price
 
@@ -233,21 +169,21 @@ Sold out
 
 Compare
 
-Serum
+Body Mist
 
-Roc Retinol Correxion� Deep Wrinkle Serum
+SO…? Sweet Floral Body Mist 100ml
 
 Regular price
 
-Rs3,350.00
+Rs300.00
 
 Sale price
 
-Rs3,350.00
+Rs300.00
 
 Regular price
 
-Rs3,350.00
+Rs850.00
 
 Unit price
 
@@ -267,21 +203,21 @@ Add to cart
 
 Compare
 
-serum
+Body Mist
 
-Roc Multi Correxion? Hydrate & Plump Night Capsules
+SO…? Musk Body Mist 100ml
 
 Regular price
 
-Rs1,750.00
+Rs300.00
 
 Sale price
 
-Rs1,750.00
+Rs300.00
 
 Regular price
 
-Rs3,500.00
+Rs850.00
 
 Unit price
 
@@ -295,25 +231,27 @@ View details
 
 Choose your option
 
-Add to cart
+Sold out
+
+Sold out
 
 Compare
 
-Eye Cream
+Body Mist
 
-Roc Multi Correxion Even Tone+ Lift Eye Cream
+SO…? Peony Petals Body Mist 100ml
 
 Regular price
 
-Rs3,100.00
+Rs300.00
 
 Sale price
 
-Rs3,100.00
+Rs300.00
 
 Regular price
 
-Rs3,100.00
+Rs850.00
 
 Unit price
 
@@ -321,7 +259,109 @@ Unit price
 
 per
 
-Add to cart
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Body Mist
+
+SO…? Barcelona Babe Body Mist 200ml
+
+Regular price
+
+Rs500.00
+
+Sale price
+
+Rs500.00
+
+Regular price
+
+Rs1,250.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Body Mist
+
+SO…? Rainbow Sorbet Body Mist 100ml
+
+Regular price
+
+Rs300.00
+
+Sale price
+
+Rs300.00
+
+Regular price
+
+Rs850.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Body Mist
+
+SO…? Mykonos Nights Body Mist 200ml
+
+Regular price
+
+Rs500.00
+
+Sale price
+
+Rs500.00
+
+Regular price
+
+Rs1,250.00
+
+Unit price
+
+/
+
+per
+
+Sold out
 
 View details
 
@@ -333,21 +373,21 @@ Add to cart
 
 Compare
 
-Skincare
+Body Mist
 
-Roc Multi Correction Hydrate +Plump Eye Cream
+SO…? Caribbean Soul Body Mist 200ml
 
 Regular price
 
-Rs2,400.00
+Rs500.00
 
 Sale price
 
-Rs2,400.00
+Rs500.00
 
 Regular price
 
-Rs3,100.00
+Rs1,250.00
 
 Unit price
 
@@ -367,19 +407,21 @@ Sold out
 
 Compare
 
-Moisturizer
+Body Mist
 
-Roc Retinol Correxion� Deep Wrinkle Daily Moisturizer spf 30
+SO…? Pink Lemonade Body Mist 100ml
 
 Regular price
 
-Rs3,350.00
+Rs300.00
 
 Sale price
 
-Rs3,350.00
+Rs300.00
 
 Regular price
+
+Rs850.00
 
 Unit price
 
@@ -393,23 +435,27 @@ View details
 
 Choose your option
 
-Add to cart
+Sold out
+
+Sold out
 
 Compare
 
-Night Cream
+Body Mist
 
-Roc Multi Correction� 5 In 1 Even Tone + Lift Night Cream
+SO...? Hawaiian Honey Body Mist 200ml
 
 Regular price
 
-Rs3,750.00
+Rs500.00
 
 Sale price
 
-Rs3,750.00
+Rs500.00
 
 Regular price
+
+Rs1,250.00
 
 Unit price
 
@@ -417,61 +463,33 @@ Unit price
 
 per
 
-Add to cart
+Sold out
 
 View details
 
 Choose your option
 
-Add to cart
-
-Compare
-
-Cleanser
-
-Roc Multi Correxion� Revive + Glow Gel Cleanser
-
-Regular price
-
-Rs2,250.00
-
-Sale price
-
-Rs2,250.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
+Sale
 
 Add to cart
 
 Compare
 
-Moisturizer
+Body Mist
 
-Roc Multi Correxion Even Tone +Lift Daily Moisturizer Spf 30
+SO...? Seychelle Sands Body Mist 200ml
 
 Regular price
 
-Rs3,150.00
+Rs500.00
 
 Sale price
 
-Rs3,150.00
+Rs500.00
 
 Regular price
 
-Rs3,150.00
+Rs1,250.00
 
 Unit price
 
@@ -491,19 +509,21 @@ Sold out
 
 Compare
 
-Serum
+Body Mist
 
-Roc Revive + Glow Daily Serum
+SO…? Watermelon Body Mist 100ml
 
 Regular price
 
-Rs3,750.00
+Rs300.00
 
 Sale price
 
-Rs3,750.00
+Rs300.00
 
 Regular price
+
+Rs850.00
 
 Unit price
 
@@ -512,6 +532,74 @@ Unit price
 per
 
 Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Body Mist
+
+SO…? Majorca Love Body Mist 200ml
+
+Regular price
+
+Rs500.00
+
+Sale price
+
+Rs500.00
+
+Regular price
+
+Rs1,250.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Body Mist
+
+SO…? Cali Night Body Mist 200ml
+
+Regular price
+
+Rs500.00
+
+Sale price
+
+Rs500.00
+
+Regular price
+
+Rs1,250.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
 
 View details
 

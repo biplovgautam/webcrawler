@@ -1,9 +1,7 @@
-# Prettyclick Lip Cream - Petal
+# Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150 – Prettyclick
 
-*A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.*
-
-**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-petal
-**Crawled:** 2025-09-24T23:45:26.721665
+**URL:** https://prettyclickcosmetics.com/products/milani-stay-put-matte-17hr-wear-liquid-eyeliner
+**Crawled:** 2025-09-25T00:03:21.992279
 
 ---
 
@@ -15,25 +13,23 @@ Open media 1 in modal
 
 Open media 2 in modal
 
-Open media 3 in modal
-
 Save
 
-25%
+20%
 
-Prettyclick Lip Cream - Petal
+Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
 
-Prettyclick Lip Cream - Petal
+Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
 
 No reviews
 
 Vendor:
 
-Prettyclick
+Milani
 
 Type:
 
-Lip Cream
+Eyeliner
 
 PRETTYCLICK REWARD POINTS
 
@@ -41,15 +37,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs750.00
+Rs1,200.00
 
 Sale price
 
-Rs750.00
+Rs1,200.00
 
 Regular price
 
-Rs1,000.00
+Rs1,500.00
 
 Unit price
 
@@ -67,13 +63,11 @@ calculated at checkout.
 
 Available in stock
 
-A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.
-
 Quantity
 
-Decrease quantity for Prettyclick Lip Cream - Petal
+Decrease quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
 
-Increase quantity for Prettyclick Lip Cream - Petal
+Increase quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
 
 Add to cart
 
@@ -95,19 +89,19 @@ Share on X
 
 Pin on Pinterest
 
-Prettyclick Lip Cream - Petal
+Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
 
 Regular price
 
-Rs750.00
+Rs1,200.00
 
 Sale price
 
-Rs750.00
+Rs1,200.00
 
 Regular price
 
-Rs1,000.00
+Rs1,500.00
 
 Unit price
 
@@ -117,9 +111,9 @@ per
 
 Default Title
 
-Decrease quantity for Prettyclick Lip Cream - Petal
+Decrease quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
 
-Increase quantity for Prettyclick Lip Cream - Petal
+Increase quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
 
 Add to cart
 

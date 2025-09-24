@@ -10,7 +10,7 @@ import shutil
 import json
 from datetime import datetime
 
-CRAWL_DEPTH = 1  
+CRAWL_DEPTH = 1 
 ALLOWED_DOMAIN = ""  # Leave empty to crawl any domain
 PAGES_PER_SEED = 50
 MAX_PAGES = 200
@@ -75,11 +75,13 @@ class WebCrawler:
         self.crawled_pages = 0
         self.seed_pages = {}
         self.crawled_data = []  # Store page data for JSONL
+        self.seeds_list = []  # Track seeds order for indexing
         
     def load_seeds(self):
         try:
             with open(SEEDS_FILE, 'r') as f:
                 seeds = [line.strip() for line in f if line.strip()]
+                self.seeds_list = seeds  # Store seeds for indexing
                 for seed in seeds:
                     self.url_queue.append((seed, 0))  # (url, depth)
                     self.seed_pages[seed] = []
@@ -88,16 +90,23 @@ class WebCrawler:
         except FileNotFoundError:
             print(f"Warning: {SEEDS_FILE} not found, using default")
             default_seed = "https://example.com"
+            self.seeds_list = [default_seed]
             self.url_queue.append((default_seed, 0))
             self.seed_pages[default_seed] = []
             return 1
     
     def clean_output_dir(self):
-        """Clean existing MD files before starting new crawl"""
+        """Clean existing output files before starting new crawl"""
         try:
+            # Clean all output files
+            files_to_clean = [INDEX_FILE, FAILED_URLS_FILE]
+            for file_path in files_to_clean:
+                if os.path.exists(file_path):
+                    os.remove(file_path)
+            
             if os.path.exists(MDS_DIR):
                 shutil.rmtree(MDS_DIR)
-                print("✓ Cleaned existing MD files")
+                print("✓ Cleaned existing output files")
             
             os.makedirs(MDS_DIR, exist_ok=True)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -239,9 +248,11 @@ class WebCrawler:
     
     def save_jsonl_index(self):
         """Save crawled pages data to JSONL index file"""
+        if not self.crawled_data:
+            return
+            
         try:
-            index_path = os.path.join(OUTPUT_DIR, 'index.jsonl')
-            with open(index_path, 'w', encoding='utf-8') as f:
+            with open(INDEX_FILE, 'w', encoding='utf-8') as f:
                 for page_data in self.crawled_data:
                     json_line = json.dumps(page_data, ensure_ascii=False)
                     f.write(json_line + '\n')
@@ -251,10 +262,12 @@ class WebCrawler:
     
     def save_failed_urls(self):
         """Save failed URLs to file"""
+        if not self.failed_urls:
+            return
+            
         try:
-            failed_path = os.path.join(OUTPUT_DIR, 'failed_urls.txt')
-            with open(failed_path, 'w', encoding='utf-8') as f:
-                f.write(f"Failed URLs - {self.get_timestamp()}\n")
+            with open(FAILED_URLS_FILE, 'w', encoding='utf-8') as f:
+                f.write(f"Failed URLs - {datetime.now().isoformat()}\n")
                 f.write("=" * 50 + "\n\n")
                 for url, status in self.failed_urls:
                     f.write(f"{url} - {status}\n")
@@ -285,6 +298,11 @@ class WebCrawler:
         if content:
             self.crawled_pages += 1
             
+            # Find which seed this belongs to and get indexes
+            seed_url = self.find_seed_for_url(normalized_url)
+            seed_index = self.seeds_list.index(seed_url) if seed_url in self.seeds_list else 0
+            page_index = len(self.seed_pages[seed_url]) if seed_url else 0
+            
             # Extract and process content
             page_data = self.extract_content(content, normalized_url)
             
@@ -295,15 +313,15 @@ class WebCrawler:
             filename = self.url_to_filename(normalized_url)
             self.save_markdown(markdown, filename)
             
-            # Store data for JSONL index
+            # Store clean, minimal data for JSONL index
             page_data_jsonl = {
                 'url': normalized_url,
                 'title': page_data['title'],
-                'file_path': os.path.join(MDS_DIR, filename),
-                'timestamp': page_data['timestamp'],
-                'word_count': len(markdown.split()),
-                'domain': normalized_url.split('/')[2] if len(normalized_url.split('/')) > 2 else '',
-                'description': page_data['description']
+                'file_path': f"MDs/{filename}",
+                'page_index': f"{seed_index},{page_index},{depth}",
+                'domain': urlparse(normalized_url).netloc,
+                'word_count': len(page_data['content'].split()),
+                'timestamp': page_data['timestamp']
             }
             self.crawled_data.append(page_data_jsonl)
             

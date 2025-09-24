@@ -1,7 +1,7 @@
 # Foundation – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/collections/foundation
-**Crawled:** 2025-09-24T23:44:38.961441
+**Crawled:** 2025-09-25T00:03:41.030847
 
 ---
 

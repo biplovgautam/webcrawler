@@ -3,7 +3,7 @@
 *A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.*
 
 **URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-desire
-**Crawled:** 2025-09-24T23:44:59.134679
+**Crawled:** 2025-09-25T00:03:34.523364
 
 ---
 

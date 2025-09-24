@@ -1,9 +1,9 @@
-# Prettyclick Bullet Lipstick 3g: Ruby Flame
+# Prettyclick Bullet Lipstick 3g: Stunner
 
 *Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping it subtle, this lipstick is your go-to for all-d*
 
-**URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-ruby-flame
-**Crawled:** 2025-09-24T23:45:40.102852
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-stunner
+**Crawled:** 2025-09-25T00:03:57.148804
 
 ---
 
@@ -33,9 +33,9 @@ Save
 
 24%
 
-Prettyclick Bullet Lipstick 3g: Ruby Flame
+Prettyclick Bullet Lipstick 3g: Stunner
 
-Prettyclick Bullet Lipstick 3g: Ruby Flame
+Prettyclick Bullet Lipstick 3g: Stunner
 
 No reviews
 
@@ -91,9 +91,9 @@ Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense 
 
 Quantity
 
-Decrease quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
+Decrease quantity for Prettyclick Bullet Lipstick 3g: Stunner
 
-Increase quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
+Increase quantity for Prettyclick Bullet Lipstick 3g: Stunner
 
 Add to cart
 
@@ -115,7 +115,7 @@ Share on X
 
 Pin on Pinterest
 
-Prettyclick Bullet Lipstick 3g: Ruby Flame
+Prettyclick Bullet Lipstick 3g: Stunner
 
 Regular price
 
@@ -137,9 +137,9 @@ per
 
 Default Title
 
-Decrease quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
+Decrease quantity for Prettyclick Bullet Lipstick 3g: Stunner
 
-Increase quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
+Increase quantity for Prettyclick Bullet Lipstick 3g: Stunner
 
 Add to cart
 

@@ -3,7 +3,7 @@
 *13 Followers, 0 Following, 0 Posts - KIEC OFFICIAL PAGE (@kiecpage) on Instagram: "Official Page: https://kiec.edu.np"*
 
 **URL:** https://www.instagram.com/kiecpage
-**Crawled:** 2025-09-24T23:43:52.763991
+**Crawled:** 2025-09-25T00:02:24.911102
 
 ---
 

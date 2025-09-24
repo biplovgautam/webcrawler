@@ -3,7 +3,7 @@
 *About this item LONG-LASTING STAIN: Achieve a natural, just-bitten look with this lip liner stain that delivers a vibrant colour that lasts throughout the day PRECISION APPLICATOR: The blade-like applicator allows for effortless lining and defining of your lips, with a pointed tip for precise application and a flat sid*
 
 **URL:** https://prettyclickcosmetics.com/products/wet-n-wild-perfect-pout-lip-liner-stain-0-5ml
-**Crawled:** 2025-09-24T23:44:47.907726
+**Crawled:** 2025-09-25T00:03:23.383390
 
 ---
 

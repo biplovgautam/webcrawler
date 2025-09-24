@@ -3,7 +3,7 @@
 *You might want to take a seat before you swatch, because the Shockwave Lipliners will have you shook. Shockingly bold colors glide on creamy pigment with a full coverage finish that lasts up to 8 hours. Electrify your look with a vivid, statement lip from the Neon collection, or find your nude go-to lipliner from the N*
 
 **URL:** https://prettyclickcosmetics.com/products/la-girl-shock-wave-nude-lip-liner-pencil
-**Crawled:** 2025-09-24T23:45:10.453425
+**Crawled:** 2025-09-25T00:04:12.104722
 
 ---
 

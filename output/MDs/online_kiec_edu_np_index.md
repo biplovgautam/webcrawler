@@ -1,7 +1,7 @@
 # Login
 
 **URL:** https://online.kiec.edu.np/
-**Crawled:** 2025-09-24T23:43:46.575866
+**Crawled:** 2025-09-25T00:02:38.431341
 
 ---
 

@@ -3,7 +3,7 @@
 *Prettyclick Bullet Lipstick - Satin Matte Finish Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping*
 
 **URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-beloved
-**Crawled:** 2025-09-24T23:44:37.474039
+**Crawled:** 2025-09-25T00:04:15.178333
 
 ---
 

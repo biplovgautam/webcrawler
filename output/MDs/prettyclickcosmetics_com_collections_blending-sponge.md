@@ -1,7 +1,7 @@
-# Skin1004 – Prettyclick
+# Blending Sponge – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/skin1004
-**Crawled:** 2025-09-24T23:45:03.282069
+**URL:** https://prettyclickcosmetics.com/collections/blending-sponge
+**Crawled:** 2025-09-25T00:03:13.557482
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-25 products
+16 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs3,200.00
+The highest price is Rs2,450.00
 
 From
 
@@ -67,7 +67,7 @@ Availability
 
 In stock
 
-22
+13
 
 Out of stock
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs3,200.00
+The highest price is Rs2,450.00
 
 From
 
@@ -119,7 +119,7 @@ Availability
 
 In stock
 
-22
+13
 
 Out of stock
 
@@ -129,25 +129,55 @@ NEW
 
 Shop Now
 
+Sold out
+
+Sold out
+
+Compare
+
+Beauty Blender
+
+L.A.  Colors I'm Latex Free Blending Sponge
+
+Regular price
+
+Rs700.00
+
+Sale price
+
+Rs700.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
 Add to cart
 
 Compare
 
-Ampoule
+Blending Sponge
 
-Skin1OO4 Centella Probio-Cica Intensive Ampoule - 50 ml
+Cala Urban Studio Ultimate Blending Sponge- Black(76257)
 
 Regular price
 
-Rs2,500.00
+Rs650.00
 
 Sale price
 
-Rs2,500.00
+Rs650.00
 
 Regular price
-
-Rs2,500.00
 
 Unit price
 
@@ -165,21 +195,19 @@ Add to cart
 
 Compare
 
-Cream
+Beauty Blender
 
-Skin1004 Poremizing Light Gel Cream-75 ml
+Cala Urban Studio Ultimate Blending Sponge-Pink(76253)
 
 Regular price
 
-Rs2,400.00
+Rs650.00
 
 Sale price
 
-Rs2,400.00
+Rs650.00
 
 Regular price
-
-Rs2,400.00
 
 Unit price
 
@@ -197,21 +225,19 @@ Add to cart
 
 Compare
 
-Skincare
+Blending Sponge
 
-Skin1OO4 Hyalu Cica Blue Serum 30 ml
+Cala Urban Studio Ultimate Blending Sponge-Purple(76254)
 
 Regular price
 
-Rs1,925.00
+Rs650.00
 
 Sale price
 
-Rs1,925.00
+Rs650.00
 
 Regular price
-
-Rs1,925.00
 
 Unit price
 
@@ -225,26 +251,92 @@ View details
 
 Choose your option
 
+Sold out
+
+Sold out
+
+Compare
+
+Blending Sponge
+
+L.A. Colors Makeup Blending Sponge: Pink
+
+Regular price
+
+Rs390.00
+
+Sale price
+
+Rs390.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Choose options
+
+Compare
+
+Beauty Blender
+
+Cala Urban Studio Flawless Blend Sponges
+
+Regular price
+
+Rs1,200.00
+
+Sale price
+
+Rs1,200.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
 Add to cart
 
 Compare
 
-Skincare > Cleansing Oil
+Beauty Blender
 
-Skin1OO4 Light Cleansing Oil 30 ml
+Prettyclick Soft & High Resilience 5 Pcs Beauty Blender
+
+Regular price
+
+Rs500.00
+
+Sale price
+
+Rs500.00
 
 Regular price
 
 Rs950.00
 
-Sale price
-
-Rs950.00
-
-Regular price
-
-Rs950.00
-
 Unit price
 
 /
@@ -257,25 +349,27 @@ View details
 
 Choose your option
 
-Add to cart
+Sold out
+
+Sold out
 
 Compare
 
-Skincare
+Blending Sponge
 
-Skin1OO4 Light Cleansing Oil 200 ml
+BS Mall 11 Bamboo Premium Makeup Brushes & Sponge
 
 Regular price
 
-Rs3,200.00
+Rs2,450.00
 
 Sale price
 
-Rs3,200.00
+Rs2,450.00
 
 Regular price
 
-Rs3,200.00
+Rs2,450.00
 
 Unit price
 
@@ -283,7 +377,7 @@ Unit price
 
 per
 
-Add to cart
+Sold out
 
 View details
 
@@ -293,53 +387,19 @@ Add to cart
 
 Compare
 
-Sunscreen
+Blending Sponge
 
-Skin1OO4 Hyalu Cica Silky Fit Sun Stick 20g
+Cala Urban Studio Expert Blending Sponge
 
 Regular price
 
-Rs2,125.00
+Rs650.00
 
 Sale price
 
-Rs2,125.00
+Rs650.00
 
 Regular price
-
-Rs2,125.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Skincare
-
-Skin1OO4 Centella Ampoule 30ml
-
-Regular price
-
-Rs1,225.00
-
-Sale price
-
-Rs1,225.00
-
-Regular price
-
-Rs1,225.00
 
 Unit price
 
@@ -359,85 +419,21 @@ Add to cart
 
 Compare
 
-Toner
+Blending Sponge
 
-Skin1OO4 Centella Tone Brightening Capsule Ampoule 30ml
+Prettyclick The Complete Hd 3 Pcs Blender Sponge Set
 
 Regular price
 
-Rs1,445.00
+Rs300.00
 
 Sale price
 
-Rs1,445.00
+Rs300.00
 
 Regular price
 
-Rs1,700.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Skincare
-
-Skin1OO4 Centella Ampoule-55 ml
-
-Regular price
-
-Rs2,125.00
-
-Sale price
-
-Rs2,125.00
-
-Regular price
-
-Rs2,125.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Skincare
-
-Skin1OO4 Soothing Cream - 75 ml
-
-Regular price
-
-Rs2,525.00
-
-Sale price
-
-Rs2,525.00
-
-Regular price
-
-Rs2,525.00
+Rs650.00
 
 Unit price
 
@@ -457,21 +453,19 @@ Sold out
 
 Compare
 
-Skincare
+Blending Sponge
 
-Skin1OO4 Ampoule Foam 125 ml
+Duaiu 4 Pcs Blender Set
 
 Regular price
 
-Rs2,325.00
+Rs1,590.00
 
 Sale price
 
-Rs2,325.00
+Rs1,590.00
 
 Regular price
-
-Rs2,325.00
 
 Unit price
 
@@ -480,6 +474,36 @@ Unit price
 per
 
 Sold out
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Blending Sponge
+
+Cala Urban Studio Precision Blending Sponge -Orange (76251)
+
+Regular price
+
+Rs650.00
+
+Sale price
+
+Rs650.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
 
 View details
 
@@ -491,245 +515,111 @@ Add to cart
 
 Compare
 
-Ampoule
+Beauty Blender
 
-Skin1OO4 Centella Tone Brightening Capsule Ampoule 50ml
+Beauty Creations My Little Pony Reusable Cup With Blenders
 
 Regular price
 
-Rs1,785.00
+Rs1,000.00
 
 Sale price
 
-Rs1,785.00
-
-Regular price
-
-Rs2,100.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Sunscreen
-
-Skin1OO4 Centella Air Fit Sunscreen Light Spf 30 PA++++
-
-Regular price
-
-Rs2,225.00
-
-Sale price
-
-Rs2,225.00
-
-Regular price
-
-Rs2,225.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Facial Cleanser
-
-Skin1OO4 Poremizing Deep Cleansing Foam - 125 ml
-
-Regular price
-
-Rs2,025.00
-
-Sale price
-
-Rs2,025.00
-
-Regular price
-
-Rs2,025.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Cream
-
-Skin1OO4 Centella Probio-Cica Enrich Cream - 50 ml
-
-Regular price
-
-Rs2,650.00
-
-Sale price
-
-Rs2,650.00
-
-Regular price
-
-Rs2,650.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Eye Cream
-
-Skin1OO4 Centella Probio-Cica Bakuchiol Eye Cream - 20 ml
-
-Regular price
-
-Rs2,200.00
-
-Sale price
-
-Rs2,200.00
-
-Regular price
-
-Rs2,200.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Skincare
-
-Skin1OO4 Tone Brightening Capsule Cream - 75 ml
-
-Regular price
-
-Rs2,425.00
-
-Sale price
-
-Rs2,425.00
-
-Regular price
-
-Rs2,425.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Skin1OO4 Poremizing Light Gel Cream 75 ml
-
-Regular price
-
-Rs2,400.00
-
-Sale price
-
-Rs2,400.00
-
-Regular price
-
-Rs2,400.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Cream
-
-Skin1OO4 Centella Cream - 75 ml
+Rs1,000.00
 
 Regular price
 
 Rs2,000.00
 
-Sale price
+Unit price
 
-Rs2,000.00
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Blending Sponge
+
+Cala Urban Studio Gourd Pro Blending Sponge - Purple(76298)
 
 Regular price
 
-Rs2,000.00
+Rs650.00
+
+Sale price
+
+Rs650.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Blending Sponge
+
+Cala Urban Studio Precision Blending Sponge -Hot Pink (76252)
+
+Regular price
+
+Rs650.00
+
+Sale price
+
+Rs650.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Blending Sponge
+
+Cala Urban Studio Slanted Blending Sponge -Black (76296)
+
+Regular price
+
+Rs650.00
+
+Sale price
+
+Rs650.00
+
+Regular price
 
 Unit price
 

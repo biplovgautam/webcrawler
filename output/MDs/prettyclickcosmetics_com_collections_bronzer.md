@@ -1,7 +1,7 @@
-# Body Wash – Prettyclick
+# Bronzer – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/body-wash
-**Crawled:** 2025-09-24T23:44:52.363142
+**URL:** https://prettyclickcosmetics.com/collections/bronzer
+**Crawled:** 2025-09-25T00:03:26.177575
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-1 product
+3 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs600.00
+The highest price is Rs1,087.50
 
 From
 
@@ -67,7 +67,7 @@ Availability
 
 In stock
 
-0
+2
 
 Out of stock
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs600.00
+The highest price is Rs1,087.50
 
 From
 
@@ -119,7 +119,7 @@ Availability
 
 In stock
 
-0
+2
 
 Out of stock
 
@@ -135,21 +135,21 @@ Sold out
 
 Compare
 
-Body Wash
+Bronzer
 
-Dr Teals Body Wash Ginger & Clay 710ml
+The Balm Bahama Mama Bronzer
 
 Regular price
 
-Rs600.00
+Rs925.00
 
 Sale price
 
-Rs600.00
+Rs925.00
 
 Regular price
 
-Rs1,200.00
+Rs1,850.00
 
 Unit price
 
@@ -158,6 +158,74 @@ Unit price
 per
 
 Sold out
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Bronzer
+
+Wet n Wild Color Icon Bronzer - 11g
+
+Regular price
+
+Rs500.00
+
+Sale price
+
+Rs500.00
+
+Regular price
+
+Rs625.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Bronzer
+
+L.A. Girl Sunkissed Glow Envy Bouncy Bronzer
+
+Regular price
+
+Rs1,087.50
+
+Sale price
+
+Rs1,087.50
+
+Regular price
+
+Rs1,450.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
 
 View details
 

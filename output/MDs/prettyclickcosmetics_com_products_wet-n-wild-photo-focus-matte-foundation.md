@@ -1,9 +1,7 @@
-# Prettyclick Lip Cream - Mocha
+# Wet n Wild Photo Focus Matte Foundation – Prettyclick
 
-*A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone. Made in Korea*
-
-**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-mocha-1
-**Crawled:** 2025-09-24T23:44:57.746679
+**URL:** https://prettyclickcosmetics.com/products/wet-n-wild-photo-focus-matte-foundation
+**Crawled:** 2025-09-25T00:04:03.454970
 
 ---
 
@@ -21,23 +19,25 @@ Open media 4 in modal
 
 Open media 5 in modal
 
+Open media 6 in modal
+
 Save
 
-25%
+20%
 
-Prettyclick Lip Cream - Mocha
+Wet n Wild Photo Focus Matte Foundation
 
-Prettyclick Lip Cream - Mocha
+Wet n Wild Photo Focus Matte Foundation
 
 No reviews
 
 Vendor:
 
-Prettyclick
+Wet n wild
 
 Type:
 
-Lip Cream
+Foundation
 
 PRETTYCLICK REWARD POINTS
 
@@ -45,11 +45,11 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs750.00
+Rs800.00
 
 Sale price
 
-Rs750.00
+Rs800.00
 
 Regular price
 
@@ -71,15 +71,39 @@ calculated at checkout.
 
 Available in stock
 
-A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.
+Foundation Shades:
 
-Made in Korea
+Desert Beige
+
+Desert Beige
+
+Variant sold out or unavailable
+
+Classic Beige
+
+Variant sold out or unavailable
+
+Golden Beige
+
+Variant sold out or unavailable
+
+Soft Beige
+
+Variant sold out or unavailable
+
+Soft Ivory
+
+Variant sold out or unavailable
+
+Nude Ivory
+
+Variant sold out or unavailable
 
 Quantity
 
-Decrease quantity for Prettyclick Lip Cream - Mocha
+Decrease quantity for Wet n Wild Photo Focus Matte Foundation
 
-Increase quantity for Prettyclick Lip Cream - Mocha
+Increase quantity for Wet n Wild Photo Focus Matte Foundation
 
 Add to cart
 
@@ -101,15 +125,15 @@ Share on X
 
 Pin on Pinterest
 
-Prettyclick Lip Cream - Mocha
+Wet n Wild Photo Focus Matte Foundation
 
 Regular price
 
-Rs750.00
+Rs800.00
 
 Sale price
 
-Rs750.00
+Rs800.00
 
 Regular price
 
@@ -121,11 +145,21 @@ Unit price
 
 per
 
-Default Title
+Desert Beige
 
-Decrease quantity for Prettyclick Lip Cream - Mocha
+Classic Beige
 
-Increase quantity for Prettyclick Lip Cream - Mocha
+Golden Beige
+
+Soft Beige
+
+Soft Ivory
+
+Nude Ivory
+
+Decrease quantity for Wet n Wild Photo Focus Matte Foundation
+
+Increase quantity for Wet n Wild Photo Focus Matte Foundation
 
 Add to cart
 
