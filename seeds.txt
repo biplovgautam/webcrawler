@@ -1,5 +1,4 @@
-http://example.com
-http://example.org
-http://example.net
-http://example.edu
-http://example.io
+https://jeevee.com/
+http://kiec.edu.np/
+https://prettyclickcosmetics.com/
+https://www.tranquilityspa.com.np/
