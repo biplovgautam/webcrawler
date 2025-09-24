@@ -5,6 +5,9 @@ import aiohttp
 from urllib.parse import urljoin, urlparse
 from collections import deque
 from bs4 import BeautifulSoup
+import os
+import shutil
+from datetime import datetime
 
 CRAWL_DEPTH = 2  # Reduced to 2
 ALLOWED_DOMAIN = ""  # Leave empty to crawl any domain
@@ -18,7 +21,7 @@ BLOCKED_PAGES_FULL = {
 }
 
 BLOCK_PATTERNS = [
-    r".*\.(pdf|jpg|jpeg|png|gif|mp4|mp3|zip|exe)$",
+    r".*\.(pdf|jpg|jpeg|png|gif|mp4|mp3|zip|exe|css)$",
     r".*/wp-admin/.*",
     r".*/admin/.*", 
     r".*\?.*utm_.*",
@@ -86,6 +89,19 @@ class WebCrawler:
             self.url_queue.append((default_seed, 0))
             self.seed_pages[default_seed] = []
             return 1
+    
+    def clean_output_dir(self):
+        """Clean existing MD files before starting new crawl"""
+        try:
+            if os.path.exists(MDS_DIR):
+                shutil.rmtree(MDS_DIR)
+                print("✓ Cleaned existing MD files")
+            
+            os.makedirs(MDS_DIR, exist_ok=True)
+            os.makedirs(OUTPUT_DIR, exist_ok=True)
+            
+        except Exception as e:
+            print(f"Warning: Could not clean output directory: {e}")
         
     async def start_session(self):
         timeout = aiohttp.ClientTimeout(total=TIMEOUT)
@@ -137,7 +153,87 @@ class WebCrawler:
                 if self.is_valid_domain(normalized) and not self.is_blocked_url(normalized):
                     links.append(normalized)
         
-        return list(set(links))  # Remove duplicates
+        return list(set(links))
+    
+    def extract_content(self, html_content, url):
+        soup = BeautifulSoup(html_content, 'html.parser')
+        
+        # Remove unwanted elements
+        for element in soup(['script', 'style', 'nav', 'footer', 'aside', 'header']):
+            element.decompose()
+        
+        # Extract title
+        title_tag = soup.find('title')
+        title = title_tag.get_text(strip=True) if title_tag else self.url_to_title(url)
+        
+        # Extract meta description
+        meta_desc = soup.find('meta', {'name': 'description'})
+        description = meta_desc.get('content', '').strip() if meta_desc else ''
+        
+        # Find main content area
+        main_content = (soup.find('main') or 
+                       soup.find('article') or 
+                       soup.find('div', class_=re.compile('content|main', re.I)) or
+                       soup.body)
+        
+        if main_content:
+            # Get clean text content
+            content_text = main_content.get_text(separator='\n', strip=True)
+        else:
+            content_text = soup.get_text(separator='\n', strip=True)
+        
+        # Clean up content
+        lines = [line.strip() for line in content_text.split('\n') if line.strip()]
+        clean_content = '\n\n'.join(lines)
+        
+        return {
+            'title': title,
+            'description': description, 
+            'content': clean_content,
+            'url': url,
+            'timestamp': datetime.now().isoformat()
+        }
+    
+    def url_to_title(self, url):
+        parsed = urlparse(url)
+        path = parsed.path.strip('/').split('/')[-1] or 'Home'
+        return path.replace('-', ' ').replace('_', ' ').title()
+    
+    def url_to_filename(self, url):
+        parsed = urlparse(url)
+        domain = parsed.netloc.replace('.', '_').replace('www_', '')
+        path = parsed.path.strip('/').replace('/', '_') or 'index'
+        
+        # Clean filename
+        filename = f"{domain}_{path}"
+        filename = re.sub(r'[^\w\-_]', '_', filename)
+        filename = re.sub(r'_+', '_', filename).strip('_')
+        
+        return f"{filename[:100]}.md"  # Limit length
+    
+    def create_markdown(self, page_data):
+        markdown = f"# {page_data['title']}\n\n"
+        
+        if page_data['description']:
+            markdown += f"*{page_data['description']}*\n\n"
+        
+        markdown += f"**URL:** {page_data['url']}\n"
+        markdown += f"**Crawled:** {page_data['timestamp']}\n\n"
+        markdown += "---\n\n"
+        markdown += page_data['content']
+        
+        return markdown
+    
+    def save_markdown(self, content, filename):
+        try:
+            # Directory is already created in clean_output_dir()
+            filepath = os.path.join(MDS_DIR, filename)
+            
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(content)
+                
+        except Exception as e:
+            print(f"  Save error: {e}")  # Remove duplicates
     
     async def crawl_url(self, url, depth):
         if url in self.visited_urls or self.is_blocked_url(url):
@@ -162,15 +258,27 @@ class WebCrawler:
         if content:
             self.crawled_pages += 1
             
+            # Extract and process content
+            page_data = self.extract_content(content, normalized_url)
+            
+            # Create markdown content
+            markdown = self.create_markdown(page_data)
+            
+            # Save to file
+            filename = self.url_to_filename(normalized_url)
+            self.save_markdown(markdown, filename)
+            
             # Extract links for next depth level
             if depth < CRAWL_DEPTH:
                 discovered_links = self.extract_links(content, normalized_url)
-                print(f"  Found {len(discovered_links)} links")
+                print(f"  Found {len(discovered_links)} links | Saved: {filename}")
                 
                 # Add to queue for next depth
                 for link in discovered_links:
                     if link not in self.visited_urls:
                         self.url_queue.append((link, depth + 1))
+            else:
+                print(f"  Max depth reached | Saved: {filename}")
             
             await asyncio.sleep(REQUEST_DELAY)
         else:
@@ -181,6 +289,9 @@ class WebCrawler:
     
     async def crawl(self):
         await self.start_session()
+        
+        # Clean previous results
+        self.clean_output_dir()
         
         seed_count = self.load_seeds()
         print(f"Starting crawl with {seed_count} seeds\n")
@@ -225,7 +336,7 @@ if __name__ == "__main__":
     else:
         print("✓ Configuration valid\n")
         show_config()
-        print("\n✅ Step 3: URL Management System Test")
+        print("\n✅ Step 4: Content Processing & Conversion Test")
         
         crawler = WebCrawler()
         asyncio.run(crawler.crawl())
