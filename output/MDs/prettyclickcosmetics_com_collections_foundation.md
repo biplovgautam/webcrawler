@@ -1,7 +1,7 @@
-# Makeup Brush – Prettyclick
+# Foundation – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/makeup-brush
-**Crawled:** 2025-09-24T23:30:11.432886
+**URL:** https://prettyclickcosmetics.com/collections/foundation
+**Crawled:** 2025-09-24T23:44:38.961441
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-22 products
+20 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs3,500.00
+The highest price is Rs2,900.00
 
 From
 
@@ -67,11 +67,11 @@ Availability
 
 In stock
 
-9
+18
 
 Out of stock
 
-13
+8
 
 Apply
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs3,500.00
+The highest price is Rs2,900.00
 
 From
 
@@ -119,11 +119,11 @@ Availability
 
 In stock
 
-9
+18
 
 Out of stock
 
-13
+8
 
 NEW
 
@@ -135,21 +135,21 @@ Choose options
 
 Compare
 
-Makeup Brush
+Foundation
 
-Cala Eye Need It Essential Brush Kit
+L.A. Colors Truly Matte Long Wearing Foundation
 
 Regular price
 
-Rs600.00
+Rs405.00
 
 Sale price
 
-Rs600.00
+Rs405.00
 
 Regular price
 
-Rs1,200.00
+Rs675.00
 
 Unit price
 
@@ -165,361 +165,33 @@ Choose your option
 
 Sold out
 
-Sold out
+Choose options
 
 Compare
 
-Makeup Brush
+Foundation
 
-Cala Studio Master Concealer Brush-76306
+L.A. Colors Radiant Foundation
 
 Regular price
 
-Rs99.00
+Rs405.00
 
 Sale price
 
-Rs99.00
-
-Regular price
-
-Rs450.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-Prettyclick 5 Pcs Makeup Brush Set
-
-Regular price
-
-Rs250.00
-
-Sale price
-
-Rs250.00
-
-Regular price
-
-Rs550.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-Cala Blending Brush-76311
-
-Regular price
-
-Rs187.50
-
-Sale price
-
-Rs187.50
-
-Regular price
-
-Rs375.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-Cala Fan Brush-76305
-
-Regular price
-
-Rs225.00
-
-Sale price
-
-Rs225.00
-
-Regular price
-
-Rs450.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-La Colors Large Powder Brush
-
-Regular price
-
-Rs475.00
-
-Sale price
-
-Rs475.00
-
-Regular price
-
-Rs950.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-La Colors Blush Brush
-
-Regular price
-
-Rs725.00
-
-Sale price
-
-Rs725.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-La Colors Flat Kabuki Brush
-
-Regular price
-
-Rs487.50
-
-Sale price
-
-Rs487.50
-
-Regular price
-
-Rs975.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-L.A. Colors Pro Series Duo Brow & Liner Brush
+Rs405.00
 
 Regular price
 
 Rs675.00
 
-Sale price
-
-Rs675.00
-
-Regular price
-
 Unit price
 
 /
 
 per
 
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-Cala Studio Master Angled Contour Brush-76302
-
-Regular price
-
-Rs750.00
-
-Sale price
-
-Rs750.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-Cala Studio Master Deluxe Powder Brush-76301
-
-Regular price
-
-Rs1,000.00
-
-Sale price
-
-Rs1,000.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Makeup Brush
-
-L.A. Colors Pro Series Duo Eyeshadow Brush
-
-Regular price
-
-Rs675.00
-
-Sale price
-
-Rs675.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
+Choose options
 
 View details
 
@@ -527,25 +199,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Makeup Brush
+Foundation
 
-L.A. Colors Eyeshadow Shader Brush
+L.A. Girl Pro Matte Foundation
 
 Regular price
 
-Rs350.00
+Rs1,200.00
 
 Sale price
 
-Rs350.00
+Rs1,200.00
 
 Regular price
 
-Rs700.00
+Rs1,600.00
 
 Unit price
 
@@ -553,7 +225,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -561,25 +233,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Makeup Brush
+Foundation
 
-Real Techniques Enhanced Eye Set
+Milani Conceal + Perfect 2 In One Foundation + Concealer
 
 Regular price
 
-Rs1,100.00
+Rs1,400.00
 
 Sale price
 
-Rs1,100.00
+Rs1,400.00
 
 Regular price
 
-Rs2,200.00
+Rs1,750.00
 
 Unit price
 
@@ -587,7 +259,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -595,21 +267,89 @@ Choose your option
 
 Sold out
 
-Sold out
+Choose options
 
 Compare
 
-Makeup Brush
+Foundation
 
-Cala Urban Studio Illusion Eye Defining Set
+Makeup Revolution Fast Base Stick Foundation
 
 Regular price
 
-Rs499.00
+Rs650.00
 
 Sale price
 
-Rs499.00
+Rs650.00
+
+Regular price
+
+Rs1,300.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Foundation
+
+L.A. Girl Pro Color Foundation Mixing Pigment
+
+Regular price
+
+Rs1,012.50
+
+Sale price
+
+Rs1,012.50
+
+Regular price
+
+Rs1,350.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Foundation
+
+L.A. Girl Pro Coverage Illuminating Foundation
+
+Regular price
+
+Rs1,162.50
+
+Sale price
+
+Rs1,162.50
 
 Regular price
 
@@ -621,7 +361,7 @@ Unit price
 
 per
 
-Sold out
+Choose options
 
 View details
 
@@ -629,25 +369,23 @@ Choose your option
 
 Sold out
 
-Sold out
+Choose options
 
 Compare
 
-Makeup Brush
+Foundation
 
-Alix Avien Paris Contour Brush
+Elf Halo Glow Liquid Filter Foundation
 
 Regular price
 
-Rs525.00
+Rs2,900.00
 
 Sale price
 
-Rs525.00
+Rs2,900.00
 
 Regular price
-
-Rs1,050.00
 
 Unit price
 
@@ -655,41 +393,7 @@ Unit price
 
 per
 
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Makeup Brush
-
-Alix Avien Paris Foundation Brush
-
-Regular price
-
-Rs550.00
-
-Sale price
-
-Rs550.00
-
-Regular price
-
-Rs1,100.00
-
-Unit price
-
-/
-
-per
-
-Sold out
+Choose options
 
 View details
 
@@ -697,25 +401,89 @@ Choose your option
 
 Sale
 
+Choose options
+
+Compare
+
+Foundation
+
+Wet n Wild Photo Focus Dewy Foundation
+
+Regular price
+
+Rs800.00
+
+Sale price
+
+Rs800.00
+
+Regular price
+
+Rs1,000.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Foundation
+
+Wet n Wild Photo Focus Matte Foundation
+
+Regular price
+
+Rs800.00
+
+Sale price
+
+Rs800.00
+
+Regular price
+
+Rs1,000.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
 Add to cart
 
 Compare
 
-Makeup Brush
+Foundation
 
-L.A. Colors Angled Eyeshadow Brush
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Fair 1
 
 Regular price
 
-Rs200.00
+Rs1,400.00
 
 Sale price
 
-Rs200.00
+Rs1,400.00
 
 Regular price
-
-Rs400.00
 
 Unit price
 
@@ -729,23 +497,21 @@ View details
 
 Choose your option
 
-Sold out
-
-Sold out
+Add to cart
 
 Compare
 
-Makeup Brush
+Foundation
 
-Cala Studio Master Foundation Brush
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Medium 5
 
 Regular price
 
-Rs750.00
+Rs1,400.00
 
 Sale price
 
-Rs750.00
+Rs1,400.00
 
 Regular price
 
@@ -755,7 +521,217 @@ Unit price
 
 per
 
-Sold out
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Foundation
+
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Tan 3
+
+Regular price
+
+Rs1,400.00
+
+Sale price
+
+Rs1,400.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Foundation
+
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Light 3
+
+Regular price
+
+Rs1,400.00
+
+Sale price
+
+Rs1,400.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Foundation
+
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Medium 1
+
+Regular price
+
+Rs1,400.00
+
+Sale price
+
+Rs1,400.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Choose options
+
+Compare
+
+Foundation
+
+Beauty Creations Flawless Stay Foundation
+
+Regular price
+
+Rs1,550.00
+
+Sale price
+
+Rs1,550.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Foundation
+
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Light 200
+
+Regular price
+
+Rs2,400.00
+
+Sale price
+
+Rs2,400.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Foundation
+
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Fair 100
+
+Regular price
+
+Rs2,400.00
+
+Sale price
+
+Rs2,400.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Foundation
+
+Profusion Cosmetics Feel Good Skin Long Wear Skin Perfector 30ml- Medium 320
+
+Regular price
+
+Rs2,400.00
+
+Sale price
+
+Rs2,400.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
 
 View details
 

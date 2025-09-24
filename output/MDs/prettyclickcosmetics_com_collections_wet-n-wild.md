@@ -1,7 +1,7 @@
-# Cosrx – Prettyclick
+# Wet and Wild – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/cosrx
-**Crawled:** 2025-09-24T23:30:17.803165
+**URL:** https://prettyclickcosmetics.com/collections/wet-n-wild
+**Crawled:** 2025-09-24T23:45:21.163477
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-33 products
+58 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs3,570.00
+The highest price is Rs840.00
 
 From
 
@@ -67,11 +67,11 @@ Availability
 
 In stock
 
-26
+48
 
 Out of stock
 
-7
+21
 
 Apply
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs3,570.00
+The highest price is Rs840.00
 
 From
 
@@ -119,11 +119,11 @@ Availability
 
 In stock
 
-26
+48
 
 Out of stock
 
-7
+21
 
 NEW
 
@@ -135,21 +135,21 @@ Add to cart
 
 Compare
 
-Sunscreen
+Palette
 
-Cosrx Aloe Soothing Sun Cream SPF50+ PA+++
+Wet n Wild Megaglo Contour Palette - Dulce De Leche
 
 Regular price
 
-Rs1,400.00
+Rs512.00
 
 Sale price
 
-Rs1,400.00
+Rs512.00
 
 Regular price
 
-Rs2,000.00
+Rs640.00
 
 Unit price
 
@@ -169,21 +169,225 @@ Add to cart
 
 Compare
 
-serum
+Brow Gel
 
-Cosrx The Niacinamide 15 Serum
+Wet n Wild Mega Stay Extreme Hold Brow Gel 5.6ml
 
 Regular price
 
-Rs2,025.00
+Rs520.00
 
 Sale price
 
-Rs2,025.00
+Rs520.00
 
 Regular price
 
-Rs2,250.00
+Rs650.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Highlighter
+
+Wet n Wild Megaglo Vitamin E Makeup Highlight Stick 6 g
+
+Regular price
+
+Rs620.00
+
+Sale price
+
+Rs620.00
+
+Regular price
+
+Rs775.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+primer
+
+Wet n Wild Prime Focus Primer Serum 30ml
+
+Regular price
+
+Rs840.00
+
+Sale price
+
+Rs840.00
+
+Regular price
+
+Rs1,050.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Lip Liner
+
+Wet n Wild Perfect Pout Lip Liner Stain 0.5ml
+
+Regular price
+
+Rs560.00
+
+Sale price
+
+Rs560.00
+
+Regular price
+
+Rs700.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Foundation
+
+Wet n Wild Photo Focus Matte Foundation
+
+Regular price
+
+Rs800.00
+
+Sale price
+
+Rs800.00
+
+Regular price
+
+Rs1,000.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+corrector
+
+Wet N Wild Photo Focus Care Color Corrector
+
+Regular price
+
+Rs240.00
+
+Sale price
+
+Rs240.00
+
+Regular price
+
+Rs300.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Liquid Eyeliner
+
+Wet n Wild Breakup Proof Liquid Eyeliner - 0.9 ml
+
+Regular price
+
+Rs680.00
+
+Sale price
+
+Rs680.00
+
+Regular price
+
+Rs850.00
 
 Unit price
 
@@ -203,21 +407,259 @@ Add to cart
 
 Compare
 
-Power Essence
+Lip Balm
 
-Cosrx Advanced Snail 96 Mucin Power Essence
+Lippy Pals Unicorn Frosting
 
 Regular price
 
-Rs2,100.00
+Rs320.00
 
 Sale price
 
-Rs2,100.00
+Rs320.00
 
 Regular price
 
-Rs2,700.00
+Rs400.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Lip Oil
+
+Wet n Wild Lip Oil 7.11ml
+
+Regular price
+
+Rs680.00
+
+Sale price
+
+Rs680.00
+
+Regular price
+
+Rs850.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Lipstick
+
+Wet n Wild Megalast Matte Lipstick
+
+Regular price
+
+Rs399.20
+
+Sale price
+
+Rs399.20
+
+Regular price
+
+Rs499.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Mascara
+
+Wet n Wild Big Poppa Mascara 10ml
+
+Regular price
+
+Rs680.00
+
+Sale price
+
+Rs680.00
+
+Regular price
+
+Rs850.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Lip Mousse
+
+Wet n Wild Cloud Pout Marshmallow Lip Mousse - 3 ml
+
+Regular price
+
+Rs196.00
+
+Sale price
+
+Rs196.00
+
+Regular price
+
+Rs245.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Concealer
+
+Wet N Wild Megalast Incognito All Day Full Coverage Concealer
+
+Regular price
+
+Rs480.00
+
+Sale price
+
+Rs480.00
+
+Regular price
+
+Rs600.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+Wet n Wild Eyeshadow Single
+
+Regular price
+
+Rs220.00
+
+Sale price
+
+Rs220.00
+
+Regular price
+
+Rs275.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Brush
+
+Wet n Wild Large Eyeshadow Brush
+
+Regular price
+
+Rs220.00
+
+Sale price
+
+Rs220.00
+
+Regular price
+
+Rs275.00
 
 Unit price
 
@@ -237,21 +679,21 @@ Add to cart
 
 Compare
 
-Cleanser
+Brow
 
-Cosrx Low pH Good Morning Gel Cleanser 150ml
+Wet n Wild Ultimate Brow Kit Ash Brown
 
 Regular price
 
-Rs1,405.00
+Rs640.00
 
 Sale price
 
-Rs1,405.00
+Rs640.00
 
 Regular price
 
-Rs1,650.00
+Rs800.00
 
 Unit price
 
@@ -267,25 +709,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Eye Cream
+Powder
 
-Cosrx Advanced Snail Peptide Eye Cream
+Wet n Wild Megaglo Highlighting Powder - 5.4 g
 
 Regular price
 
-Rs2,380.00
+Rs620.00
 
 Sale price
 
-Rs2,380.00
+Rs620.00
 
 Regular price
 
-Rs2,800.00
+Rs775.00
 
 Unit price
 
@@ -293,415 +735,7 @@ Unit price
 
 per
 
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Toner
-
-Cosrx Full Fit Propolis Synergy Toner 150 ml
-
-Regular price
-
-Rs1,820.00
-
-Sale price
-
-Rs1,820.00
-
-Regular price
-
-Rs2,600.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-serum
-
-Cosrx The Hyaluronic Acid 3 Serum
-
-Regular price
-
-Rs1,935.00
-
-Sale price
-
-Rs1,935.00
-
-Regular price
-
-Rs2,150.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Power Essence
-
-Cosrx Hyaluronic Acid Hydra Power Essence
-
-Regular price
-
-Rs2,295.00
-
-Sale price
-
-Rs2,295.00
-
-Regular price
-
-Rs2,700.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Toner
-
-Cosrx Refresh AHA/BHA Vitamin C Daily Toner 150 ml
-
-Regular price
-
-Rs2,125.00
-
-Sale price
-
-Rs2,125.00
-
-Regular price
-
-Rs2,500.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cosrx Full Fit Propolis Light Cream
-
-Regular price
-
-Rs3,570.00
-
-Sale price
-
-Rs3,570.00
-
-Regular price
-
-Rs4,200.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Power Essence
-
-Cosrx AHA 7 Whitehead Power Liquid 100ml
-
-Regular price
-
-Rs1,870.00
-
-Sale price
-
-Rs1,870.00
-
-Regular price
-
-Rs2,200.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Power Essence
-
-Cosrx Two in One Poreless Power Liquid
-
-Regular price
-
-Rs2,358.00
-
-Sale price
-
-Rs2,358.00
-
-Regular price
-
-Rs2,775.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-serum
-
-Cosrx Full Fit Propolis Light Ampoule 30 ml
-
-Regular price
-
-Rs3,230.00
-
-Sale price
-
-Rs3,230.00
-
-Regular price
-
-Rs3,800.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Skincare
-
-Cosrx All About Snail Kit
-
-Regular price
-
-Rs2,550.00
-
-Sale price
-
-Rs2,550.00
-
-Regular price
-
-Rs3,000.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Power Essence
-
-Cosrx Advanced Snail Radiance Dual Essence
-
-Regular price
-
-Rs3,400.00
-
-Sale price
-
-Rs3,400.00
-
-Regular price
-
-Rs4,000.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Face mask
-
-Cosrx Ultimate Nourishing Rice Overnight Spa Mask
-
-Regular price
-
-Rs1,750.00
-
-Sale price
-
-Rs1,750.00
-
-Regular price
-
-Rs2,500.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Power Essence
-
-Cosrx BHA Blackhead Power Liquid 100ml
-
-Regular price
-
-Rs2,380.00
-
-Sale price
-
-Rs2,380.00
-
-Regular price
-
-Rs2,800.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
+Choose options
 
 View details
 
@@ -709,25 +743,25 @@ Choose your option
 
 Sold out
 
-Sold out
+Choose options
 
 Compare
 
-Cream
+Powder
 
-Cosrx Balancium Comfort Ceramide Cream - 80g
+Wet n Wild Bare Focus Clarifying Finishing Powder
 
 Regular price
 
-Rs2,465.00
+Rs480.00
 
 Sale price
 
-Rs2,465.00
+Rs480.00
 
 Regular price
 
-Rs2,900.00
+Rs600.00
 
 Unit price
 
@@ -735,41 +769,7 @@ Unit price
 
 per
 
-Sold out
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Mask
-
-Cosrx Propolis Honey Overnight Mask 60ml
-
-Regular price
-
-Rs1,820.00
-
-Sale price
-
-Rs1,820.00
-
-Regular price
-
-Rs2,600.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
+Choose options
 
 View details
 

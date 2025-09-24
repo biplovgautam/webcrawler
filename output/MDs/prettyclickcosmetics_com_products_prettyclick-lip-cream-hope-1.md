@@ -1,7 +1,9 @@
-# Wet n Wild Photo Focus Matte Foundation – Prettyclick
+# Prettyclick Lip Cream- Hope
 
-**URL:** https://prettyclickcosmetics.com/products/wet-n-wild-photo-focus-matte-foundation
-**Crawled:** 2025-09-24T23:30:22.431723
+*A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone. Made in Korea*
+
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-hope-1
+**Crawled:** 2025-09-24T23:44:41.683208
 
 ---
 
@@ -23,21 +25,21 @@ Open media 6 in modal
 
 Save
 
-20%
+25%
 
-Wet n Wild Photo Focus Matte Foundation
+Prettyclick Lip Cream- Hope
 
-Wet n Wild Photo Focus Matte Foundation
+Prettyclick Lip Cream- Hope
 
 No reviews
 
 Vendor:
 
-Wet n wild
+Prettyclick
 
 Type:
 
-Foundation
+Lip Cream
 
 PRETTYCLICK REWARD POINTS
 
@@ -45,11 +47,11 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs800.00
+Rs750.00
 
 Sale price
 
-Rs800.00
+Rs750.00
 
 Regular price
 
@@ -71,39 +73,15 @@ calculated at checkout.
 
 Available in stock
 
-Foundation Shades:
+A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.
 
-Desert Beige
-
-Desert Beige
-
-Variant sold out or unavailable
-
-Classic Beige
-
-Variant sold out or unavailable
-
-Golden Beige
-
-Variant sold out or unavailable
-
-Soft Beige
-
-Variant sold out or unavailable
-
-Soft Ivory
-
-Variant sold out or unavailable
-
-Nude Ivory
-
-Variant sold out or unavailable
+Made in Korea
 
 Quantity
 
-Decrease quantity for Wet n Wild Photo Focus Matte Foundation
+Decrease quantity for Prettyclick Lip Cream- Hope
 
-Increase quantity for Wet n Wild Photo Focus Matte Foundation
+Increase quantity for Prettyclick Lip Cream- Hope
 
 Add to cart
 
@@ -125,15 +103,15 @@ Share on X
 
 Pin on Pinterest
 
-Wet n Wild Photo Focus Matte Foundation
+Prettyclick Lip Cream- Hope
 
 Regular price
 
-Rs800.00
+Rs750.00
 
 Sale price
 
-Rs800.00
+Rs750.00
 
 Regular price
 
@@ -145,21 +123,11 @@ Unit price
 
 per
 
-Desert Beige
+Default Title
 
-Classic Beige
+Decrease quantity for Prettyclick Lip Cream- Hope
 
-Golden Beige
-
-Soft Beige
-
-Soft Ivory
-
-Nude Ivory
-
-Decrease quantity for Wet n Wild Photo Focus Matte Foundation
-
-Increase quantity for Wet n Wild Photo Focus Matte Foundation
+Increase quantity for Prettyclick Lip Cream- Hope
 
 Add to cart
 

@@ -1,9 +1,9 @@
-# Prettyclick Bullet Lipstick 3g: Beloved
+# Prettyclick Bullet Lipstick 3g: Ruby Flame
 
-*Prettyclick Bullet Lipstick - Satin Matte Finish Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping*
+*Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping it subtle, this lipstick is your go-to for all-d*
 
-**URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-beloved
-**Crawled:** 2025-09-24T23:44:37.474039
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-ruby-flame
+**Crawled:** 2025-09-24T23:45:40.102852
 
 ---
 
@@ -29,27 +29,13 @@ Open media 8 in modal
 
 Open media 9 in modal
 
-Open media 10 in modal
-
-Open media 11 in modal
-
-Open media 12 in modal
-
-Open media 13 in modal
-
-Open media 14 in modal
-
-Open media 15 in modal
-
-Open media 16 in modal
-
 Save
 
 24%
 
-Prettyclick Bullet Lipstick 3g: Beloved
+Prettyclick Bullet Lipstick 3g: Ruby Flame
 
-Prettyclick Bullet Lipstick 3g: Beloved
+Prettyclick Bullet Lipstick 3g: Ruby Flame
 
 No reviews
 
@@ -93,8 +79,6 @@ calculated at checkout.
 
 Available in stock
 
-Prettyclick Bullet Lipstick - Satin Matte Finish
-
 Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping it subtle, this lipstick is your go-to for all-day comfort and confidence. Available in a range of flattering shades to match every mood and moment.
 
 ✔ Highly pigmented
@@ -103,13 +87,13 @@ Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense 
 
 ✔ Smooth and even application
 
-✔ Perfect for everyday wear or glam looks
+✔ Perfect for everyday wear or glam looks
 
 Quantity
 
-Decrease quantity for Prettyclick Bullet Lipstick 3g: Beloved
+Decrease quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
 
-Increase quantity for Prettyclick Bullet Lipstick 3g: Beloved
+Increase quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
 
 Add to cart
 
@@ -131,7 +115,7 @@ Share on X
 
 Pin on Pinterest
 
-Prettyclick Bullet Lipstick 3g: Beloved
+Prettyclick Bullet Lipstick 3g: Ruby Flame
 
 Regular price
 
@@ -153,9 +137,9 @@ per
 
 Default Title
 
-Decrease quantity for Prettyclick Bullet Lipstick 3g: Beloved
+Decrease quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
 
-Increase quantity for Prettyclick Bullet Lipstick 3g: Beloved
+Increase quantity for Prettyclick Bullet Lipstick 3g: Ruby Flame
 
 Add to cart
 

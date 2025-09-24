@@ -1,7 +1,7 @@
 # Shipping policy – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/policies/shipping-policy
-**Crawled:** 2025-09-24T23:30:46.042460
+**Crawled:** 2025-09-24T23:44:56.263973
 
 ---
 

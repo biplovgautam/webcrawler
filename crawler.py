@@ -7,9 +7,10 @@ from collections import deque
 from bs4 import BeautifulSoup
 import os
 import shutil
+import json
 from datetime import datetime
 
-CRAWL_DEPTH = 2  # Reduced to 2
+CRAWL_DEPTH = 1  
 ALLOWED_DOMAIN = ""  # Leave empty to crawl any domain
 PAGES_PER_SEED = 50
 MAX_PAGES = 200
@@ -73,6 +74,7 @@ class WebCrawler:
         self.failed_urls = []
         self.crawled_pages = 0
         self.seed_pages = {}
+        self.crawled_data = []  # Store page data for JSONL
         
     def load_seeds(self):
         try:
@@ -235,6 +237,31 @@ class WebCrawler:
         except Exception as e:
             print(f"  Save error: {e}")  # Remove duplicates
     
+    def save_jsonl_index(self):
+        """Save crawled pages data to JSONL index file"""
+        try:
+            index_path = os.path.join(OUTPUT_DIR, 'index.jsonl')
+            with open(index_path, 'w', encoding='utf-8') as f:
+                for page_data in self.crawled_data:
+                    json_line = json.dumps(page_data, ensure_ascii=False)
+                    f.write(json_line + '\n')
+            print(f"✓ Created index.jsonl with {len(self.crawled_data)} entries")
+        except Exception as e:
+            print(f"Error creating index.jsonl: {e}")
+    
+    def save_failed_urls(self):
+        """Save failed URLs to file"""
+        try:
+            failed_path = os.path.join(OUTPUT_DIR, 'failed_urls.txt')
+            with open(failed_path, 'w', encoding='utf-8') as f:
+                f.write(f"Failed URLs - {self.get_timestamp()}\n")
+                f.write("=" * 50 + "\n\n")
+                for url, status in self.failed_urls:
+                    f.write(f"{url} - {status}\n")
+            print(f"✓ Saved {len(self.failed_urls)} failed URLs")
+        except Exception as e:
+            print(f"Error saving failed URLs: {e}")
+    
     async def crawl_url(self, url, depth):
         if url in self.visited_urls or self.is_blocked_url(url):
             return []
@@ -267,6 +294,18 @@ class WebCrawler:
             # Save to file
             filename = self.url_to_filename(normalized_url)
             self.save_markdown(markdown, filename)
+            
+            # Store data for JSONL index
+            page_data_jsonl = {
+                'url': normalized_url,
+                'title': page_data['title'],
+                'file_path': os.path.join(MDS_DIR, filename),
+                'timestamp': page_data['timestamp'],
+                'word_count': len(markdown.split()),
+                'domain': normalized_url.split('/')[2] if len(normalized_url.split('/')) > 2 else '',
+                'description': page_data['description']
+            }
+            self.crawled_data.append(page_data_jsonl)
             
             # Extract links for next depth level
             if depth < CRAWL_DEPTH:
@@ -312,6 +351,10 @@ class WebCrawler:
         
         await self.close_session()
         
+        # Save output files
+        self.save_jsonl_index()
+        self.save_failed_urls()
+        
         print(f"\nCrawl completed:")
         print(f"Total pages crawled: {self.crawled_pages}")
         print(f"Failed URLs: {len(self.failed_urls)}")
@@ -336,7 +379,7 @@ if __name__ == "__main__":
     else:
         print("✓ Configuration valid\n")
         show_config()
-        print("\n✅ Step 4: Content Processing & Conversion Test")
+        print("\n✅ Step 5: File Output System Test")
         
         crawler = WebCrawler()
         asyncio.run(crawler.crawl())

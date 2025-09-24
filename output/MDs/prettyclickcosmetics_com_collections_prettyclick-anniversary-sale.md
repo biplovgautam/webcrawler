@@ -1,7 +1,7 @@
 # Dashain Ayo Prettyclick le Offer Lyayo
 
 **URL:** https://prettyclickcosmetics.com/collections/prettyclick-anniversary-sale
-**Crawled:** 2025-09-24T23:30:37.662249
+**Crawled:** 2025-09-24T23:44:50.989941
 
 ---
 

@@ -1,7 +1,9 @@
-# Kundal Honey & Macadamia Premium Hair Treatment 500ml - White Musk – Prettyclick
+# Prettyclick Lip Cream - Petal
 
-**URL:** https://prettyclickcosmetics.com/products/kundal-honey-macadamia-premium-hair-treatment-500ml-white-musk
-**Crawled:** 2025-09-24T23:29:47.002556
+*A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.*
+
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-petal
+**Crawled:** 2025-09-24T23:45:26.721665
 
 ---
 
@@ -11,23 +13,27 @@ Open media 0 in modal
 
 Open media 1 in modal
 
+Open media 2 in modal
+
+Open media 3 in modal
+
 Save
 
-12%
+25%
 
-Kundal Honey & Macadamia Premium Hair Treatment 500ml - White Musk
+Prettyclick Lip Cream - Petal
 
-Kundal Honey & Macadamia Premium Hair Treatment 500ml - White Musk
+Prettyclick Lip Cream - Petal
 
 No reviews
 
 Vendor:
 
-Kundal
+Prettyclick
 
 Type:
 
-hair treatment
+Lip Cream
 
 PRETTYCLICK REWARD POINTS
 
@@ -35,15 +41,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs1,525.00
+Rs750.00
 
 Sale price
 
-Rs1,525.00
+Rs750.00
 
 Regular price
 
-Rs1,750.00
+Rs1,000.00
 
 Unit price
 
@@ -61,11 +67,13 @@ calculated at checkout.
 
 Available in stock
 
+A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.
+
 Quantity
 
-Decrease quantity for Kundal Honey &amp; Macadamia Premium Hair Treatment 500ml - White Musk
+Decrease quantity for Prettyclick Lip Cream - Petal
 
-Increase quantity for Kundal Honey &amp; Macadamia Premium Hair Treatment 500ml - White Musk
+Increase quantity for Prettyclick Lip Cream - Petal
 
 Add to cart
 
@@ -87,19 +95,19 @@ Share on X
 
 Pin on Pinterest
 
-Kundal Honey & Macadamia Premium Hair Treatment 500ml - White Musk
+Prettyclick Lip Cream - Petal
 
 Regular price
 
-Rs1,525.00
+Rs750.00
 
 Sale price
 
-Rs1,525.00
+Rs750.00
 
 Regular price
 
-Rs1,750.00
+Rs1,000.00
 
 Unit price
 
@@ -109,9 +117,9 @@ per
 
 Default Title
 
-Decrease quantity for Kundal Honey &amp; Macadamia Premium Hair Treatment 500ml - White Musk
+Decrease quantity for Prettyclick Lip Cream - Petal
 
-Increase quantity for Kundal Honey &amp; Macadamia Premium Hair Treatment 500ml - White Musk
+Increase quantity for Prettyclick Lip Cream - Petal
 
 Add to cart
 

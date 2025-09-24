@@ -1,7 +1,7 @@
-# La Girl – Prettyclick
+# Mascara – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/la-girl
-**Crawled:** 2025-09-24T23:30:49.384300
+**URL:** https://prettyclickcosmetics.com/collections/mascara
+**Crawled:** 2025-09-24T23:44:31.710229
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-53 products
+17 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs1,500.00
+The highest price is Rs1,850.00
 
 From
 
@@ -67,21 +67,11 @@ Availability
 
 In stock
 
-48
+11
 
 Out of stock
 
-23
-
-Body Mist
-
-Gold
-
-1
-
-Rose Gold
-
-1
+7
 
 Apply
 
@@ -111,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs1,500.00
+The highest price is Rs1,850.00
 
 From
 
@@ -129,47 +119,35 @@ Availability
 
 In stock
 
-48
+11
 
 Out of stock
 
-23
-
-Body Mist
-
-Gold
-
-1
-
-Rose Gold
-
-1
+7
 
 NEW
 
 Shop Now
 
-Sale
+Sold out
 
-Choose options
+Sold out
 
 Compare
 
-BB Cream
+Mascara
 
-L.A. Girl Pro Bb Cream
+L.A. Colors Biggie Lash Mascara
 
 Regular price
 
-Rs825.00
+Rs600.00
 
 Sale price
 
-Rs825.00
+Rs600.00
 
 Regular price
-
-Rs1,100.00
 
 Unit price
 
@@ -177,33 +155,31 @@ Unit price
 
 per
 
-Choose options
+Sold out
 
 View details
 
 Choose your option
 
-Sale
+Sold out
 
-Choose options
+Sold out
 
 Compare
 
-Foundation
+Mascara
 
-L.A. Girl Pro Matte Foundation
+L.A. Colors Dramatilash Volume Mascara-Black
 
 Regular price
 
-Rs1,200.00
+Rs400.00
 
 Sale price
 
-Rs1,200.00
+Rs400.00
 
 Regular price
-
-Rs1,600.00
 
 Unit price
 
@@ -211,75 +187,7 @@ Unit price
 
 per
 
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Foundation
-
-L.A. Girl Pro Coverage Illuminating Foundation
-
-Regular price
-
-Rs1,162.50
-
-Sale price
-
-Rs1,162.50
-
-Regular price
-
-Rs1,550.00
-
-Unit price
-
-/
-
-per
-
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Lipliner
-
-L.A. Girl Shockwave Nude Lip Liner Pencil
-
-Regular price
-
-Rs371.25
-
-Sale price
-
-Rs371.25
-
-Regular price
-
-Rs495.00
-
-Unit price
-
-/
-
-per
-
-Choose options
+Sold out
 
 View details
 
@@ -319,27 +227,25 @@ View details
 
 Choose your option
 
-Sale
+Sold out
 
-Choose options
+Sold out
 
 Compare
 
-Setting Powder
+Mascara
 
-L.A. Girl Pro face powder
+La Colors X - volume Mascara Extreme Black
 
 Regular price
 
-Rs862.50
+Rs575.00
 
 Sale price
 
-Rs862.50
+Rs575.00
 
 Regular price
-
-Rs1,150.00
 
 Unit price
 
@@ -347,177 +253,7 @@ Unit price
 
 per
 
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Highlighter
-
-L.A. Girl luminous glow highlighter
-
-Regular price
-
-Rs937.50
-
-Sale price
-
-Rs937.50
-
-Regular price
-
-Rs1,250.00
-
-Unit price
-
-/
-
-per
-
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Concealer
-
-L.A. Girl Pro Concealer
-
-Regular price
-
-Rs525.00
-
-Sale price
-
-Rs525.00
-
-Regular price
-
-Rs700.00
-
-Unit price
-
-/
-
-per
-
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Eyeliner
-
-L.A. Girl Pastel Dream Auto Liner
-
-Regular price
-
-Rs731.25
-
-Sale price
-
-Rs731.25
-
-Regular price
-
-Rs975.00
-
-Unit price
-
-/
-
-per
-
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Eyeshadow
-
-L.A. Girl Keep it Playful Eyeshadow
-
-Regular price
-
-Rs787.50
-
-Sale price
-
-Rs787.50
-
-Regular price
-
-Rs1,050.00
-
-Unit price
-
-/
-
-per
-
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Foundation
-
-L.A. Girl Pro Color Foundation Mixing Pigment
-
-Regular price
-
-Rs1,012.50
-
-Sale price
-
-Rs1,012.50
-
-Regular price
-
-Rs1,350.00
-
-Unit price
-
-/
-
-per
-
-Choose options
+Sold out
 
 View details
 
@@ -525,25 +261,23 @@ Choose your option
 
 Sold out
 
-Choose options
+Sold out
 
 Compare
 
-Setting Spray
+Mascara
 
-L.A. Girl Shimmery Spray Finishing Spray For Face & Body
+Maybelline Lash Sensational Mascara -Midnight Black
 
 Regular price
 
-Rs975.00
+Rs1,850.00
 
 Sale price
 
-Rs975.00
+Rs1,850.00
 
 Regular price
-
-Rs1,300.00
 
 Unit price
 
@@ -551,33 +285,31 @@ Unit price
 
 per
 
-Choose options
+Sold out
 
 View details
 
 Choose your option
 
-Sale
+Sold out
 
-Choose options
+Sold out
 
 Compare
 
-Eyeliner
+Mascara
 
-L.A. Girl Shock Wave Metallic Eyeliner Pencil
+Maybelline Lash Sensational Sky High Waterproof Mascara -Very Black
 
 Regular price
 
-Rs731.25
+Rs1,850.00
 
 Sale price
 
-Rs731.25
+Rs1,850.00
 
 Regular price
-
-Rs975.00
 
 Unit price
 
@@ -585,41 +317,7 @@ Unit price
 
 per
 
-Choose options
-
-View details
-
-Choose your option
-
-Sale
-
-Choose options
-
-Compare
-
-Brow Pomade
-
-L.A. Girl Brow Pomade
-
-Regular price
-
-Rs900.00
-
-Sale price
-
-Rs900.00
-
-Regular price
-
-Rs1,200.00
-
-Unit price
-
-/
-
-per
-
-Choose options
+Sold out
 
 View details
 
@@ -631,21 +329,21 @@ Add to cart
 
 Compare
 
-primer
+Mascara
 
-L.A. Girl Pro Face Primer
+Milani Highly Rated Anti Gravity Mascara - 115
 
 Regular price
 
-Rs843.75
+Rs1,480.00
 
 Sale price
 
-Rs843.75
+Rs1,480.00
 
 Regular price
 
-Rs1,125.00
+Rs1,850.00
 
 Unit price
 
@@ -665,21 +363,21 @@ Add to cart
 
 Compare
 
-Blush
+Mascara
 
-L.A. Girl Rosy Glow Envy Bouncy Blush
+Milani Highly Rated Anti Gravity Waterproof Mascara -120
 
 Regular price
 
-Rs1,087.50
+Rs1,480.00
 
 Sale price
 
-Rs1,087.50
+Rs1,480.00
 
 Regular price
 
-Rs1,450.00
+Rs1,850.00
 
 Unit price
 
@@ -695,25 +393,25 @@ Choose your option
 
 Sale
 
-Choose options
+Add to cart
 
 Compare
 
-Eyeliner
+Mascara
 
-L.A. Girl Shockwave Eyeliner
+Milani Highly Rated Instant Volume & Curl Mascara - 111
 
 Regular price
 
-Rs525.00
+Rs1,480.00
 
 Sale price
 
-Rs525.00
+Rs1,480.00
 
 Regular price
 
-Rs700.00
+Rs1,850.00
 
 Unit price
 
@@ -721,7 +419,7 @@ Unit price
 
 per
 
-Choose options
+Add to cart
 
 View details
 
@@ -729,25 +427,25 @@ Choose your option
 
 Sale
 
-Choose options
+Add to cart
 
 Compare
 
-Setting Powder
+Mascara
 
-L.A. Girl Pro HD Setting Powder
+Milani Highly Rated Lash Extensions Mascara
 
 Regular price
 
-Rs900.00
+Rs1,480.00
 
 Sale price
 
-Rs900.00
+Rs1,480.00
 
 Regular price
 
-Rs1,200.00
+Rs1,850.00
 
 Unit price
 
@@ -755,7 +453,75 @@ Unit price
 
 per
 
-Choose options
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Mascara
+
+Milani Highly Rated Waterproof Mascara
+
+Regular price
+
+Rs1,480.00
+
+Sale price
+
+Rs1,480.00
+
+Regular price
+
+Rs1,850.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Mascara
+
+Wet n Wild Big Poppa Mascara 10ml
+
+Regular price
+
+Rs680.00
+
+Sale price
+
+Rs680.00
+
+Regular price
+
+Rs850.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
 
 View details
 
@@ -767,21 +533,21 @@ Sold out
 
 Compare
 
-Eyeliner
+Mascara
 
-L.A. Girl Skinny Gel Eyeliner
+Wet n Wild Breakup Proof Waterproof Boosting Mascara
 
 Regular price
 
-Rs412.50
+Rs520.00
 
 Sale price
 
-Rs412.50
+Rs520.00
 
 Regular price
 
-Rs550.00
+Rs650.00
 
 Unit price
 
@@ -790,6 +556,142 @@ Unit price
 per
 
 Sold out
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Mascara
+
+Wet n Wild Max Volume Plus Mascara
+
+Regular price
+
+Rs600.00
+
+Sale price
+
+Rs600.00
+
+Regular price
+
+Rs750.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Mascara
+
+Wet n Wild Mega Protein Waterproof Mascara
+
+Regular price
+
+Rs520.00
+
+Sale price
+
+Rs520.00
+
+Regular price
+
+Rs650.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Mascara
+
+Wet n Wild Mega Volume Mascara 10ml
+
+Regular price
+
+Rs520.00
+
+Sale price
+
+Rs520.00
+
+Regular price
+
+Rs650.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sale
+
+Add to cart
+
+Compare
+
+Mascara
+
+Wet n Wild So Defined Volumizing + Defining Mascara
+
+Regular price
+
+Rs620.00
+
+Sale price
+
+Rs620.00
+
+Regular price
+
+Rs775.00
+
+Unit price
+
+/
+
+per
+
+Add to cart
 
 View details
 

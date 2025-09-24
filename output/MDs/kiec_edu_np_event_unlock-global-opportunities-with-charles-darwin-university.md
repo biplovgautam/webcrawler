@@ -3,7 +3,7 @@
 *🌏✨ Meet the Representatives from Charles Darwin University, Australia! KIEC is excited to host Mr. Girish Iyer, Associate Vice Chancellor for South Asia, and Mr. Nikesh Vedi, Regional Marketing Manager, from Charles Darwin University. 🎓 📅 Date: 23rd September 2025 (Tuesday)🕐 Time: 12:45 PM – 1:45 PM📍 Venue: KIEC Avenue, Putalisadak, Kathmandu This is a*
 
 **URL:** https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/
-**Crawled:** 2025-09-24T23:29:01.770131
+**Crawled:** 2025-09-24T23:43:59.056151
 
 ---
 

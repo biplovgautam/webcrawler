@@ -1,7 +1,7 @@
-# Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum – Prettyclick
+# Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/products/timeless-matrixyl%C2%AE%EF%B8%8F-3000
-**Crawled:** 2025-09-24T23:30:33.149124
+**URL:** https://prettyclickcosmetics.com/products/kundal-hair-loss-relief-shampoo-with-caffeine-500ml-white-musk
+**Crawled:** 2025-09-24T23:45:14.203967
 
 ---
 
@@ -11,27 +11,21 @@ Open media 0 in modal
 
 Open media 1 in modal
 
-Open media 2 in modal
+Sold out
 
-Open media 3 in modal
+Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk
 
-Save
-
-50%
-
-Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum
-
-Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum
+Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk
 
 No reviews
 
 Vendor:
 
-Timeless skincare
+Kundal
 
 Type:
 
-Serum
+Shampoo
 
 PRETTYCLICK REWARD POINTS
 
@@ -39,15 +33,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs1,450.00
+Rs1,665.00
 
 Sale price
 
-Rs1,450.00
+Rs1,665.00
 
 Regular price
 
-Rs2,900.00
+Rs1,850.00
 
 Unit price
 
@@ -63,15 +57,15 @@ calculated at checkout.
 
 100% Authentic
 
-Available in stock
+Out of stock
 
 Quantity
 
-Decrease quantity for Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum
+Decrease quantity for Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk
 
-Increase quantity for Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum
+Increase quantity for Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk
 
-Add to cart
+Sold out
 
 This item is a recurring or deferred purchase. By continuing, I agree to the
 
@@ -91,19 +85,19 @@ Share on X
 
 Pin on Pinterest
 
-Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum
+Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk
 
 Regular price
 
-Rs1,450.00
+Rs1,665.00
 
 Sale price
 
-Rs1,450.00
+Rs1,665.00
 
 Regular price
 
-Rs2,900.00
+Rs1,850.00
 
 Unit price
 
@@ -113,11 +107,11 @@ per
 
 Default Title
 
-Decrease quantity for Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum
+Decrease quantity for Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk
 
-Increase quantity for Timeless Matrixyl®️ 3000+ Hyaluronic Acid Serum
+Increase quantity for Kundal Hair Loss Relief Shampoo With Caffeine 500ml - White Musk
 
-Add to cart
+Sold out
 
 Customer Reviews
 

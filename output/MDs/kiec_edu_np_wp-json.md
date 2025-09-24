@@ -1,7 +1,7 @@
 # Wp Json
 
 **URL:** https://kiec.edu.np/wp-json/
-**Crawled:** 2025-09-24T23:28:57.241365
+**Crawled:** 2025-09-24T23:44:08.591511
 
 ---
 

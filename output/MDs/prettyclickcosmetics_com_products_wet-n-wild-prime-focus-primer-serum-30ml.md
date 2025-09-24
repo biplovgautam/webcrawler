@@ -1,7 +1,9 @@
-# Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150 – Prettyclick
+# Wet n Wild Prime Focus Primer Serum 30ml – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/products/milani-stay-put-matte-17hr-wear-liquid-eyeliner
-**Crawled:** 2025-09-24T23:30:47.518079
+*About this item WET N WILD Prime Focus Hydrating Primer Serum Hydration with a lightweight formula that leaves skin feeling smooth Sheer color for an instant skin enhancer*
+
+**URL:** https://prettyclickcosmetics.com/products/wet-n-wild-prime-focus-primer-serum-30ml
+**Crawled:** 2025-09-24T23:45:25.374612
 
 ---
 
@@ -17,19 +19,19 @@ Save
 
 20%
 
-Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+Wet n Wild Prime Focus Primer Serum 30ml
 
-Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+Wet n Wild Prime Focus Primer Serum 30ml
 
 No reviews
 
 Vendor:
 
-Milani
+Wet n wild
 
 Type:
 
-Eyeliner
+primer
 
 PRETTYCLICK REWARD POINTS
 
@@ -37,15 +39,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs1,200.00
+Rs840.00
 
 Sale price
 
-Rs1,200.00
+Rs840.00
 
 Regular price
 
-Rs1,500.00
+Rs1,050.00
 
 Unit price
 
@@ -63,11 +65,19 @@ calculated at checkout.
 
 Available in stock
 
+About this item
+
+WET N WILD Prime Focus Hydrating Primer Serum
+
+Hydration with a lightweight formula that leaves skin feeling smooth
+
+Sheer color for an instant skin enhancer
+
 Quantity
 
-Decrease quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+Decrease quantity for Wet n Wild Prime Focus Primer Serum 30ml
 
-Increase quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+Increase quantity for Wet n Wild Prime Focus Primer Serum 30ml
 
 Add to cart
 
@@ -89,19 +99,19 @@ Share on X
 
 Pin on Pinterest
 
-Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+Wet n Wild Prime Focus Primer Serum 30ml
 
 Regular price
 
-Rs1,200.00
+Rs840.00
 
 Sale price
 
-Rs1,200.00
+Rs840.00
 
 Regular price
 
-Rs1,500.00
+Rs1,050.00
 
 Unit price
 
@@ -111,9 +121,9 @@ per
 
 Default Title
 
-Decrease quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+Decrease quantity for Wet n Wild Prime Focus Primer Serum 30ml
 
-Increase quantity for Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+Increase quantity for Wet n Wild Prime Focus Primer Serum 30ml
 
 Add to cart
 

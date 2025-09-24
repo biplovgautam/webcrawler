@@ -1,9 +1,9 @@
-# Prettyclick Lip Cream - Charming
+# Prettyclick Lip Cream - Desire
 
 *A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.*
 
-**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-charming
-**Crawled:** 2025-09-24T23:29:51.537790
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-desire
+**Crawled:** 2025-09-24T23:44:59.134679
 
 ---
 
@@ -15,13 +15,27 @@ Open media 1 in modal
 
 Open media 2 in modal
 
+Open media 3 in modal
+
+Open media 4 in modal
+
+Open media 5 in modal
+
+Open media 6 in modal
+
+Open media 7 in modal
+
+Open media 8 in modal
+
+Open media 9 in modal
+
 Save
 
 25%
 
-Prettyclick Lip Cream - Charming
+Prettyclick Lip Cream - Desire
 
-Prettyclick Lip Cream - Charming
+Prettyclick Lip Cream - Desire
 
 No reviews
 
@@ -69,9 +83,9 @@ A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks
 
 Quantity
 
-Decrease quantity for Prettyclick Lip Cream - Charming
+Decrease quantity for Prettyclick Lip Cream - Desire
 
-Increase quantity for Prettyclick Lip Cream - Charming
+Increase quantity for Prettyclick Lip Cream - Desire
 
 Add to cart
 
@@ -93,7 +107,7 @@ Share on X
 
 Pin on Pinterest
 
-Prettyclick Lip Cream - Charming
+Prettyclick Lip Cream - Desire
 
 Regular price
 
@@ -115,9 +129,9 @@ per
 
 Default Title
 
-Decrease quantity for Prettyclick Lip Cream - Charming
+Decrease quantity for Prettyclick Lip Cream - Desire
 
-Increase quantity for Prettyclick Lip Cream - Charming
+Increase quantity for Prettyclick Lip Cream - Desire
 
 Add to cart
 

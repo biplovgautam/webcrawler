@@ -3,7 +3,7 @@
 *Prepare effectively for your student visa interview by understanding common questions, documentation, and future plans to convince visa officers.*
 
 **URL:** https://kiec.edu.np/interview/
-**Crawled:** 2025-09-24T23:28:58.836317
+**Crawled:** 2025-09-24T23:44:10.111302
 
 ---
 

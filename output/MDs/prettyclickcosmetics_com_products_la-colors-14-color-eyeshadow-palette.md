@@ -3,7 +3,7 @@
 *Take your looks on a trip with the L.A. COLORS Coastal Chill Eyeshadow collection. Inspired by your next tropical vacay, these 14-color eyeshadow palettes are packed with colorful (yet super wearable) shades in a mix of matte and shimmer finishes. Lagoon blues, paradise purples, sunset oranges, and rose gold pinks all*
 
 **URL:** https://prettyclickcosmetics.com/products/la-colors-14-color-eyeshadow-palette
-**Crawled:** 2025-09-24T23:30:16.203237
+**Crawled:** 2025-09-24T23:45:34.509851
 
 ---
 

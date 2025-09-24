@@ -1,7 +1,7 @@
 # Roc Skincare – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/collections/roc-skincare
-**Crawled:** 2025-09-24T23:30:23.903689
+**Crawled:** 2025-09-24T23:45:04.771463
 
 ---
 

@@ -3,7 +3,7 @@
 *Letter of Authentication BENEFITS• Block UV rays • Soothes &amp; moisturizes skin • Lightweight texture TARGETS• Doesn't want a white cast• Enjoy outdoor activities often• Dehydrated skin*
 
 **URL:** https://prettyclickcosmetics.com/products/cosrx-aloe-soothing-sun-screen-spf50-pa
-**Crawled:** 2025-09-24T23:31:02.133056
+**Crawled:** 2025-09-24T23:44:46.235030
 
 ---
 

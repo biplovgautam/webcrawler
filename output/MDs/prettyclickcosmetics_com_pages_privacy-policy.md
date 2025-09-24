@@ -3,7 +3,7 @@
 *Privacy Policy INTRODUCTION This Privacy Policy ("Policy") describes the type of personal information we collect from our User, purpose for collecting such information, how we use it, with whom we share it and the choices available to our customers regarding our use of the information. We will not disclose the personal*
 
 **URL:** https://prettyclickcosmetics.com/pages/privacy-policy
-**Crawled:** 2025-09-24T23:30:55.398243
+**Crawled:** 2025-09-24T23:44:30.220762
 
 ---
 

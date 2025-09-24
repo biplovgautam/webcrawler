@@ -3,7 +3,7 @@
 *KIEC invites you to an exclusive session with Ms. Nidhi Chugh, Student Recruitment Manager at the University of Waikato College, a leading pathway provider to the prestigious University of Waikato – ranked among the world’s top universities. 🎓🌏 This is your golden chance to explore:✅ World-class programs and career-focused courses✅ Scholarships and financial aid opportunities✅*
 
 **URL:** https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/
-**Crawled:** 2025-09-24T23:29:00.331561
+**Crawled:** 2025-09-24T23:43:57.463859
 
 ---
 

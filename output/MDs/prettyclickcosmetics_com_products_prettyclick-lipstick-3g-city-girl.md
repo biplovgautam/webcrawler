@@ -1,9 +1,9 @@
-# Prettyclick Bullet Lipstick 3g: Dream Girl
+# Prettyclick Bullet Lipstick 3g: City Girl
 
-*Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping it subtle, this lipstick is your go-to for all-d*
+*Prettyclick Bullet Lipstick - Satin Matte FinishTurn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping*
 
-**URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-dream-girl
-**Crawled:** 2025-09-24T23:30:34.570722
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-city-girl
+**Crawled:** 2025-09-24T23:45:00.524279
 
 ---
 
@@ -43,15 +43,13 @@ Open media 15 in modal
 
 Open media 16 in modal
 
-Open media 17 in modal
-
 Save
 
 24%
 
-Prettyclick Bullet Lipstick 3g: Dream Girl
+Prettyclick Bullet Lipstick 3g: City Girl
 
-Prettyclick Bullet Lipstick 3g: Dream Girl
+Prettyclick Bullet Lipstick 3g: City Girl
 
 No reviews
 
@@ -95,6 +93,8 @@ calculated at checkout.
 
 Available in stock
 
+Prettyclick Bullet Lipstick - Satin Matte Finish
+
 Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping it subtle, this lipstick is your go-to for all-day comfort and confidence. Available in a range of flattering shades to match every mood and moment.
 
 ✔ Highly pigmented
@@ -107,9 +107,9 @@ Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense 
 
 Quantity
 
-Decrease quantity for Prettyclick Bullet Lipstick 3g: Dream Girl
+Decrease quantity for Prettyclick Bullet Lipstick 3g: City Girl
 
-Increase quantity for Prettyclick Bullet Lipstick 3g: Dream Girl
+Increase quantity for Prettyclick Bullet Lipstick 3g: City Girl
 
 Add to cart
 
@@ -131,7 +131,7 @@ Share on X
 
 Pin on Pinterest
 
-Prettyclick Bullet Lipstick 3g: Dream Girl
+Prettyclick Bullet Lipstick 3g: City Girl
 
 Regular price
 
@@ -153,9 +153,9 @@ per
 
 Default Title
 
-Decrease quantity for Prettyclick Bullet Lipstick 3g: Dream Girl
+Decrease quantity for Prettyclick Bullet Lipstick 3g: City Girl
 
-Increase quantity for Prettyclick Bullet Lipstick 3g: Dream Girl
+Increase quantity for Prettyclick Bullet Lipstick 3g: City Girl
 
 Add to cart
 

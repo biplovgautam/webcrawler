@@ -3,7 +3,7 @@
 *Learn about the step-by-step process for Nepalese students to apply for international universities, including admission and post-study guidance.*
 
 **URL:** https://kiec.edu.np/university/
-**Crawled:** 2025-09-24T23:29:08.245591
+**Crawled:** 2025-09-24T23:43:42.728828
 
 ---
 

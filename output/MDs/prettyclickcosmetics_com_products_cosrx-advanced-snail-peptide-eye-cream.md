@@ -3,7 +3,7 @@
 *Letter of Authentication   Never look tired again! Non- heavy, double-functioning eye cream that visibly brightens the eye area. Hydrating, fast absorbing eye cream for EVERYONE - 20s, 30s, 70s, even teens - without over nourishment.   BENEFITS • Firms skin• Boosts radiance• Reduces dark circles TARGETS  • Dull, dehy*
 
 **URL:** https://prettyclickcosmetics.com/products/cosrx-advanced-snail-peptide-eye-cream
-**Crawled:** 2025-09-24T23:29:59.377086
+**Crawled:** 2025-09-24T23:45:07.588416
 
 ---
 

@@ -1,1 +1,0 @@
-# This file lists URLs that failed to crawl, allowing you to review and troubleshoot any issues with specific links.

@@ -1,7 +1,7 @@
-# Moisturizer – Prettyclick
+# Blush – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/moisturizer-1
-**Crawled:** 2025-09-24T23:45:44.298847
+**URL:** https://prettyclickcosmetics.com/collections/blush
+**Crawled:** 2025-09-24T23:45:24.020155
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-26 products
+25 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs3,800.00
+The highest price is Rs2,495.00
 
 From
 
@@ -67,7 +67,7 @@ Availability
 
 In stock
 
-15
+18
 
 Out of stock
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs3,800.00
+The highest price is Rs2,495.00
 
 From
 
@@ -119,7 +119,7 @@ Availability
 
 In stock
 
-15
+18
 
 Out of stock
 
@@ -129,21 +129,21 @@ NEW
 
 Shop Now
 
-Add to cart
+Choose options
 
 Compare
 
-Moisturizer
+Blush
 
-Roc Multi Correxion� Revive + Glow Moisturizer
+L.A. Colors Blush Up Cheek & Lip Cream
 
 Regular price
 
-Rs3,750.00
+Rs250.00
 
 Sale price
 
-Rs3,750.00
+Rs250.00
 
 Regular price
 
@@ -153,7 +153,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -161,23 +161,25 @@ Choose your option
 
 Sold out
 
-Sold out
+Choose options
 
 Compare
 
-Moisturizer
+Blush
 
-Roc Retinol Correxion� Deep Wrinkle Daily Moisturizer spf 30
+L.A. Girl Soft Matte Cream Blush
 
 Regular price
 
-Rs3,350.00
+Rs300.00
 
 Sale price
 
-Rs3,350.00
+Rs300.00
 
 Regular price
+
+Rs885.00
 
 Unit price
 
@@ -185,7 +187,177 @@ Unit price
 
 per
 
-Sold out
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Blush
+
+Milani Baked Blush
+
+Regular price
+
+Rs1,120.00
+
+Sale price
+
+Rs1,120.00
+
+Regular price
+
+Rs1,400.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Blush
+
+Milani Cheek Kiss Cream Blush
+
+Regular price
+
+Rs1,400.00
+
+Sale price
+
+Rs1,400.00
+
+Regular price
+
+Rs1,750.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Blush
+
+Milani Rose Cheek Kiss Liquid Blush
+
+Regular price
+
+Rs875.00
+
+Sale price
+
+Rs875.00
+
+Regular price
+
+Rs1,750.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Blush
+
+L.A. Colors Jelly Cool Tinted Blush Stick
+
+Regular price
+
+Rs299.00
+
+Sale price
+
+Rs299.00
+
+Regular price
+
+Rs599.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Blush
+
+Beauty Creations Stay Blushin' Cute Lip and Cheek Balm
+
+Regular price
+
+Rs550.00
+
+Sale price
+
+Rs550.00
+
+Regular price
+
+Rs1,100.00
+
+Unit price
+
+/
+
+per
+
+Choose options
 
 View details
 
@@ -197,51 +369,21 @@ Add to cart
 
 Compare
 
-Moisturizer
+Blush
 
-Cosrx Full Fit Propolis Light Cream
+L.A. Girl Rosy Glow Envy Bouncy Blush
 
 Regular price
 
-Rs3,570.00
+Rs1,087.50
 
 Sale price
 
-Rs3,570.00
+Rs1,087.50
 
 Regular price
 
-Rs4,200.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cerave Daily Moisturizing Lotion 355ml
-
-Regular price
-
-Rs2,850.00
-
-Sale price
-
-Rs2,850.00
-
-Regular price
+Rs1,450.00
 
 Unit price
 
@@ -257,25 +399,59 @@ Choose your option
 
 Sold out
 
+Choose options
+
+Compare
+
+Blush
+
+J. Cat Beauty Blush Mallow Soft Blusher
+
+Regular price
+
+Rs300.00
+
+Sale price
+
+Rs300.00
+
+Regular price
+
+Rs775.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sold out
+
 Sold out
 
 Compare
 
-Moisturizer
+Blush
 
-Good Molecules Lightweight Daily Moisturizer 100ml
+The Balm Third Date Blush
 
 Regular price
 
-Rs2,295.00
+Rs950.00
 
 Sale price
 
-Rs2,295.00
+Rs950.00
 
 Regular price
 
-Rs2,700.00
+Rs1,900.00
 
 Unit price
 
@@ -295,17 +471,153 @@ Sold out
 
 Compare
 
-Moisturizer
+Blush
 
-Aveeno Daily Moisturizing lotion 591ml
+The Balm It's a Date Blush
 
 Regular price
 
-Rs2,000.00
+Rs950.00
 
 Sale price
 
-Rs2,000.00
+Rs950.00
+
+Regular price
+
+Rs1,900.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Blush
+
+The Balm Big Date Blush
+
+Regular price
+
+Rs950.00
+
+Sale price
+
+Rs950.00
+
+Regular price
+
+Rs1,900.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Blush
+
+The Balm Hot Mama! Shadow/Blush
+
+Regular price
+
+Rs925.00
+
+Sale price
+
+Rs925.00
+
+Regular price
+
+Rs1,850.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Choose options
+
+Compare
+
+Blush
+
+Beauty Creations Matte Blush Hush
+
+Regular price
+
+Rs550.00
+
+Sale price
+
+Rs550.00
+
+Regular price
+
+Rs1,100.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Blush
+
+The Balm Double Crosser Highlighter, Bronzer & Blush
+
+Regular price
+
+Rs2,495.00
+
+Sale price
+
+Rs2,495.00
 
 Regular price
 
@@ -325,17 +637,17 @@ Add to cart
 
 Compare
 
-Moisturizer
+Blush
 
-Cetaphil Moisturizing Lotion 473ml
+Profusion Cosmetics Blush Hour Soft Matte Liquid Blush 6ml- Strawberry Daiquiri
 
 Regular price
 
-Rs2,300.00
+Rs1,000.00
 
 Sale price
 
-Rs2,300.00
+Rs1,000.00
 
 Regular price
 
@@ -353,25 +665,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Moisturizer
+Blush
 
-Cosrx Advanced Snail 92 All in one Cream
+Milani Cheek Kiss Blush + Glow Liquid Blush 10ml
 
 Regular price
 
-Rs2,320.00
+Rs1,760.00
 
 Sale price
 
-Rs2,320.00
+Rs1,760.00
 
 Regular price
 
-Rs2,900.00
+Rs2,200.00
 
 Unit price
 
@@ -379,147 +691,7 @@ Unit price
 
 per
 
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Neutrogena Hyaluronic Acid Water Gel Hydro Boost - 50ml
-
-Regular price
-
-Rs1,815.00
-
-Sale price
-
-Rs1,815.00
-
-Regular price
-
-Rs3,300.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Dermae Vitamin C Renewing Moisturizer
-
-Regular price
-
-Rs500.00
-
-Sale price
-
-Rs500.00
-
-Regular price
-
-Rs2,500.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-New
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Hempz Sensitive Skin Herbal Body Moisturizer 500 ml
-
-Regular price
-
-Rs1,350.00
-
-Sale price
-
-Rs1,350.00
-
-Regular price
-
-Rs2,700.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-New
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Hempz Exotic Green Tea & Asian Pear Body Moisturizer 66ml
-
-Regular price
-
-Rs498.00
-
-Sale price
-
-Rs498.00
-
-Regular price
-
-Rs995.00
-
-Unit price
-
-/
-
-per
-
-Sold out
+Choose options
 
 View details
 
@@ -529,17 +701,17 @@ Add to cart
 
 Compare
 
-Moisturizer
+Blush
 
-Cetaphil Moisturizing Cream 453gm
+Profusion Cosmetics Blush Hour Soft Matte Liquid Blush 6ml- Aperol Spritz
 
 Regular price
 
-Rs2,700.00
+Rs1,000.00
 
 Sale price
 
-Rs2,700.00
+Rs1,000.00
 
 Regular price
 
@@ -559,139 +731,9 @@ Add to cart
 
 Compare
 
-Moisturizer
+Blush
 
-Cerave Facial Moisturizing Lotion PM 89ml
-
-Regular price
-
-Rs2,600.00
-
-Sale price
-
-Rs2,600.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sold out
-
-New
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Hempz Original Herbal Body Moisturizer
-
-Regular price
-
-Rs1,350.00
-
-Sale price
-
-Rs1,350.00
-
-Regular price
-
-Rs2,700.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cerave Sa lotion For Rough & Bumpy Skin 237ml
-
-Regular price
-
-Rs3,700.00
-
-Sale price
-
-Rs3,700.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Dermae Anti-Aging Regenerative Day Cream
-
-Regular price
-
-Rs500.00
-
-Sale price
-
-Rs500.00
-
-Regular price
-
-Rs3,200.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Skin1OO4 Poremizing Light Gel Cream 75 ml
+Beauty Creations Rosy McMichael Pink Dream Blushes
 
 Regular price
 
@@ -703,8 +745,6 @@ Rs2,400.00
 
 Regular price
 
-Rs2,400.00
-
 Unit price
 
 /
@@ -712,42 +752,6 @@ Unit price
 per
 
 Add to cart
-
-View details
-
-Choose your option
-
-Sold out
-
-New
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Hempz Fragrance-Free Herbal Limited Edition Daily Moisturizing Cream 500 ml
-
-Regular price
-
-Rs1,350.00
-
-Sale price
-
-Rs1,350.00
-
-Regular price
-
-Rs2,700.00
-
-Unit price
-
-/
-
-per
-
-Sold out
 
 View details
 

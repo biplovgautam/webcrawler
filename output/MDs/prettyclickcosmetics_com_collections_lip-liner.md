@@ -1,7 +1,7 @@
-# Prettyclick Lipstick
+# Lipliner – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/prettyclcik-lipstick
-**Crawled:** 2025-09-24T23:30:05.439547
+**URL:** https://prettyclickcosmetics.com/collections/lip-liner
+**Crawled:** 2025-09-24T23:44:36.010957
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-5 products
+6 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs750.00
+The highest price is Rs787.50
 
 From
 
@@ -71,7 +71,7 @@ In stock
 
 Out of stock
 
-0
+4
 
 Apply
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs750.00
+The highest price is Rs787.50
 
 From
 
@@ -123,7 +123,7 @@ In stock
 
 Out of stock
 
-0
+4
 
 NEW
 
@@ -131,25 +131,25 @@ Shop Now
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Lipstick
+Lipliner
 
-Prettyclick Bullet Lipstick 3g: Beloved
+L.A. Girl Shockwave Nude Lip Liner Pencil
 
 Regular price
 
-Rs750.00
+Rs371.25
 
 Sale price
 
-Rs750.00
+Rs371.25
 
 Regular price
 
-Rs999.00
+Rs495.00
 
 Unit price
 
@@ -157,7 +157,41 @@ Unit price
 
 per
 
-Add to cart
+Choose options
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Lipliner
+
+L.A. Colors All Is Bright 5 Pcs Defined Lips Automatic Lip Liner Set
+
+Regular price
+
+Rs550.00
+
+Sale price
+
+Rs550.00
+
+Regular price
+
+Rs1,250.00
+
+Unit price
+
+/
+
+per
+
+Sold out
 
 View details
 
@@ -165,25 +199,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Lipstick
+Lipliner
 
-Prettyclick Bullet Lipstick 3g: Stunner
+Wet n Wild Color Icon Lipliner Pencil
 
 Regular price
 
-Rs750.00
+Rs220.00
 
 Sale price
 
-Rs750.00
+Rs220.00
 
 Regular price
 
-Rs999.00
+Rs275.00
 
 Unit price
 
@@ -191,7 +225,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -199,25 +233,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Lipstick
+Lipliner
 
-Prettyclick Bullet Lipstick 3g: Ruby Flame
+L.A. Girl Perfect Precision Lip Liner
 
 Regular price
 
-Rs750.00
+Rs412.50
 
 Sale price
 
-Rs750.00
+Rs412.50
 
 Regular price
 
-Rs999.00
+Rs550.00
 
 Unit price
 
@@ -225,7 +259,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -233,25 +267,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Lipstick
+Lipliner
 
-Prettyclick Bullet Lipstick 3g: Dream Girl
+L.A. Girl Lip Liner
 
 Regular price
 
-Rs750.00
+Rs449.25
 
 Sale price
 
-Rs750.00
+Rs449.25
 
 Regular price
 
-Rs999.00
+Rs599.00
 
 Unit price
 
@@ -259,7 +293,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 
@@ -267,25 +301,25 @@ Choose your option
 
 Sale
 
-Add to cart
+Choose options
 
 Compare
 
-Lipstick
+Lipliner
 
-Prettyclick Bullet Lipstick 3g: City Girl
+L.A. Girl Ultimate Intense Stay Auto Lip Liner
 
 Regular price
 
-Rs750.00
+Rs787.50
 
 Sale price
 
-Rs750.00
+Rs787.50
 
 Regular price
 
-Rs999.00
+Rs1,050.00
 
 Unit price
 
@@ -293,7 +327,7 @@ Unit price
 
 per
 
-Add to cart
+Choose options
 
 View details
 

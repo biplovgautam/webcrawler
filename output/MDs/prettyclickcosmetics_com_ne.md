@@ -1,9 +1,9 @@
-# One stop store for all your beauty needs – Prettyclick
+# तपाईंको सबै सौन्दर्य आवश्यकताहरूको लागि एक स्टप स्टोर – Prettyclick
 
-*The most trusted name in the Nepalese market with 20 physical outlets throughout the major cities of Nepal for all the makeup and skincare needs!*
+*सबै मेकअप र छाला हेरचाह आवश्यकताहरु को लागी नेपालको प्रमुख शहरहरुमा 18 भौतिक आउटलेटहरु संग नेपाली बजार मा सबैभन्दा विश्वसनीय नाम!*
 
-**URL:** https://prettyclickcosmetics.com/
-**Crawled:** 2025-09-24T23:43:14.723144
+**URL:** https://prettyclickcosmetics.com/ne
+**Crawled:** 2025-09-24T23:45:12.609945
 
 ---
 
@@ -111,7 +111,7 @@ Add to cart
 
 Cleanser
 
-Cosrx Low pH Good Morning Gel Cleanser 150ml
+Cosrx कम pH गुड मॉर्निंग जेल क्लिन्जर
 
 Regular price
 
@@ -143,7 +143,7 @@ Add to cart
 
 Eye Cream
 
-Cosrx Advanced Snail Peptide Eye Cream
+Cosrx उन्नत स्नेल पेप्टाइड आई क्रीम
 
 Regular price
 
@@ -175,7 +175,7 @@ Add to cart
 
 Toner
 
-Cosrx Full Fit Propolis Synergy Toner 150 ml
+Cosrx फुल फिट प्रोपोलिस सिनर्जी टोनर 150 एमएल
 
 Regular price
 
@@ -211,7 +211,7 @@ Choose options
 
 BB Cream
 
-L.A. Girl Pro Bb Cream
+ला गर्ल प्रो बीबी क्रीम
 
 Regular price
 
@@ -243,7 +243,7 @@ Choose options
 
 Foundation
 
-L.A. Girl Pro Matte Foundation
+ला गर्ल प्रो म्याट फाउन्डेशन
 
 Regular price
 
@@ -307,7 +307,7 @@ Choose options
 
 Lipliner
 
-L.A. Girl Shockwave Nude Lip Liner Pencil
+ला गर्ल शकवेभ नग्न लिप लाइनर पेन्सिल
 
 Regular price
 
@@ -339,7 +339,7 @@ Choose options
 
 Mascara
 
-L.A. Girl Volumatic Mascara
+ला केटी भोल्युमेटिक मस्कारा
 
 Regular price
 
@@ -1457,13 +1457,13 @@ Choose your option
 
 Makeup
 
-Milani
+मिलानी
 
-La Girl
+ला केटी
 
-Wet and Wild
+भिजेको र जंगली
 
-La Colors
+ला कलर्स
 
 Sale
 
@@ -1471,7 +1471,7 @@ Add to cart
 
 Setting Spray
 
-Milani 16HR Make It Dewy Setting Spray
+Milani 16HR यसलाई डेवी सेटिङ स्प्रे बनाउनुहोस्
 
 Regular price
 
@@ -1535,7 +1535,7 @@ Add to cart
 
 Mascara
 
-Milani Highly Rated Anti Gravity Mascara - 115
+मिलानी उच्च मूल्याङ्कन एन्टि ग्रेविटी मस्कारा
 
 Regular price
 
@@ -1599,7 +1599,7 @@ Choose options
 
 Powder
 
-Milani Conceal+Perfect Shine-Proof Powder
+मिलानी कन्सल+परफेक्ट शाइन-प्रुफ पाउडर
 
 Regular price
 
@@ -1631,7 +1631,7 @@ Add to cart
 
 Eyeliner
 
-Milani Stay Put Matte 17HR Wear Liquid Eyeliner Waterproof - 150
+मिलानी स्टे पुट म्याट १७एचआर वेयर लिक्विड आइलाइनर-१५०
 
 Regular price
 
@@ -1663,7 +1663,7 @@ Shop Body Mist
 
 Body Mist
 
-SO…? Sweet Pea Body Mist 100ml
+तर...? मीठो मटर बडी मिस्ट 100ml
 
 Regular price
 
@@ -1687,7 +1687,7 @@ Choose your option
 
 Body Mist
 
-SO…? Sweet Floral Body Mist 100ml
+तर...? मीठो फ्लोरल बडी मिस्ट १०० एमएल
 
 Regular price
 
@@ -1711,7 +1711,7 @@ Choose your option
 
 Body Mist
 
-SO…? Musk Body Mist 100ml
+तर...? कस्तुरी शरीर धुंध 100ml
 
 Regular price
 
@@ -1735,7 +1735,7 @@ Choose your option
 
 Body Mist
 
-SO…? Peony Petals Body Mist 100ml
+तर...? Peony Petals Body Mist 100ml
 
 Regular price
 
@@ -1759,7 +1759,7 @@ Choose your option
 
 Body Mist
 
-SO…? Barcelona Babe Body Mist 200ml
+तर...? बार्सिलोना बेबे बडी मिस्ट 200ml
 
 Regular price
 
@@ -1783,7 +1783,7 @@ Choose your option
 
 Body Mist
 
-SO…? Rainbow Sorbet Body Mist 100ml
+तर...? इन्द्रेणी शर्बत शरीर धुंध 100ml
 
 Regular price
 
@@ -1913,7 +1913,7 @@ Add to cart
 
 Cleanser
 
-Cosrx Low pH Good Morning Gel Cleanser 150ml
+Cosrx कम pH गुड मॉर्निंग जेल क्लिन्जर
 
 Regular price
 
@@ -1945,7 +1945,7 @@ Add to cart
 
 Eye Cream
 
-Cosrx Advanced Snail Peptide Eye Cream
+Cosrx उन्नत स्नेल पेप्टाइड आई क्रीम
 
 Regular price
 
@@ -1977,7 +1977,7 @@ Add to cart
 
 Toner
 
-Cosrx Full Fit Propolis Synergy Toner 150 ml
+Cosrx फुल फिट प्रोपोलिस सिनर्जी टोनर 150 एमएल
 
 Regular price
 
@@ -2183,11 +2183,11 @@ View details
 
 Choose your option
 
-Accessories
+सामानहरू
 
 Shop
 
-Eyeshadow
+आँखा छाया
 
 Shop
 

@@ -3,7 +3,7 @@
 *Step Into Your UK Study Adventure!✨ Curious about studying at a top UK university? Want an insider’s look at student life at the University of Sunderland? Don’t miss this exclusive session with David Pepper, the official representative of the University of Sunderland. Get your questions answered and receive personalized guidance for your study abroad journey!*
 
 **URL:** https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/
-**Crawled:** 2025-09-24T23:28:55.678765
+**Crawled:** 2025-09-24T23:44:03.588508
 
 ---
 

@@ -1,7 +1,7 @@
 # Body Wash – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/collections/body-wash
-**Crawled:** 2025-09-24T23:30:39.149721
+**Crawled:** 2025-09-24T23:44:52.363142
 
 ---
 

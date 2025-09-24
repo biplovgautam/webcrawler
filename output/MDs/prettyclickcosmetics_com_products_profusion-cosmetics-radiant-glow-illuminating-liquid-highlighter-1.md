@@ -3,7 +3,7 @@
 *Get ready to glow like never before with our Radiant Glow Illuminating Liquid Highlighter—the secret to that lit-from-within, all-day radiance. Whether you're going for a soft, dewy look or a show-stopping, blinding glow, this buildable, lightweight formula has you covered. Packed with skin-loving ingredients and a tou*
 
 **URL:** https://prettyclickcosmetics.com/products/profusion-cosmetics-radiant-glow-illuminating-liquid-highlighter-14-5ml-rose-quartz
-**Crawled:** 2025-09-24T23:30:28.380809
+**Crawled:** 2025-09-24T23:44:44.693653
 
 ---
 

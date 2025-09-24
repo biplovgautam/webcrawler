@@ -1,7 +1,7 @@
-# Moisturizer – Prettyclick
+# Eyeshadow – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/moisturizer-1
-**Crawled:** 2025-09-24T23:45:44.298847
+**URL:** https://prettyclickcosmetics.com/collections/eyeshadow
+**Crawled:** 2025-09-24T23:45:01.899223
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-26 products
+38 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs3,800.00
+The highest price is Rs3,900.00
 
 From
 
@@ -67,11 +67,11 @@ Availability
 
 In stock
 
-15
+27
 
 Out of stock
 
-11
+16
 
 Apply
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs3,800.00
+The highest price is Rs3,900.00
 
 From
 
@@ -119,33 +119,37 @@ Availability
 
 In stock
 
-15
+27
 
 Out of stock
 
-11
+16
 
 NEW
 
 Shop Now
 
-Add to cart
+Sale
+
+Choose options
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Roc Multi Correxion� Revive + Glow Moisturizer
+L.A. Girl Keep it Playful Eyeshadow
 
 Regular price
 
-Rs3,750.00
+Rs787.50
 
 Sale price
 
-Rs3,750.00
+Rs787.50
 
 Regular price
+
+Rs1,050.00
 
 Unit price
 
@@ -153,7 +157,75 @@ Unit price
 
 per
 
-Add to cart
+Choose options
+
+View details
+
+Choose your option
+
+Sold out
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+L.A. Colors Color Block 10 Color Eyeshadow Palette
+
+Regular price
+
+Rs399.00
+
+Sale price
+
+Rs399.00
+
+Regular price
+
+Rs600.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+L.A.  Colors 14 Color Eyeshadow Palette
+
+Regular price
+
+Rs299.00
+
+Sale price
+
+Rs299.00
+
+Regular price
+
+Rs850.00
+
+Unit price
+
+/
+
+per
+
+Choose options
 
 View details
 
@@ -165,19 +237,21 @@ Sold out
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Roc Retinol Correxion� Deep Wrinkle Daily Moisturizer spf 30
+L.A. Colors Spill The Tea Eyeshadow
 
 Regular price
 
-Rs3,350.00
+Rs299.00
 
 Sale price
 
-Rs3,350.00
+Rs299.00
 
 Regular price
+
+Rs850.00
 
 Unit price
 
@@ -186,6 +260,40 @@ Unit price
 per
 
 Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+L.A. Colors 12 Colors Too Precious Eyeshadow
+
+Regular price
+
+Rs200.00
+
+Sale price
+
+Rs200.00
+
+Regular price
+
+Rs399.00
+
+Unit price
+
+/
+
+per
+
+Choose options
 
 View details
 
@@ -197,51 +305,21 @@ Add to cart
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Cosrx Full Fit Propolis Light Cream
+L.A. Colors What's The Tea Eyeshadow
 
 Regular price
 
-Rs3,570.00
+Rs299.00
 
 Sale price
 
-Rs3,570.00
+Rs299.00
 
 Regular price
 
-Rs4,200.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cerave Daily Moisturizing Lotion 355ml
-
-Regular price
-
-Rs2,850.00
-
-Sale price
-
-Rs2,850.00
-
-Regular price
+Rs850.00
 
 Unit price
 
@@ -261,181 +339,17 @@ Sold out
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Good Molecules Lightweight Daily Moisturizer 100ml
+Kara Beauty Goddess Nem Pro Shadow Palette
 
 Regular price
 
-Rs2,295.00
+Rs499.00
 
 Sale price
 
-Rs2,295.00
-
-Regular price
-
-Rs2,700.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Aveeno Daily Moisturizing lotion 591ml
-
-Regular price
-
-Rs2,000.00
-
-Sale price
-
-Rs2,000.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cetaphil Moisturizing Lotion 473ml
-
-Regular price
-
-Rs2,300.00
-
-Sale price
-
-Rs2,300.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cosrx Advanced Snail 92 All in one Cream
-
-Regular price
-
-Rs2,320.00
-
-Sale price
-
-Rs2,320.00
-
-Regular price
-
-Rs2,900.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sale
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Neutrogena Hyaluronic Acid Water Gel Hydro Boost - 50ml
-
-Regular price
-
-Rs1,815.00
-
-Sale price
-
-Rs1,815.00
-
-Regular price
-
-Rs3,300.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sold out
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Dermae Vitamin C Renewing Moisturizer
-
-Regular price
-
-Rs500.00
-
-Sale price
-
-Rs500.00
+Rs499.00
 
 Regular price
 
@@ -455,27 +369,23 @@ Choose your option
 
 Sold out
 
-New
-
 Sold out
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Hempz Sensitive Skin Herbal Body Moisturizer 500 ml
+Kara Beauty Party Girl Eyeshadow Palette
 
 Regular price
 
-Rs1,350.00
+Rs750.00
 
 Sale price
 
-Rs1,350.00
+Rs750.00
 
 Regular price
-
-Rs2,700.00
 
 Unit price
 
@@ -491,27 +401,23 @@ Choose your option
 
 Sold out
 
-New
-
 Sold out
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Hempz Exotic Green Tea & Asian Pear Body Moisturizer 66ml
+Kara Like Totally Pro Shadow Palette
 
 Regular price
 
-Rs498.00
+Rs2,000.00
 
 Sale price
 
-Rs498.00
+Rs2,000.00
 
 Regular price
-
-Rs995.00
 
 Unit price
 
@@ -525,154 +431,26 @@ View details
 
 Choose your option
 
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cetaphil Moisturizing Cream 453gm
-
-Regular price
-
-Rs2,700.00
-
-Sale price
-
-Rs2,700.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cerave Facial Moisturizing Lotion PM 89ml
-
-Regular price
-
-Rs2,600.00
-
-Sale price
-
-Rs2,600.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Sold out
-
-New
-
-Sold out
-
-Compare
-
-Moisturizer
-
-Hempz Original Herbal Body Moisturizer
-
-Regular price
-
-Rs1,350.00
-
-Sale price
-
-Rs1,350.00
-
-Regular price
-
-Rs2,700.00
-
-Unit price
-
-/
-
-per
-
-Sold out
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Moisturizer
-
-Cerave Sa lotion For Rough & Bumpy Skin 237ml
-
-Regular price
-
-Rs3,700.00
-
-Sale price
-
-Rs3,700.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
 Sold out
 
 Sold out
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Dermae Anti-Aging Regenerative Day Cream
-
-Regular price
-
-Rs500.00
-
-Sale price
-
-Rs500.00
+The Balm Gold Coast Face Palette
 
 Regular price
 
 Rs3,200.00
 
+Sale price
+
+Rs3,200.00
+
+Regular price
+
 Unit price
 
 /
@@ -685,25 +463,121 @@ View details
 
 Choose your option
 
+Sold out
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+Wet N Wild Glitter Single
+
+Regular price
+
+Rs220.00
+
+Sale price
+
+Rs220.00
+
+Regular price
+
+Rs275.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+Beauty Creations Riding Solo Single Pressed Shadow
+
+Regular price
+
+Rs800.00
+
+Sale price
+
+Rs800.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+L.A. Girl Pro Mastery Eyeshadow Palette
+
+Regular price
+
+Rs1,500.00
+
+Sale price
+
+Rs1,500.00
+
+Regular price
+
+Rs2,000.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
 Add to cart
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Skin1OO4 Poremizing Light Gel Cream 75 ml
+J. Cat Beauty Shimmie Struck Shadow Stick-Mesmer Eyes
 
 Regular price
 
-Rs2,400.00
+Rs900.00
 
 Sale price
 
-Rs2,400.00
+Rs900.00
 
 Regular price
-
-Rs2,400.00
 
 Unit price
 
@@ -719,28 +593,24 @@ Choose your option
 
 Sold out
 
-New
-
 Sold out
 
 Compare
 
-Moisturizer
+Eyeshadow
 
-Hempz Fragrance-Free Herbal Limited Edition Daily Moisturizing Cream 500 ml
-
-Regular price
-
-Rs1,350.00
-
-Sale price
-
-Rs1,350.00
+The Balm 12 Shade Miss Nude York Eyeshadow Pallette
 
 Regular price
 
 Rs2,700.00
 
+Sale price
+
+Rs2,700.00
+
+Regular price
+
 Unit price
 
 /
@@ -748,6 +618,138 @@ Unit price
 per
 
 Sold out
+
+View details
+
+Choose your option
+
+Sale
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+L.A. Girl 12 Color Nudes Eyeshadow (12g)
+
+Regular price
+
+Rs975.00
+
+Sale price
+
+Rs975.00
+
+Regular price
+
+Rs1,300.00
+
+Unit price
+
+/
+
+per
+
+Choose options
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Eyeshadow
+
+Bellapierre Cosmetics Satin Rose Eye And Face Book
+
+Regular price
+
+Rs950.00
+
+Sale price
+
+Rs950.00
+
+Regular price
+
+Rs1,900.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Eyeshadow
+
+L.A.  Colors 12 Piece Eyeshadow Pallette
+
+Regular price
+
+Rs199.00
+
+Sale price
+
+Rs199.00
+
+Regular price
+
+Rs475.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Choose options
+
+Compare
+
+Eyeshadow
+
+Beauty Creations Nude X Mini Shadow Palette 8.5g
+
+Regular price
+
+Rs1,150.00
+
+Sale price
+
+Rs1,150.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Choose options
 
 View details
 

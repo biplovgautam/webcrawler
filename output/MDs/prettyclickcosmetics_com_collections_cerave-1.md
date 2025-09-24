@@ -1,7 +1,7 @@
-# Face Mask – Prettyclick
+# Cerave – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/collections/face-mask
-**Crawled:** 2025-09-24T23:30:50.982762
+**URL:** https://prettyclickcosmetics.com/collections/cerave-1
+**Crawled:** 2025-09-24T23:45:15.568869
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-24 products
+18 products
 
 Filter
 
@@ -49,7 +49,7 @@ Date, new to old
 
 Price
 
-The highest price is Rs250.00
+The highest price is Rs3,800.00
 
 From
 
@@ -67,11 +67,11 @@ Availability
 
 In stock
 
-24
+14
 
 Out of stock
 
-0
+4
 
 Apply
 
@@ -101,7 +101,7 @@ View as:
 
 Price
 
-The highest price is Rs250.00
+The highest price is Rs3,800.00
 
 From
 
@@ -119,11 +119,11 @@ Availability
 
 In stock
 
-24
+14
 
 Out of stock
 
-0
+4
 
 NEW
 
@@ -133,21 +133,19 @@ Add to cart
 
 Compare
 
-Face mask
+Cleanser
 
-Dermal Snail Collagen Essence Face Mask
+Cerave Hydrating Facial Cleanser 355ml
 
 Regular price
 
-Rs250.00
+Rs3,000.00
 
 Sale price
 
-Rs250.00
+Rs3,000.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -165,21 +163,19 @@ Add to cart
 
 Compare
 
-Face mask
+Moisturizer
 
-Dermal Pearl Collagen Essence Face Mask
+Cerave Daily Moisturizing Lotion 355ml
 
 Regular price
 
-Rs250.00
+Rs2,850.00
 
 Sale price
 
-Rs250.00
+Rs2,850.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -197,21 +193,19 @@ Add to cart
 
 Compare
 
-Face mask
+Moisturizer Cream
 
-Dermal Vitamin Collagen Essence Face Mask
+Cerave Moisturizing Cream - 539 g
 
 Regular price
 
-Rs250.00
+Rs3,700.00
 
 Sale price
 
-Rs250.00
+Rs3,700.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -229,21 +223,83 @@ Add to cart
 
 Compare
 
-Face mask
+Cream
 
-Dermal Hyaluronate Collagen Essence Mask
+Cerave Moisturizing Cream - 340g
 
 Regular price
 
-Rs250.00
+Rs3,000.00
 
 Sale price
 
-Rs250.00
+Rs3,000.00
 
 Regular price
 
-Rs0.00
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Cleanser
+
+Cerave Acne Control Cleanser 237ml
+
+Regular price
+
+Rs3,500.00
+
+Sale price
+
+Rs3,500.00
+
+Regular price
+
+Rs3,500.00
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Cleanser
+
+Cerave Foaming Facial Cleanser - 355ml
+
+Regular price
+
+Rs3,200.00
+
+Sale price
+
+Rs3,200.00
+
+Regular price
 
 Unit price
 
@@ -261,21 +317,19 @@ Add to cart
 
 Compare
 
-Face mask
+Cream
 
-Dermal Gold Collagen Essence Face Mask
+Cerave Moisturizing Cream - 236ml
 
 Regular price
 
-Rs250.00
+Rs2,700.00
 
 Sale price
 
-Rs250.00
+Rs2,700.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -293,21 +347,19 @@ Add to cart
 
 Compare
 
-Face mask
+Cream
 
-Dermal White Collagen Essence Face Mask
+Cerave Moisturizing Cream 56ml
 
 Regular price
 
-Rs250.00
+Rs1,850.00
 
 Sale price
 
-Rs250.00
+Rs1,850.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -325,21 +377,81 @@ Add to cart
 
 Compare
 
-Face mask
+Lotion
 
-Dermal Cucumber Collagen Essence Face Mask
+Cerave Am Facial Moisturizing Lotion Spf 30 - 89ml
 
 Regular price
 
-Rs250.00
+Rs2,600.00
 
 Sale price
 
-Rs250.00
+Rs2,600.00
 
 Regular price
 
-Rs0.00
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Sold out
+
+Sold out
+
+Compare
+
+Cleanser
+
+Cerave Foaming Facial Cleanser 87Ml
+
+Regular price
+
+Rs1,250.00
+
+Sale price
+
+Rs1,250.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Moisturizer
+
+Cerave Facial Moisturizing Lotion PM 89ml
+
+Regular price
+
+Rs2,600.00
+
+Sale price
+
+Rs2,600.00
+
+Regular price
 
 Unit price
 
@@ -357,21 +469,19 @@ Add to cart
 
 Compare
 
-Face mask
+Moisturizer
 
-Dermal Aqua Collagen Essence Face Mask
+Cerave Sa lotion For Rough & Bumpy Skin 237ml
 
 Regular price
 
-Rs250.00
+Rs3,700.00
 
 Sale price
 
-Rs250.00
+Rs3,700.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -389,21 +499,19 @@ Add to cart
 
 Compare
 
-Face mask
+Cleanser
 
-Dermal Milk Collagen Essence Mask
+Cerave Foaming Facial Cleanser - 237ml
 
 Regular price
 
-Rs250.00
+Rs2,800.00
 
 Sale price
 
-Rs250.00
+Rs2,800.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -421,21 +529,19 @@ Add to cart
 
 Compare
 
-Face mask
+Lotion
 
-Dermal Royal Jelly Collagen Essence Face Mask
+Cerave Pm Facial Moisturizing Lotion - 60ml
 
 Regular price
 
-Rs250.00
+Rs2,400.00
 
 Sale price
 
-Rs250.00
+Rs2,400.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -453,21 +559,19 @@ Add to cart
 
 Compare
 
-Face mask
+Cleanser
 
-Dermal Rose Collagen Essence Face Mask
+Cerave Hydrating Facial Cleanser - 237ml
 
 Regular price
 
-Rs250.00
+Rs2,700.00
 
 Sale price
 
-Rs250.00
+Rs2,700.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -481,25 +585,55 @@ View details
 
 Choose your option
 
+Sold out
+
+Sold out
+
+Compare
+
+Gel
+
+Cerave Aha & Bha Acne Control Gel - 40ml
+
+Regular price
+
+Rs3,500.00
+
+Sale price
+
+Rs3,500.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Sold out
+
+View details
+
+Choose your option
+
 Add to cart
 
 Compare
 
-Face mask
+Oil
 
-Dermal Platinum Collagen Essence Mask
+Cerave Skin Renewing Gel oil - 29ml
 
 Regular price
 
-Rs250.00
+Rs3,800.00
 
 Sale price
 
-Rs250.00
+Rs3,800.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -513,25 +647,25 @@ View details
 
 Choose your option
 
-Add to cart
+Sold out
+
+Sold out
 
 Compare
 
-Face mask
+Moisturizer
 
-Dermal Red Ginseng Collagen Essence Face Mask
+Cerave Baby Moisturizing Lotion 237ml
 
 Regular price
 
-Rs250.00
+Rs2,200.00
 
 Sale price
 
-Rs250.00
+Rs2,200.00
 
 Regular price
-
-Rs0.00
 
 Unit price
 
@@ -539,199 +673,7 @@ Unit price
 
 per
 
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Face mask
-
-Dermal Green Tea Collagen Essence Face Mask
-
-Regular price
-
-Rs250.00
-
-Sale price
-
-Rs250.00
-
-Regular price
-
-Rs0.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Face mask
-
-Dermal Wine Collagen Essence Mask
-
-Regular price
-
-Rs250.00
-
-Sale price
-
-Rs250.00
-
-Regular price
-
-Rs0.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Face mask
-
-Dermal Pomegranate Collagen Essence Mask
-
-Regular price
-
-Rs250.00
-
-Sale price
-
-Rs250.00
-
-Regular price
-
-Rs0.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Face mask
-
-Dermal Apricot Collagen Essence Face Mask
-
-Regular price
-
-Rs250.00
-
-Sale price
-
-Rs250.00
-
-Regular price
-
-Rs0.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-None
-
-Dermal Aloe Collagen Essence Mask
-
-Regular price
-
-Rs250.00
-
-Sale price
-
-Rs250.00
-
-Regular price
-
-Rs0.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Face mask
-
-Dermal Charcoal Collagen Essence Face Mask
-
-Regular price
-
-Rs250.00
-
-Sale price
-
-Rs250.00
-
-Regular price
-
-Rs0.00
-
-Unit price
-
-/
-
-per
-
-Add to cart
+Sold out
 
 View details
 

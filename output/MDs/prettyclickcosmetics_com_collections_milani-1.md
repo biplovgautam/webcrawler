@@ -1,7 +1,7 @@
 # Milani – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/collections/milani-1
-**Crawled:** 2025-09-24T23:31:00.069375
+**Crawled:** 2025-09-24T23:45:09.036037
 
 ---
 

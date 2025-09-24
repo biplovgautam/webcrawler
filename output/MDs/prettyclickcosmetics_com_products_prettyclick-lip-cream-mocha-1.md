@@ -1,7 +1,9 @@
-# Milani Conceal + Perfect Blur Out Smoothing Primer 21g – Prettyclick
+# Prettyclick Lip Cream - Mocha
 
-**URL:** https://prettyclickcosmetics.com/products/milani-conceal-perfect-blur-out-smoothing-primer-21g
-**Crawled:** 2025-09-24T23:29:48.552416
+*A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone. Made in Korea*
+
+**URL:** https://prettyclickcosmetics.com/products/prettyclick-lip-cream-mocha-1
+**Crawled:** 2025-09-24T23:44:57.746679
 
 ---
 
@@ -17,23 +19,25 @@ Open media 3 in modal
 
 Open media 4 in modal
 
+Open media 5 in modal
+
 Save
 
-20%
+25%
 
-Milani Conceal + Perfect Blur Out Smoothing Primer 21g
+Prettyclick Lip Cream - Mocha
 
-Milani Conceal + Perfect Blur Out Smoothing Primer 21g
+Prettyclick Lip Cream - Mocha
 
 No reviews
 
 Vendor:
 
-Milani
+Prettyclick
 
 Type:
 
-primer
+Lip Cream
 
 PRETTYCLICK REWARD POINTS
 
@@ -41,15 +45,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs1,960.00
+Rs750.00
 
 Sale price
 
-Rs1,960.00
+Rs750.00
 
 Regular price
 
-Rs2,450.00
+Rs1,000.00
 
 Unit price
 
@@ -67,11 +71,15 @@ calculated at checkout.
 
 Available in stock
 
+A weightless, long-wearing, liquid lipstick with a soft-matte finish- that looks incredible on every skin tone.
+
+Made in Korea
+
 Quantity
 
-Decrease quantity for Milani Conceal + Perfect Blur Out Smoothing Primer 21g
+Decrease quantity for Prettyclick Lip Cream - Mocha
 
-Increase quantity for Milani Conceal + Perfect Blur Out Smoothing Primer 21g
+Increase quantity for Prettyclick Lip Cream - Mocha
 
 Add to cart
 
@@ -93,19 +101,19 @@ Share on X
 
 Pin on Pinterest
 
-Milani Conceal + Perfect Blur Out Smoothing Primer 21g
+Prettyclick Lip Cream - Mocha
 
 Regular price
 
-Rs1,960.00
+Rs750.00
 
 Sale price
 
-Rs1,960.00
+Rs750.00
 
 Regular price
 
-Rs2,450.00
+Rs1,000.00
 
 Unit price
 
@@ -115,9 +123,9 @@ per
 
 Default Title
 
-Decrease quantity for Milani Conceal + Perfect Blur Out Smoothing Primer 21g
+Decrease quantity for Prettyclick Lip Cream - Mocha
 
-Increase quantity for Milani Conceal + Perfect Blur Out Smoothing Primer 21g
+Increase quantity for Prettyclick Lip Cream - Mocha
 
 Add to cart
 

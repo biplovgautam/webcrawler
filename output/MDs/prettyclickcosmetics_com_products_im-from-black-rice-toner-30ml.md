@@ -1,7 +1,7 @@
-# I'm From Black Rice Toner 150ml – Prettyclick
+# I'm From Black Rice Toner 30ml – Prettyclick
 
-**URL:** https://prettyclickcosmetics.com/products/im-from-black-rice-toner-150ml
-**Crawled:** 2025-09-24T23:30:25.423639
+**URL:** https://prettyclickcosmetics.com/products/im-from-black-rice-toner-30ml
+**Crawled:** 2025-09-24T23:45:16.925046
 
 ---
 
@@ -13,9 +13,9 @@ Save
 
 20%
 
-I'm From Black Rice Toner 150ml
+I'm From Black Rice Toner 30ml
 
-I'm From Black Rice Toner 150ml
+I'm From Black Rice Toner 30ml
 
 No reviews
 
@@ -33,15 +33,15 @@ Earn 5% prettyclick reward points on every purchase
 
 Regular price
 
-Rs2,880.00
+Rs800.00
 
 Sale price
 
-Rs2,880.00
+Rs800.00
 
 Regular price
 
-Rs3,600.00
+Rs1,000.00
 
 Unit price
 
@@ -61,9 +61,9 @@ Available in stock
 
 Quantity
 
-Decrease quantity for I&#39;m From Black Rice Toner 150ml
+Decrease quantity for I&#39;m From Black Rice Toner 30ml
 
-Increase quantity for I&#39;m From Black Rice Toner 150ml
+Increase quantity for I&#39;m From Black Rice Toner 30ml
 
 Add to cart
 
@@ -85,19 +85,19 @@ Share on X
 
 Pin on Pinterest
 
-I'm From Black Rice Toner 150ml
+I'm From Black Rice Toner 30ml
 
 Regular price
 
-Rs2,880.00
+Rs800.00
 
 Sale price
 
-Rs2,880.00
+Rs800.00
 
 Regular price
 
-Rs3,600.00
+Rs1,000.00
 
 Unit price
 
@@ -107,9 +107,9 @@ per
 
 Default Title
 
-Decrease quantity for I&#39;m From Black Rice Toner 150ml
+Decrease quantity for I&#39;m From Black Rice Toner 30ml
 
-Increase quantity for I&#39;m From Black Rice Toner 150ml
+Increase quantity for I&#39;m From Black Rice Toner 30ml
 
 Add to cart
 
