@@ -3,7 +3,7 @@
 *Nepal's largest homegrown e-commerce platform offering a curated collection of Makeup, Skincare, Baby care, Gadgets, Fashion, Appliances and beyond. Your one...*
 
 **URL:** https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A
-**Crawled:** 2025-09-25T10:44:07.247856
+**Crawled:** 2025-09-25T10:49:07.790975
 
 ---
 

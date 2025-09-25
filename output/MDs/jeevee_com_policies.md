@@ -1,7 +1,7 @@
 # Privacy and Policy | Jeevee
 
 **URL:** https://jeevee.com/policies
-**Crawled:** 2025-09-25T10:43:55.565778
+**Crawled:** 2025-09-25T10:49:05.921848
 
 ---
 

@@ -92,11 +92,13 @@ def validate_config():
 def show_config():
     logging.info("Displaying crawler configuration...")
     domain_info = ALLOWED_DOMAIN if ALLOWED_DOMAIN else "Any domain (cross-domain crawling)"
-    config_msg = f"Domain: {domain_info}, Depth: {CRAWL_DEPTH}, Pages/seed: {PAGES_PER_SEED}, Max: {MAX_PAGES}, Delay: {REQUEST_DELAY}s, Timeout: {TIMEOUT}s, Retries: {MAX_RETRIES}, Blocked: {len(BLOCKED_PAGES_FULL)} URLs, {len(BLOCK_PATTERNS)} patterns"
+    config_msg = f"Domain: {domain_info}, Depth: {CRAWL_DEPTH}, Pages/seed: {PAGES_PER_SEED}, Max: {MAX_PAGES}, Delay: {REQUEST_DELAY}s, Timeout: {TIMEOUT}s, Retries: {MAX_RETRIES}, Robots.txt: Enabled, Blocked: {len(BLOCKED_PAGES_FULL)} URLs, {len(BLOCK_PATTERNS)} patterns"
     
     print(f"Domain: {domain_info}")
     print(f"Depth: {CRAWL_DEPTH}, Pages/seed: {PAGES_PER_SEED}, Max: {MAX_PAGES}")
     print(f"Delay: {REQUEST_DELAY}s, Timeout: {TIMEOUT}s, Retries: {MAX_RETRIES}")
+    print(f"Robots.txt: Enabled (ethical crawling)")
+    print(f"Blocked: {len(BLOCKED_PAGES_FULL)} URLs, {len(BLOCK_PATTERNS)} patterns")
     print(f"Blocked: {len(BLOCKED_PAGES_FULL)} URLs, {len(BLOCK_PATTERNS)} patterns")
     
     logging.info(config_msg)
@@ -574,15 +576,14 @@ class WebCrawler:
             logging.debug(f"Skipping invalid domain: {url}")
             return []
         
-        # Check robots.txt if enabled
-        if RESPECT_ROBOTS:
-            parsed = urlparse(url)
-            domain = f"{parsed.scheme}://{parsed.netloc}"
-            await self.get_robots_parser(domain)  # Ensure robots.txt is cached
-            
-            if not self.can_fetch(url):
-                logging.info(f"Robots.txt disallows crawling: {url}")
-                return []
+        # Check robots.txt (always enabled for ethical crawling)
+        parsed = urlparse(url)
+        domain = f"{parsed.scheme}://{parsed.netloc}"
+        await self.get_robots_parser(domain)  # Ensure robots.txt is cached
+        
+        if not self.can_fetch(url):
+            logging.info(f"Robots.txt disallows crawling: {url}")
+            return []
         
         if self.crawled_pages >= MAX_PAGES:
             logging.info(f"Reached maximum pages limit ({MAX_PAGES})")
