@@ -3,7 +3,7 @@
 *🎓✨ Dreaming of Australia for your higher studies? Here’s your chance to connect with one of its fastest-growing universities — University of the Sunshine Coast (UniSC), Australia!🌞 Meet Raj Desai | Business Development Manager (South Asia, Southeast Asia & Middle East) 🌟 Why UniSC?✅ Top-quality teaching with modern facilities✅ Campuses across South East Queensland, including*
 
 **URL:** https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/
-**Crawled:** 2025-09-25T10:50:01.729045
+**Crawled:** 2025-09-25T11:03:03.825755
 
 ---
 

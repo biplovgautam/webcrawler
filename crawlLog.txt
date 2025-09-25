@@ -952,3 +952,240 @@
 2025-09-25 10:50:09,974 - INFO - HTTP session closed successfully
 2025-09-25 10:50:09,980 - INFO - Output files saved successfully
 2025-09-25 10:50:09,980 - INFO - Crawler session completed
+2025-09-25 11:02:28,358 - INFO - Web Crawler starting up...
+2025-09-25 11:02:28,358 - INFO - Validating crawler configuration...
+2025-09-25 11:02:28,359 - INFO - Configuration validation passed
+2025-09-25 11:02:28,359 - INFO - Configuration validation passed
+2025-09-25 11:02:28,360 - INFO - Displaying crawler configuration...
+2025-09-25 11:02:28,362 - INFO - Domain: Any domain (cross-domain crawling), Depth: 1, Pages/seed: 50, Max: 200, Delay: 1.0s, Timeout: 30s, Retries: 3, Robots.txt: Enabled, Blocked: 3 URLs, 5 patterns
+2025-09-25 11:02:28,364 - INFO - Starting web crawler...
+2025-09-25 11:02:28,364 - INFO - Starting HTTP session...
+2025-09-25 11:02:28,366 - INFO - HTTP session started successfully
+2025-09-25 11:02:28,366 - INFO - Cleaning output directory...
+2025-09-25 11:02:28,367 - INFO - Removed output/index.jsonl
+2025-09-25 11:02:28,368 - INFO - Removed output/failed_urls.txt
+2025-09-25 11:02:28,382 - INFO - Removed directory output/MDs
+2025-09-25 11:02:28,382 - INFO - Output directory cleaned successfully
+2025-09-25 11:02:28,383 - INFO - Loading seed URLs from seeds.txt...
+2025-09-25 11:02:28,384 - INFO - Loaded 4 seed URLs: ['https://jeevee.com/', 'http://kiec.edu.np/', 'https://prettyclickcosmetics.com/', 'https://www.tranquilityspa.com.np/']
+2025-09-25 11:02:28,384 - INFO - Starting crawl with 4 seeds
+2025-09-25 11:02:28,730 - INFO - Loaded robots.txt for https://jeevee.com: 16 disallowed paths
+2025-09-25 11:02:28,730 - INFO - Crawling page 1: https://jeevee.com/ (depth 0)
+2025-09-25 11:02:28,731 - INFO - Fetching page: https://jeevee.com/
+2025-09-25 11:02:28,794 - INFO - Successfully fetched https://jeevee.com/ (140688 chars)
+2025-09-25 11:02:28,840 - INFO - Found 14 links on https://jeevee.com/
+2025-09-25 11:02:30,003 - INFO - Loaded robots.txt for http://kiec.edu.np: 1 disallowed paths
+2025-09-25 11:02:30,003 - INFO - Crawling page 2: http://kiec.edu.np/ (depth 0)
+2025-09-25 11:02:30,003 - INFO - Fetching page: http://kiec.edu.np/
+2025-09-25 11:02:30,528 - INFO - Successfully fetched http://kiec.edu.np/ (234438 chars)
+2025-09-25 11:02:30,661 - INFO - Found 34 links on http://kiec.edu.np/
+2025-09-25 11:02:32,271 - INFO - Loaded robots.txt for https://prettyclickcosmetics.com: 129 disallowed paths
+2025-09-25 11:02:32,272 - INFO - Robots.txt disallows crawling: https://prettyclickcosmetics.com/
+2025-09-25 11:02:32,498 - WARNING - Error fetching robots.txt for https://www.tranquilityspa.com.np: Cannot connect to host www.tranquilityspa.com.np:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')]
+2025-09-25 11:02:32,500 - INFO - Crawling page 3: https://www.tranquilityspa.com.np/ (depth 0)
+2025-09-25 11:02:32,501 - INFO - Fetching page: https://www.tranquilityspa.com.np/
+2025-09-25 11:02:32,529 - WARNING - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError, retrying...
+2025-09-25 11:02:33,545 - INFO - Retrying page (1/3): https://www.tranquilityspa.com.np/
+2025-09-25 11:02:33,569 - WARNING - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError, retrying...
+2025-09-25 11:02:35,577 - INFO - Retrying page (2/3): https://www.tranquilityspa.com.np/
+2025-09-25 11:02:35,603 - WARNING - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError, retrying...
+2025-09-25 11:02:38,610 - INFO - Retrying page (3/3): https://www.tranquilityspa.com.np/
+2025-09-25 11:02:38,633 - ERROR - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError (max retries exceeded)
+2025-09-25 11:02:38,634 - ERROR - Failed to crawl https://www.tranquilityspa.com.np/: Network error: ClientConnectorCertificateError
+2025-09-25 11:02:39,434 - INFO - Loaded robots.txt for https://bit.ly: 0 disallowed paths
+2025-09-25 11:02:39,435 - INFO - Crawling page 3: https://bit.ly/2O7oUkm (depth 1)
+2025-09-25 11:02:39,435 - INFO - Fetching page: https://bit.ly/2O7oUkm
+2025-09-25 11:02:41,529 - INFO - Successfully fetched https://bit.ly/2O7oUkm (258447 chars)
+2025-09-25 11:02:41,538 - INFO - Max depth reached for https://bit.ly/2O7oUkm
+2025-09-25 11:02:42,544 - INFO - Crawling page 4: https://jeevee.com/vendor-enrollment (depth 1)
+2025-09-25 11:02:42,545 - INFO - Fetching page: https://jeevee.com/vendor-enrollment
+2025-09-25 11:02:42,694 - INFO - Successfully fetched https://jeevee.com/vendor-enrollment (121092 chars)
+2025-09-25 11:02:42,745 - INFO - Max depth reached for https://jeevee.com/vendor-enrollment
+2025-09-25 11:02:43,759 - INFO - Crawling page 5: https://jeevee.com/terms (depth 1)
+2025-09-25 11:02:43,761 - INFO - Fetching page: https://jeevee.com/terms
+2025-09-25 11:02:43,845 - INFO - Successfully fetched https://jeevee.com/terms (106845 chars)
+2025-09-25 11:02:43,869 - INFO - Max depth reached for https://jeevee.com/terms
+2025-09-25 11:02:44,878 - INFO - Crawling page 6: https://jeevee.com/policies (depth 1)
+2025-09-25 11:02:44,880 - INFO - Fetching page: https://jeevee.com/policies
+2025-09-25 11:02:44,970 - INFO - Successfully fetched https://jeevee.com/policies (98166 chars)
+2025-09-25 11:02:44,989 - INFO - Max depth reached for https://jeevee.com/policies
+2025-09-25 11:02:46,209 - INFO - No robots.txt found for https://fonts.gstatic.com (HTTP 404)
+2025-09-25 11:02:46,211 - INFO - Crawling page 7: https://fonts.gstatic.com (depth 1)
+2025-09-25 11:02:46,211 - INFO - Fetching page: https://fonts.gstatic.com
+2025-09-25 11:02:46,327 - WARNING - HTTP 404 for https://fonts.gstatic.com
+2025-09-25 11:02:46,328 - ERROR - Failed to crawl https://fonts.gstatic.com: HTTP 404
+2025-09-25 11:02:46,329 - INFO - Crawling page 7: https://jeevee.com/prescriptions (depth 1)
+2025-09-25 11:02:46,329 - INFO - Fetching page: https://jeevee.com/prescriptions
+2025-09-25 11:02:46,500 - INFO - Successfully fetched https://jeevee.com/prescriptions (92637 chars)
+2025-09-25 11:02:46,524 - INFO - Max depth reached for https://jeevee.com/prescriptions
+2025-09-25 11:02:47,845 - INFO - Loaded robots.txt for https://www.facebook.com: 643 disallowed paths
+2025-09-25 11:02:47,846 - INFO - Robots.txt disallows crawling: https://www.facebook.com/JeeveeNepal
+2025-09-25 11:02:48,002 - INFO - Loaded robots.txt for https://apps.apple.com: 1 disallowed paths
+2025-09-25 11:02:48,003 - INFO - Crawling page 8: https://apps.apple.com/us/app/jeevee/id1525257550 (depth 1)
+2025-09-25 11:02:48,003 - INFO - Fetching page: https://apps.apple.com/us/app/jeevee/id1525257550
+2025-09-25 11:02:49,245 - INFO - Successfully fetched https://apps.apple.com/us/app/jeevee/id1525257550 (579496 chars)
+2025-09-25 11:02:49,298 - INFO - Max depth reached for https://apps.apple.com/us/app/jeevee/id1525257550
+2025-09-25 11:02:51,428 - INFO - Loaded robots.txt for https://www.instagram.com: 0 disallowed paths
+2025-09-25 11:02:51,429 - INFO - Crawling page 9: https://www.instagram.com/jeeveenepal (depth 1)
+2025-09-25 11:02:51,430 - INFO - Fetching page: https://www.instagram.com/jeeveenepal
+2025-09-25 11:02:52,210 - INFO - Successfully fetched https://www.instagram.com/jeeveenepal (440721 chars)
+2025-09-25 11:02:52,219 - INFO - Max depth reached for https://www.instagram.com/jeeveenepal
+2025-09-25 11:02:53,641 - INFO - Loaded robots.txt for https://play.google.com: 96 disallowed paths
+2025-09-25 11:02:53,641 - INFO - Crawling page 10: https://play.google.com/store/apps/details (depth 1)
+2025-09-25 11:02:53,642 - INFO - Fetching page: https://play.google.com/store/apps/details
+2025-09-25 11:02:53,779 - WARNING - HTTP 404 for https://play.google.com/store/apps/details
+2025-09-25 11:02:53,781 - ERROR - Failed to crawl https://play.google.com/store/apps/details: HTTP 404
+2025-09-25 11:02:53,988 - INFO - Loaded robots.txt for https://www.youtube.com: 20 disallowed paths
+2025-09-25 11:02:53,989 - INFO - Crawling page 10: https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A (depth 1)
+2025-09-25 11:02:53,990 - INFO - Fetching page: https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A
+2025-09-25 11:02:54,507 - INFO - Successfully fetched https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A (896630 chars)
+2025-09-25 11:02:54,523 - INFO - Max depth reached for https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A
+2025-09-25 11:02:56,071 - INFO - Loaded robots.txt for https://www.jeevee.com: 16 disallowed paths
+2025-09-25 11:02:56,072 - INFO - Crawling page 11: https://www.jeevee.com (depth 1)
+2025-09-25 11:02:56,072 - INFO - Fetching page: https://www.jeevee.com
+2025-09-25 11:02:56,449 - INFO - Successfully fetched https://www.jeevee.com (140688 chars)
+2025-09-25 11:02:56,482 - INFO - Max depth reached for https://www.jeevee.com
+2025-09-25 11:02:57,485 - INFO - Crawling page 12: https://jeevee.com/about (depth 1)
+2025-09-25 11:02:57,487 - INFO - Fetching page: https://jeevee.com/about
+2025-09-25 11:02:57,574 - INFO - Successfully fetched https://jeevee.com/about (99643 chars)
+2025-09-25 11:02:57,599 - INFO - Max depth reached for https://jeevee.com/about
+2025-09-25 11:02:59,115 - INFO - Loaded robots.txt for https://x.com: 33 disallowed paths
+2025-09-25 11:02:59,116 - INFO - Robots.txt disallows crawling: https://x.com/kiecpage
+2025-09-25 11:02:59,133 - INFO - Loaded robots.txt for https://kiec.edu.np: 1 disallowed paths
+2025-09-25 11:02:59,133 - INFO - Crawling page 13: https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/ (depth 1)
+2025-09-25 11:02:59,134 - INFO - Fetching page: https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/
+2025-09-25 11:02:59,534 - INFO - Successfully fetched https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/ (98210 chars)
+2025-09-25 11:02:59,580 - INFO - Max depth reached for https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/
+2025-09-25 11:03:00,588 - INFO - Crawling page 14: http://kiec.edu.np/cdn-cgi/l/email-protection (depth 1)
+2025-09-25 11:03:00,589 - INFO - Fetching page: http://kiec.edu.np/cdn-cgi/l/email-protection
+2025-09-25 11:03:00,841 - WARNING - HTTP 404 for http://kiec.edu.np/cdn-cgi/l/email-protection
+2025-09-25 11:03:00,841 - ERROR - Failed to crawl http://kiec.edu.np/cdn-cgi/l/email-protection: HTTP 404
+2025-09-25 11:03:00,842 - INFO - Crawling page 14: http://kiec.edu.np/gallery/ (depth 1)
+2025-09-25 11:03:00,842 - INFO - Fetching page: http://kiec.edu.np/gallery/
+2025-09-25 11:03:00,845 - INFO - Applying politeness delay: 0.7s for kiec.edu.np
+2025-09-25 11:03:02,171 - INFO - Successfully fetched http://kiec.edu.np/gallery/ (103214 chars)
+2025-09-25 11:03:02,210 - INFO - Max depth reached for http://kiec.edu.np/gallery/
+2025-09-25 11:03:03,212 - INFO - Crawling page 15: https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/ (depth 1)
+2025-09-25 11:03:03,213 - INFO - Fetching page: https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/
+2025-09-25 11:03:03,780 - INFO - Successfully fetched https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/ (98035 chars)
+2025-09-25 11:03:03,827 - INFO - Max depth reached for https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/
+2025-09-25 11:03:04,830 - INFO - Crawling page 16: https://kiec.edu.np/kiec-services/ (depth 1)
+2025-09-25 11:03:04,832 - INFO - Fetching page: https://kiec.edu.np/kiec-services/
+2025-09-25 11:03:05,262 - INFO - Successfully fetched https://kiec.edu.np/kiec-services/ (149192 chars)
+2025-09-25 11:03:05,302 - INFO - Max depth reached for https://kiec.edu.np/kiec-services/
+2025-09-25 11:03:06,308 - INFO - Crawling page 17: https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/ (depth 1)
+2025-09-25 11:03:06,310 - INFO - Fetching page: https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/
+2025-09-25 11:03:06,683 - INFO - Successfully fetched https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/ (98002 chars)
+2025-09-25 11:03:06,753 - INFO - Max depth reached for https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/
+2025-09-25 11:03:08,049 - INFO - Loaded robots.txt for https://online.kiec.edu.np: 2 disallowed paths
+2025-09-25 11:03:08,050 - INFO - Crawling page 18: https://online.kiec.edu.np/ (depth 1)
+2025-09-25 11:03:08,051 - INFO - Fetching page: https://online.kiec.edu.np/
+2025-09-25 11:03:08,244 - INFO - Successfully fetched https://online.kiec.edu.np/ (19574 chars)
+2025-09-25 11:03:08,252 - INFO - Max depth reached for https://online.kiec.edu.np/
+2025-09-25 11:03:09,753 - INFO - Loaded robots.txt for https://twitter.com: 33 disallowed paths
+2025-09-25 11:03:09,754 - INFO - Robots.txt disallows crawling: https://twitter.com/kiecpage
+2025-09-25 11:03:09,755 - INFO - Crawling page 19: https://kiec.edu.np/university/ (depth 1)
+2025-09-25 11:03:09,755 - INFO - Fetching page: https://kiec.edu.np/university/
+2025-09-25 11:03:10,177 - INFO - Successfully fetched https://kiec.edu.np/university/ (140929 chars)
+2025-09-25 11:03:10,223 - INFO - Max depth reached for https://kiec.edu.np/university/
+2025-09-25 11:03:11,419 - INFO - Loaded robots.txt for https://oshcaustralia.com.au: 84 disallowed paths
+2025-09-25 11:03:11,419 - INFO - Crawling page 20: https://oshcaustralia.com.au/en (depth 1)
+2025-09-25 11:03:11,420 - INFO - Fetching page: https://oshcaustralia.com.au/en
+2025-09-25 11:03:13,323 - INFO - Successfully fetched https://oshcaustralia.com.au/en (46309 chars)
+2025-09-25 11:03:13,346 - INFO - Max depth reached for https://oshcaustralia.com.au/en
+2025-09-25 11:03:14,354 - INFO - Crawling page 21: https://www.instagram.com/kiec.official/ (depth 1)
+2025-09-25 11:03:14,357 - INFO - Fetching page: https://www.instagram.com/kiec.official/
+2025-09-25 11:03:15,413 - INFO - Successfully fetched https://www.instagram.com/kiec.official/ (443397 chars)
+2025-09-25 11:03:15,422 - INFO - Max depth reached for https://www.instagram.com/kiec.official/
+2025-09-25 11:03:16,439 - INFO - Crawling page 22: https://kiec.edu.np/wp-json/oembed/1.0/embed (depth 1)
+2025-09-25 11:03:16,441 - INFO - Fetching page: https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 11:03:16,709 - WARNING - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed, retrying...
+2025-09-25 11:03:17,715 - INFO - Retrying page (1/3): https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 11:03:17,896 - WARNING - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed, retrying...
+2025-09-25 11:03:19,899 - INFO - Retrying page (2/3): https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 11:03:20,102 - WARNING - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed, retrying...
+2025-09-25 11:03:23,105 - INFO - Retrying page (3/3): https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 11:03:23,384 - ERROR - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed (max retries exceeded)
+2025-09-25 11:03:23,385 - ERROR - Failed to crawl https://kiec.edu.np/wp-json/oembed/1.0/embed: HTTP 400 (max retries)
+2025-09-25 11:03:23,893 - INFO - Loaded robots.txt for https://www.tiktok.com: 18 disallowed paths
+2025-09-25 11:03:23,894 - INFO - Robots.txt disallows crawling: https://www.tiktok.com/@kiec.official
+2025-09-25 11:03:23,894 - INFO - Crawling page 22: https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/ (depth 1)
+2025-09-25 11:03:23,895 - INFO - Fetching page: https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/
+2025-09-25 11:03:24,288 - INFO - Successfully fetched https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/ (98133 chars)
+2025-09-25 11:03:24,321 - INFO - Max depth reached for https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/
+2025-09-25 11:03:25,329 - INFO - Crawling page 23: http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg (depth 1)
+2025-09-25 11:03:25,329 - INFO - Fetching page: http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg
+2025-09-25 11:03:25,363 - INFO - Successfully fetched http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg (41196 chars)
+2025-09-25 11:03:25,366 - INFO - Max depth reached for http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg
+2025-09-25 11:03:26,378 - INFO - Crawling page 24: https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/ (depth 1)
+2025-09-25 11:03:26,379 - INFO - Fetching page: https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/
+2025-09-25 11:03:26,754 - INFO - Successfully fetched https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/ (98270 chars)
+2025-09-25 11:03:26,798 - INFO - Max depth reached for https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/
+2025-09-25 11:03:27,829 - INFO - Crawling page 25: https://kiec.edu.np/xmlrpc.php (depth 1)
+2025-09-25 11:03:27,830 - INFO - Fetching page: https://kiec.edu.np/xmlrpc.php
+2025-09-25 11:03:28,057 - WARNING - HTTP 405 for https://kiec.edu.np/xmlrpc.php, retrying...
+2025-09-25 11:03:29,061 - INFO - Retrying page (1/3): https://kiec.edu.np/xmlrpc.php
+2025-09-25 11:03:29,307 - WARNING - HTTP 405 for https://kiec.edu.np/xmlrpc.php, retrying...
+2025-09-25 11:03:31,311 - INFO - Retrying page (2/3): https://kiec.edu.np/xmlrpc.php
+2025-09-25 11:03:31,528 - WARNING - HTTP 405 for https://kiec.edu.np/xmlrpc.php, retrying...
+2025-09-25 11:03:34,534 - INFO - Retrying page (3/3): https://kiec.edu.np/xmlrpc.php
+2025-09-25 11:03:34,829 - ERROR - HTTP 405 for https://kiec.edu.np/xmlrpc.php (max retries exceeded)
+2025-09-25 11:03:34,831 - ERROR - Failed to crawl https://kiec.edu.np/xmlrpc.php: HTTP 405 (max retries)
+2025-09-25 11:03:34,831 - INFO - Robots.txt disallows crawling: https://www.facebook.com/kiec.officialpage/
+2025-09-25 11:03:34,832 - INFO - Crawling page 25: https://kiec.edu.np/ (depth 1)
+2025-09-25 11:03:34,833 - INFO - Fetching page: https://kiec.edu.np/
+2025-09-25 11:03:35,351 - INFO - Successfully fetched https://kiec.edu.np/ (234438 chars)
+2025-09-25 11:03:35,421 - INFO - Max depth reached for https://kiec.edu.np/
+2025-09-25 11:03:36,428 - INFO - Crawling page 26: https://kiec.edu.np/student-accommodation/ (depth 1)
+2025-09-25 11:03:36,428 - INFO - Fetching page: https://kiec.edu.np/student-accommodation/
+2025-09-25 11:03:36,986 - INFO - Successfully fetched https://kiec.edu.np/student-accommodation/ (142779 chars)
+2025-09-25 11:03:37,088 - INFO - Max depth reached for https://kiec.edu.np/student-accommodation/
+2025-09-25 11:03:38,094 - INFO - Crawling page 27: https://www.instagram.com/kiecpage (depth 1)
+2025-09-25 11:03:38,095 - INFO - Fetching page: https://www.instagram.com/kiecpage
+2025-09-25 11:03:39,677 - INFO - Successfully fetched https://www.instagram.com/kiecpage (440861 chars)
+2025-09-25 11:03:39,686 - INFO - Max depth reached for https://www.instagram.com/kiecpage
+2025-09-25 11:03:41,510 - INFO - Loaded robots.txt for https://www.xe.com: 6 disallowed paths
+2025-09-25 11:03:41,510 - INFO - Robots.txt disallows crawling: https://www.xe.com/currencyconverter/
+2025-09-25 11:03:41,511 - INFO - Robots.txt disallows crawling: https://www.facebook.com/kiec.officialpage
+2025-09-25 11:03:41,511 - INFO - Crawling page 28: https://kiec.edu.np/wp-json/wp/v2/pages/2136 (depth 1)
+2025-09-25 11:03:41,511 - INFO - Fetching page: https://kiec.edu.np/wp-json/wp/v2/pages/2136
+2025-09-25 11:03:41,919 - INFO - Successfully fetched https://kiec.edu.np/wp-json/wp/v2/pages/2136 (120774 chars)
+2025-09-25 11:03:41,926 - INFO - Max depth reached for https://kiec.edu.np/wp-json/wp/v2/pages/2136
+2025-09-25 11:03:42,939 - INFO - Crawling page 29: https://www.youtube.com/c/kiecpage (depth 1)
+2025-09-25 11:03:42,940 - INFO - Fetching page: https://www.youtube.com/c/kiecpage
+2025-09-25 11:03:43,894 - INFO - Successfully fetched https://www.youtube.com/c/kiecpage (1111196 chars)
+2025-09-25 11:03:43,912 - INFO - Max depth reached for https://www.youtube.com/c/kiecpage
+2025-09-25 11:03:44,927 - INFO - Crawling page 30: https://kiec.edu.np/resources/counselor-dashboard/ (depth 1)
+2025-09-25 11:03:44,928 - INFO - Fetching page: https://kiec.edu.np/resources/counselor-dashboard/
+2025-09-25 11:03:45,418 - INFO - Successfully fetched https://kiec.edu.np/resources/counselor-dashboard/ (103265 chars)
+2025-09-25 11:03:45,450 - INFO - Max depth reached for https://kiec.edu.np/resources/counselor-dashboard/
+2025-09-25 11:03:47,473 - INFO - Loaded robots.txt for https://www.curvesncolors.com: 14 disallowed paths
+2025-09-25 11:03:47,474 - INFO - Crawling page 31: https://www.curvesncolors.com (depth 1)
+2025-09-25 11:03:47,475 - INFO - Fetching page: https://www.curvesncolors.com
+2025-09-25 11:03:48,470 - INFO - Successfully fetched https://www.curvesncolors.com (89302 chars)
+2025-09-25 11:03:48,502 - INFO - Max depth reached for https://www.curvesncolors.com
+2025-09-25 11:03:49,513 - INFO - Crawling page 32: http://kiec.edu.np/how-to-obtain-a-visa-for/ (depth 1)
+2025-09-25 11:03:49,515 - INFO - Fetching page: http://kiec.edu.np/how-to-obtain-a-visa-for/
+2025-09-25 11:03:49,995 - INFO - Successfully fetched http://kiec.edu.np/how-to-obtain-a-visa-for/ (94860 chars)
+2025-09-25 11:03:50,037 - INFO - Max depth reached for http://kiec.edu.np/how-to-obtain-a-visa-for/
+2025-09-25 11:03:51,049 - INFO - Crawling page 33: https://kiec.edu.np/interview/ (depth 1)
+2025-09-25 11:03:51,049 - INFO - Fetching page: https://kiec.edu.np/interview/
+2025-09-25 11:03:51,524 - INFO - Successfully fetched https://kiec.edu.np/interview/ (129448 chars)
+2025-09-25 11:03:51,583 - INFO - Max depth reached for https://kiec.edu.np/interview/
+2025-09-25 11:03:52,596 - INFO - Crawling page 34: https://kiec.edu.np/wp-json/ (depth 1)
+2025-09-25 11:03:52,597 - INFO - Fetching page: https://kiec.edu.np/wp-json/
+2025-09-25 11:03:52,931 - INFO - Successfully fetched https://kiec.edu.np/wp-json/ (316066 chars)
+2025-09-25 11:03:52,944 - INFO - Max depth reached for https://kiec.edu.np/wp-json/
+2025-09-25 11:03:53,960 - INFO - Crawling page 35: https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/ (depth 1)
+2025-09-25 11:03:53,961 - INFO - Fetching page: https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/
+2025-09-25 11:03:54,306 - INFO - Successfully fetched https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/ (97694 chars)
+2025-09-25 11:03:54,340 - INFO - Max depth reached for https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/
+2025-09-25 11:03:55,347 - INFO - Crawling page 36: http://kiec.edu.np/index.php (depth 1)
+2025-09-25 11:03:55,348 - INFO - Fetching page: http://kiec.edu.np/index.php
+2025-09-25 11:03:56,136 - INFO - Successfully fetched http://kiec.edu.np/index.php (234436 chars)
+2025-09-25 11:03:56,210 - INFO - Max depth reached for http://kiec.edu.np/index.php
+2025-09-25 11:03:57,219 - INFO - Crawl completed - Successful: 50, Pages: 36, Failed: 6
+2025-09-25 11:03:57,220 - INFO - Closing HTTP session...
+2025-09-25 11:03:57,324 - INFO - HTTP session closed successfully
+2025-09-25 11:03:57,330 - INFO - Output files saved successfully
+2025-09-25 11:03:57,331 - INFO - Crawler session completed

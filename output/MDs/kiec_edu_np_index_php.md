@@ -3,7 +3,7 @@
 *Discover global education & career pathways with KIEC, offering personalized guidance, extensive university partnerships, and proven success.*
 
 **URL:** http://kiec.edu.np/index.php
-**Crawled:** 2025-09-25T10:50:06.052634
+**Crawled:** 2025-09-25T11:03:56.209041
 
 ---
 

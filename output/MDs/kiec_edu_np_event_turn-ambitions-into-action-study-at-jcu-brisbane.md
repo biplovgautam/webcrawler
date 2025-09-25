@@ -3,7 +3,7 @@
 *🎓 Want to study in Australia? Start with James Cook University, Brisbane! 📌 Meet Vaibhav Kwatra – Senior Manager, South Asia at James Cook University – and get all your questions answered! 💼 Why James Cook University (Brisbane)?✅ One of Australia’s top universities with a global reputation✅ Industry-aligned programs with real-world focus✅ Campuses in vibrant*
 
 **URL:** https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/
-**Crawled:** 2025-09-25T10:49:47.592223
+**Crawled:** 2025-09-25T11:03:24.320779
 
 ---
 

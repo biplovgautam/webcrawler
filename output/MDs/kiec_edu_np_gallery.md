@@ -1,7 +1,7 @@
 # Galleries | KIEC
 
 **URL:** http://kiec.edu.np/gallery/
-**Crawled:** 2025-09-25T10:49:13.214373
+**Crawled:** 2025-09-25T11:03:02.208822
 
 ---
 
