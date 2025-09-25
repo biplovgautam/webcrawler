@@ -9,6 +9,7 @@ import os
 import shutil
 import json
 import logging
+import random
 from datetime import datetime
 
 # Logging Configuration
@@ -40,7 +41,18 @@ BLOCK_PATTERNS = [
     r".*/feed/.*"
 ]
 
+# Performance & Politeness Settings
 REQUEST_DELAY = 1.0
+DOMAIN_DELAY = {"example.com": 1.0,      # wait 1 sec for this domain
+    "smallsite.com": 5.0     # wait 5 secs for this domain
+}  # Per-domain delays
+RESPECT_ROBOTS = True
+USER_AGENT_ROTATION = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0'
+]
+
 TIMEOUT = 30
 MAX_RETRIES = 3
 
@@ -99,6 +111,9 @@ class WebCrawler:
         self.seed_pages = {}
         self.crawled_data = []  # Store page data for JSONL
         self.seeds_list = []  # Track seeds order for indexing
+        self.robots_cache = {}  # Cache robots.txt parsers
+        self.domain_delays = {}  # Track last request time per domain
+        self.current_user_agent = 0  # For user agent rotation
         
     def load_seeds(self):
         logging.info(f"Loading seed URLs from {SEEDS_FILE}...")
@@ -167,7 +182,7 @@ class WebCrawler:
                 timeout=timeout,
                 connector=connector,
                 headers={
-                    'User-Agent': 'Mozilla/5.0 (compatible; WebCrawler/1.0)'
+                    'User-Agent': self.get_user_agent()
                 }
             )
             logging.info("HTTP session started successfully")
@@ -177,7 +192,10 @@ class WebCrawler:
             print(f"Session initialization error: {e}")
             # Fallback to basic session
             timeout = aiohttp.ClientTimeout(total=TIMEOUT)
-            self.session = aiohttp.ClientSession(timeout=timeout)
+            self.session = aiohttp.ClientSession(
+                timeout=timeout,
+                headers={'User-Agent': self.get_user_agent()}
+            )
     
     async def close_session(self):
         """Safely close session with error handling"""
@@ -211,10 +229,95 @@ class WebCrawler:
                 return True
         return False
     
+    async def get_robots_parser(self, domain):
+        """Get or create robots.txt parser for domain"""
+        if not RESPECT_ROBOTS:
+            return None
+            
+        if domain in self.robots_cache:
+            return self.robots_cache[domain]
+        
+        robots_url = f"{domain}/robots.txt"
+        try:
+            async with self.session.get(robots_url) as response:
+                if response.status == 200:
+                    robots_content = await response.text()
+                    
+                    # Simple robots.txt parsing - check for Disallow lines
+                    disallowed_paths = []
+                    for line in robots_content.split('\n'):
+                        line = line.strip().lower()
+                        if line.startswith('disallow:'):
+                            path = line.split(':', 1)[1].strip()
+                            if path:
+                                disallowed_paths.append(path)
+                    
+                    self.robots_cache[domain] = disallowed_paths
+                    logging.info(f"Loaded robots.txt for {domain}: {len(disallowed_paths)} disallowed paths")
+                else:
+                    logging.info(f"No robots.txt found for {domain} (HTTP {response.status})")
+                    self.robots_cache[domain] = []
+        except Exception as e:
+            logging.warning(f"Error fetching robots.txt for {domain}: {e}")
+            self.robots_cache[domain] = []
+        
+        return self.robots_cache[domain]
+    
+    def can_fetch(self, url, user_agent="*"):
+        """Check if URL can be fetched according to robots.txt"""
+        if not RESPECT_ROBOTS:
+            return True
+            
+        parsed = urlparse(url)
+        domain = f"{parsed.scheme}://{parsed.netloc}"
+        
+        disallowed_paths = self.robots_cache.get(domain, [])
+        if not disallowed_paths:
+            return True  # If no robots.txt or no disallowed paths, allow crawling
+            
+        # Check if URL path matches any disallowed pattern
+        url_path = parsed.path
+        for disallowed_path in disallowed_paths:
+            if disallowed_path == '*':
+                return False
+            if url_path.startswith(disallowed_path):
+                return False
+                
+        return True
+    
+    async def apply_politeness_delay(self, url):
+        """Apply politeness delay based on domain and settings"""
+        parsed = urlparse(url)
+        domain = parsed.netloc
+        
+        now = datetime.now().timestamp()
+        
+        # Get domain-specific delay or use default
+        delay = DOMAIN_DELAY.get(domain, REQUEST_DELAY)
+        
+        # Check last request time for this domain
+        if domain in self.domain_delays:
+            elapsed = now - self.domain_delays[domain]
+            if elapsed < delay:
+                sleep_time = delay - elapsed
+                logging.info(f"Applying politeness delay: {sleep_time:.1f}s for {domain}")
+                await asyncio.sleep(sleep_time)
+        
+        # Update last request time
+        self.domain_delays[domain] = now
+    
+    def get_user_agent(self):
+        """Get next user agent in rotation"""
+        ua = USER_AGENT_ROTATION[self.current_user_agent]
+        self.current_user_agent = (self.current_user_agent + 1) % len(USER_AGENT_ROTATION)
+        return ua
+    
     async def fetch_page(self, url, retry_count=0):
         """Fetch page with retry logic and comprehensive error handling"""
         if retry_count == 0:
             logging.info(f"Fetching page: {url}")
+            # Apply politeness delay before first request
+            await self.apply_politeness_delay(url)
         else:
             logging.info(f"Retrying page ({retry_count}/{MAX_RETRIES}): {url}")
             
@@ -470,6 +573,16 @@ class WebCrawler:
         if not self.is_valid_domain(url):
             logging.debug(f"Skipping invalid domain: {url}")
             return []
+        
+        # Check robots.txt if enabled
+        if RESPECT_ROBOTS:
+            parsed = urlparse(url)
+            domain = f"{parsed.scheme}://{parsed.netloc}"
+            await self.get_robots_parser(domain)  # Ensure robots.txt is cached
+            
+            if not self.can_fetch(url):
+                logging.info(f"Robots.txt disallows crawling: {url}")
+                return []
         
         if self.crawled_pages >= MAX_PAGES:
             logging.info(f"Reached maximum pages limit ({MAX_PAGES})")
