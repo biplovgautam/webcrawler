@@ -1,7 +1,7 @@
 # 2136
 
 **URL:** https://kiec.edu.np/wp-json/wp/v2/pages/2136
-**Crawled:** 2025-09-25T09:37:00.261882
+**Crawled:** 2025-09-25T10:11:05.254314
 
 ---
 

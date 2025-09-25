@@ -3,7 +3,7 @@
 *Turn heads with every swipe. Prettyclick Bullet Lipstick delivers rich, intense color in a single stroke with a smooth, velvety matte finish. The creamy formula glides effortlessly, offering long-lasting wear without drying your lips. Whether you’re going bold or keeping it subtle, this lipstick is your go-to for all-d*
 
 **URL:** https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-dream-girl
-**Crawled:** 2025-09-25T09:37:58.833682
+**Crawled:** 2025-09-25T10:12:40.865426
 
 ---
 

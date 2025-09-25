@@ -4,7 +4,7 @@
 Initially established in 2019 with the aim of digitizing the healthcare sector, Jeevee moved towards setting up as an o…*
 
 **URL:** https://apps.apple.com/us/app/jeevee/id1525257550
-**Crawled:** 2025-09-25T09:36:10.116604
+**Crawled:** 2025-09-25T10:09:55.839484
 
 ---
 

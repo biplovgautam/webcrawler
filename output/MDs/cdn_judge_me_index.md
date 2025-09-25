@@ -3,7 +3,7 @@
 *Judge.me helps you collect, showcase, and share product and store reviews with high-converting widgets and seamless integrations. Build trust and boost sales today.*
 
 **URL:** https://cdn.judge.me
-**Crawled:** 2025-09-25T09:39:15.601149
+**Crawled:** 2025-09-25T10:11:41.225534
 
 ---
 

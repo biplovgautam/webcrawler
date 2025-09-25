@@ -1,13 +1,14 @@
-Failed URLs - 2025-09-25T09:39:20.694961
+Failed URLs - 2025-09-25T10:12:46.454801
 ==================================================
 
 https://www.tranquilityspa.com.np/ - Network error: ClientConnectorCertificateError
-https://play.google.com/store/apps/details - HTTP 404
 https://fonts.gstatic.com - HTTP 404
-https://kiec.edu.np/wp-json/oembed/1.0/embed - HTTP 400 (max retries)
+https://play.google.com/store/apps/details - HTTP 404
 https://x.com/kiecpage - Network error: ClientResponseError
-http://kiec.edu.np/cdn-cgi/l/email-protection - HTTP 404
 https://kiec.edu.np/xmlrpc.php - HTTP 405 (max retries)
 https://twitter.com/kiecpage - Network error: ClientResponseError
+https://kiec.edu.np/wp-json/oembed/1.0/embed - HTTP 400 (max retries)
+http://kiec.edu.np/cdn-cgi/l/email-protection - HTTP 404
 https://cdnwidget.judge.me - HTTP 403
-https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n7.e4ad9032e203f9a0977786c356573ced65a7419a.woff2 - HTTP 403
+https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n5.1ce463e1cc056566f977610764d93d4704464858.woff2 - HTTP 403
+https://monorail-edge.shopifysvc.com - HTTP 404

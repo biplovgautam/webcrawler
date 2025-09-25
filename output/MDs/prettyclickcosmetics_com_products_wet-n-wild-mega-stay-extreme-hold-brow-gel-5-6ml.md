@@ -3,7 +3,7 @@
 *Meet your brows’ secret weapon: Mega Stay Extreme Hold Brow Gel! This lightweight gel instantly sculpts and shapes with extreme staying power. Enjoy a non-sticky hold in a clear finish, perfect for achieving a laminated brow look. Use the small brush to lift and set hairs in place for up to 16 hours of flawless flake-p*
 
 **URL:** https://prettyclickcosmetics.com/products/wet-n-wild-mega-stay-extreme-hold-brow-gel-5-6ml
-**Crawled:** 2025-09-25T09:38:07.723102
+**Crawled:** 2025-09-25T10:11:49.502546
 
 ---
 

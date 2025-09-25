@@ -6,7 +6,7 @@ Abroad Study & Test Preparation
 #DiscussYourStudyOptionWithUs"*
 
 **URL:** https://www.instagram.com/kiec.official/
-**Crawled:** 2025-09-25T09:36:44.612209
+**Crawled:** 2025-09-25T10:11:16.886146
 
 ---
 

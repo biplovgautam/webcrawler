@@ -3,7 +3,7 @@
 *Calculate live currency and foreign exchange rates with the free Xe Currency Converter. Convert between all major global currencies, precious metals, and crypto with this currency calculator and view the live mid-market rates.*
 
 **URL:** https://www.xe.com/currencyconverter/
-**Crawled:** 2025-09-25T09:37:22.395918
+**Crawled:** 2025-09-25T10:10:58.771359
 
 ---
 

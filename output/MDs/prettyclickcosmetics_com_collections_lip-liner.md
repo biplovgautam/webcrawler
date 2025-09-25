@@ -1,7 +1,7 @@
 # Lipliner – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/collections/lip-liner
-**Crawled:** 2025-09-25T09:38:31.513069
+**Crawled:** 2025-09-25T10:12:35.081984
 
 ---
 

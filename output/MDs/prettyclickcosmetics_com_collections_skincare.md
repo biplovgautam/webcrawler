@@ -1,7 +1,7 @@
 # Skincare – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/collections/skincare
-**Crawled:** 2025-09-25T09:39:09.979382
+**Crawled:** 2025-09-25T10:12:11.058702
 
 ---
 

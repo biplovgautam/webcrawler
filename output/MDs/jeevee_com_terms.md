@@ -1,7 +1,7 @@
 # Terms and conditions | Jeevee
 
 **URL:** https://jeevee.com/terms
-**Crawled:** 2025-09-25T09:36:15.192786
+**Crawled:** 2025-09-25T10:09:48.472877
 
 ---
 

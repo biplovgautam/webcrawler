@@ -1,1 +1,480 @@
-# This file stores detailed logging output from the crawler, including information about the crawling process and any errors encountered. It is useful for debugging and monitoring the crawler's performance.
+# This file stores detailed logging output from the crawler, including information about the crawling process and any errors encountered. It is useful for debugging and monitoring the crawler's performance.2025-09-25 10:09:30,084 - INFO - Web Crawler starting up...
+2025-09-25 10:09:30,085 - INFO - Validating crawler configuration...
+2025-09-25 10:09:30,086 - INFO - Configuration validation passed
+2025-09-25 10:09:30,087 - INFO - Configuration validation passed
+2025-09-25 10:09:30,087 - INFO - Displaying crawler configuration...
+2025-09-25 10:09:30,088 - INFO - Domain: Any domain (cross-domain crawling), Depth: 1, Pages/seed: 50, Max: 200, Delay: 1.0s, Timeout: 30s, Retries: 3, Blocked: 3 URLs, 5 patterns
+2025-09-25 10:09:30,090 - INFO - Starting web crawler...
+2025-09-25 10:09:30,095 - INFO - Starting HTTP session...
+2025-09-25 10:09:30,095 - INFO - HTTP session started successfully
+2025-09-25 10:09:30,096 - INFO - Cleaning output directory...
+2025-09-25 10:09:30,097 - INFO - Removed output/index.jsonl
+2025-09-25 10:09:30,099 - INFO - Removed output/failed_urls.txt
+2025-09-25 10:09:30,139 - INFO - Removed directory output/MDs
+2025-09-25 10:09:30,140 - INFO - Output directory cleaned successfully
+2025-09-25 10:09:30,142 - INFO - Loading seed URLs from seeds.txt...
+2025-09-25 10:09:30,144 - INFO - Loaded 4 seed URLs: ['https://jeevee.com/', 'http://kiec.edu.np/', 'https://prettyclickcosmetics.com/', 'https://www.tranquilityspa.com.np/']
+2025-09-25 10:09:30,145 - INFO - Starting crawl with 4 seeds
+2025-09-25 10:09:30,146 - INFO - Crawling page 1: https://jeevee.com/ (depth 0)
+2025-09-25 10:09:30,147 - INFO - Fetching page: https://jeevee.com/
+2025-09-25 10:09:30,539 - INFO - Successfully fetched https://jeevee.com/ (140688 chars)
+2025-09-25 10:09:30,616 - INFO - Found 14 links on https://jeevee.com/
+2025-09-25 10:09:31,621 - INFO - Crawling page 2: http://kiec.edu.np/ (depth 0)
+2025-09-25 10:09:31,622 - INFO - Fetching page: http://kiec.edu.np/
+2025-09-25 10:09:32,247 - INFO - Successfully fetched http://kiec.edu.np/ (234438 chars)
+2025-09-25 10:09:32,420 - INFO - Found 34 links on http://kiec.edu.np/
+2025-09-25 10:09:33,426 - INFO - Crawling page 3: https://prettyclickcosmetics.com/ (depth 0)
+2025-09-25 10:09:33,428 - INFO - Fetching page: https://prettyclickcosmetics.com/
+2025-09-25 10:09:34,020 - INFO - Successfully fetched https://prettyclickcosmetics.com/ (1388927 chars)
+2025-09-25 10:09:34,788 - INFO - Found 149 links on https://prettyclickcosmetics.com/
+2025-09-25 10:09:35,793 - INFO - Crawling page 4: https://www.tranquilityspa.com.np/ (depth 0)
+2025-09-25 10:09:35,794 - INFO - Fetching page: https://www.tranquilityspa.com.np/
+2025-09-25 10:09:35,971 - WARNING - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError, retrying...
+2025-09-25 10:09:36,976 - INFO - Retrying page (1/3): https://www.tranquilityspa.com.np/
+2025-09-25 10:09:37,086 - WARNING - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError, retrying...
+2025-09-25 10:09:39,088 - INFO - Retrying page (2/3): https://www.tranquilityspa.com.np/
+2025-09-25 10:09:39,133 - WARNING - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError, retrying...
+2025-09-25 10:09:42,143 - INFO - Retrying page (3/3): https://www.tranquilityspa.com.np/
+2025-09-25 10:09:42,171 - ERROR - Network error for https://www.tranquilityspa.com.np/: ClientConnectorCertificateError (max retries exceeded)
+2025-09-25 10:09:42,172 - ERROR - Failed to crawl https://www.tranquilityspa.com.np/: Network error: ClientConnectorCertificateError
+2025-09-25 10:09:42,172 - INFO - Crawling page 4: https://fonts.gstatic.com (depth 1)
+2025-09-25 10:09:42,173 - INFO - Fetching page: https://fonts.gstatic.com
+2025-09-25 10:09:42,614 - WARNING - HTTP 404 for https://fonts.gstatic.com
+2025-09-25 10:09:42,615 - ERROR - Failed to crawl https://fonts.gstatic.com: HTTP 404
+2025-09-25 10:09:42,615 - INFO - Crawling page 4: https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A (depth 1)
+2025-09-25 10:09:42,616 - INFO - Fetching page: https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A
+2025-09-25 10:09:43,984 - INFO - Successfully fetched https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A (873317 chars)
+2025-09-25 10:09:44,010 - INFO - Max depth reached for https://www.youtube.com/channel/UCL18i3w7Kla9Cj135n7nn7A
+2025-09-25 10:09:45,019 - INFO - Crawling page 5: https://www.facebook.com/JeeveeNepal (depth 1)
+2025-09-25 10:09:45,020 - INFO - Fetching page: https://www.facebook.com/JeeveeNepal
+2025-09-25 10:09:45,687 - INFO - Successfully fetched https://www.facebook.com/JeeveeNepal (510953 chars)
+2025-09-25 10:09:45,701 - INFO - Max depth reached for https://www.facebook.com/JeeveeNepal
+2025-09-25 10:09:46,720 - INFO - Crawling page 6: https://jeevee.com/prescriptions (depth 1)
+2025-09-25 10:09:46,721 - INFO - Fetching page: https://jeevee.com/prescriptions
+2025-09-25 10:09:46,815 - INFO - Successfully fetched https://jeevee.com/prescriptions (92637 chars)
+2025-09-25 10:09:46,843 - INFO - Max depth reached for https://jeevee.com/prescriptions
+2025-09-25 10:09:47,852 - INFO - Crawling page 7: https://jeevee.com/terms (depth 1)
+2025-09-25 10:09:47,853 - INFO - Fetching page: https://jeevee.com/terms
+2025-09-25 10:09:48,440 - INFO - Successfully fetched https://jeevee.com/terms (106845 chars)
+2025-09-25 10:09:48,476 - INFO - Max depth reached for https://jeevee.com/terms
+2025-09-25 10:09:49,490 - INFO - Crawling page 8: https://play.google.com/store/apps/details (depth 1)
+2025-09-25 10:09:49,491 - INFO - Fetching page: https://play.google.com/store/apps/details
+2025-09-25 10:09:49,906 - WARNING - HTTP 404 for https://play.google.com/store/apps/details
+2025-09-25 10:09:49,907 - ERROR - Failed to crawl https://play.google.com/store/apps/details: HTTP 404
+2025-09-25 10:09:49,907 - INFO - Crawling page 8: https://jeevee.com/vendor-enrollment (depth 1)
+2025-09-25 10:09:49,908 - INFO - Fetching page: https://jeevee.com/vendor-enrollment
+2025-09-25 10:09:50,019 - INFO - Successfully fetched https://jeevee.com/vendor-enrollment (121092 chars)
+2025-09-25 10:09:50,068 - INFO - Max depth reached for https://jeevee.com/vendor-enrollment
+2025-09-25 10:09:51,082 - INFO - Crawling page 9: https://bit.ly/2O7oUkm (depth 1)
+2025-09-25 10:09:51,083 - INFO - Fetching page: https://bit.ly/2O7oUkm
+2025-09-25 10:09:53,536 - INFO - Successfully fetched https://bit.ly/2O7oUkm (257458 chars)
+2025-09-25 10:09:53,550 - INFO - Max depth reached for https://bit.ly/2O7oUkm
+2025-09-25 10:09:54,559 - INFO - Crawling page 10: https://apps.apple.com/us/app/jeevee/id1525257550 (depth 1)
+2025-09-25 10:09:54,560 - INFO - Fetching page: https://apps.apple.com/us/app/jeevee/id1525257550
+2025-09-25 10:09:55,798 - INFO - Successfully fetched https://apps.apple.com/us/app/jeevee/id1525257550 (579661 chars)
+2025-09-25 10:09:55,841 - INFO - Max depth reached for https://apps.apple.com/us/app/jeevee/id1525257550
+2025-09-25 10:09:56,857 - INFO - Crawling page 11: https://jeevee.com/about (depth 1)
+2025-09-25 10:09:56,858 - INFO - Fetching page: https://jeevee.com/about
+2025-09-25 10:09:56,947 - INFO - Successfully fetched https://jeevee.com/about (99643 chars)
+2025-09-25 10:09:56,976 - INFO - Max depth reached for https://jeevee.com/about
+2025-09-25 10:09:57,992 - INFO - Crawling page 12: https://www.instagram.com/jeeveenepal (depth 1)
+2025-09-25 10:09:57,994 - INFO - Fetching page: https://www.instagram.com/jeeveenepal
+2025-09-25 10:09:59,631 - INFO - Successfully fetched https://www.instagram.com/jeeveenepal (828115 chars)
+2025-09-25 10:09:59,648 - INFO - Max depth reached for https://www.instagram.com/jeeveenepal
+2025-09-25 10:10:00,658 - INFO - Crawling page 13: https://jeevee.com/policies (depth 1)
+2025-09-25 10:10:00,661 - INFO - Fetching page: https://jeevee.com/policies
+2025-09-25 10:10:00,732 - INFO - Successfully fetched https://jeevee.com/policies (98166 chars)
+2025-09-25 10:10:00,756 - INFO - Max depth reached for https://jeevee.com/policies
+2025-09-25 10:10:01,758 - INFO - Crawling page 14: https://www.jeevee.com (depth 1)
+2025-09-25 10:10:01,761 - INFO - Fetching page: https://www.jeevee.com
+2025-09-25 10:10:02,181 - INFO - Successfully fetched https://www.jeevee.com (140688 chars)
+2025-09-25 10:10:02,225 - INFO - Max depth reached for https://www.jeevee.com
+2025-09-25 10:10:03,238 - INFO - Crawling page 15: https://www.curvesncolors.com (depth 1)
+2025-09-25 10:10:03,239 - INFO - Fetching page: https://www.curvesncolors.com
+2025-09-25 10:10:04,738 - INFO - Successfully fetched https://www.curvesncolors.com (89114 chars)
+2025-09-25 10:10:04,784 - INFO - Max depth reached for https://www.curvesncolors.com
+2025-09-25 10:10:05,793 - INFO - Crawling page 16: https://x.com/kiecpage (depth 1)
+2025-09-25 10:10:05,794 - INFO - Fetching page: https://x.com/kiecpage
+2025-09-25 10:10:06,323 - WARNING - Network error for https://x.com/kiecpage: ClientResponseError, retrying...
+2025-09-25 10:10:07,339 - INFO - Retrying page (1/3): https://x.com/kiecpage
+2025-09-25 10:10:07,733 - WARNING - Network error for https://x.com/kiecpage: ClientResponseError, retrying...
+2025-09-25 10:10:09,740 - INFO - Retrying page (2/3): https://x.com/kiecpage
+2025-09-25 10:10:10,166 - WARNING - Network error for https://x.com/kiecpage: ClientResponseError, retrying...
+2025-09-25 10:10:13,167 - INFO - Retrying page (3/3): https://x.com/kiecpage
+2025-09-25 10:10:13,583 - ERROR - Network error for https://x.com/kiecpage: ClientResponseError (max retries exceeded)
+2025-09-25 10:10:13,597 - ERROR - Failed to crawl https://x.com/kiecpage: Network error: ClientResponseError
+2025-09-25 10:10:13,598 - INFO - Crawling page 16: https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/ (depth 1)
+2025-09-25 10:10:13,599 - INFO - Fetching page: https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/
+2025-09-25 10:10:14,070 - INFO - Successfully fetched https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/ (98035 chars)
+2025-09-25 10:10:14,128 - INFO - Max depth reached for https://kiec.edu.np/event/university-of-the-sunshine-coast-student-info-session/
+2025-09-25 10:10:15,138 - INFO - Crawling page 17: https://kiec.edu.np/student-accommodation/ (depth 1)
+2025-09-25 10:10:15,139 - INFO - Fetching page: https://kiec.edu.np/student-accommodation/
+2025-09-25 10:10:15,580 - INFO - Successfully fetched https://kiec.edu.np/student-accommodation/ (142779 chars)
+2025-09-25 10:10:15,698 - INFO - Max depth reached for https://kiec.edu.np/student-accommodation/
+2025-09-25 10:10:16,700 - INFO - Crawling page 18: https://online.kiec.edu.np/ (depth 1)
+2025-09-25 10:10:16,701 - INFO - Fetching page: https://online.kiec.edu.np/
+2025-09-25 10:10:17,152 - INFO - Successfully fetched https://online.kiec.edu.np/ (19574 chars)
+2025-09-25 10:10:17,196 - INFO - Max depth reached for https://online.kiec.edu.np/
+2025-09-25 10:10:18,206 - INFO - Crawling page 19: https://www.facebook.com/kiec.officialpage/ (depth 1)
+2025-09-25 10:10:18,207 - INFO - Fetching page: https://www.facebook.com/kiec.officialpage/
+2025-09-25 10:10:19,105 - INFO - Successfully fetched https://www.facebook.com/kiec.officialpage/ (511287 chars)
+2025-09-25 10:10:19,117 - INFO - Max depth reached for https://www.facebook.com/kiec.officialpage/
+2025-09-25 10:10:20,125 - INFO - Crawling page 20: https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/ (depth 1)
+2025-09-25 10:10:20,127 - INFO - Fetching page: https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/
+2025-09-25 10:10:20,500 - INFO - Successfully fetched https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/ (97694 chars)
+2025-09-25 10:10:20,536 - INFO - Max depth reached for https://kiec.edu.np/event/exclusive-session-with-the-university-of-waikato/
+2025-09-25 10:10:21,550 - INFO - Crawling page 21: https://kiec.edu.np/xmlrpc.php (depth 1)
+2025-09-25 10:10:21,552 - INFO - Fetching page: https://kiec.edu.np/xmlrpc.php
+2025-09-25 10:10:21,831 - WARNING - HTTP 405 for https://kiec.edu.np/xmlrpc.php, retrying...
+2025-09-25 10:10:22,847 - INFO - Retrying page (1/3): https://kiec.edu.np/xmlrpc.php
+2025-09-25 10:10:23,059 - WARNING - HTTP 405 for https://kiec.edu.np/xmlrpc.php, retrying...
+2025-09-25 10:10:25,076 - INFO - Retrying page (2/3): https://kiec.edu.np/xmlrpc.php
+2025-09-25 10:10:25,262 - WARNING - HTTP 405 for https://kiec.edu.np/xmlrpc.php, retrying...
+2025-09-25 10:10:28,273 - INFO - Retrying page (3/3): https://kiec.edu.np/xmlrpc.php
+2025-09-25 10:10:28,594 - ERROR - HTTP 405 for https://kiec.edu.np/xmlrpc.php (max retries exceeded)
+2025-09-25 10:10:28,597 - ERROR - Failed to crawl https://kiec.edu.np/xmlrpc.php: HTTP 405 (max retries)
+2025-09-25 10:10:28,598 - INFO - Crawling page 21: https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/ (depth 1)
+2025-09-25 10:10:28,600 - INFO - Fetching page: https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/
+2025-09-25 10:10:29,010 - INFO - Successfully fetched https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/ (98210 chars)
+2025-09-25 10:10:29,070 - INFO - Max depth reached for https://kiec.edu.np/event/unlock-global-opportunities-with-sunderland-university/
+2025-09-25 10:10:30,085 - INFO - Crawling page 22: https://oshcaustralia.com.au/en (depth 1)
+2025-09-25 10:10:30,086 - INFO - Fetching page: https://oshcaustralia.com.au/en
+2025-09-25 10:10:30,719 - INFO - Successfully fetched https://oshcaustralia.com.au/en (46309 chars)
+2025-09-25 10:10:30,756 - INFO - Max depth reached for https://oshcaustralia.com.au/en
+2025-09-25 10:10:31,767 - INFO - Crawling page 23: https://www.tiktok.com/@kiec.official (depth 1)
+2025-09-25 10:10:31,768 - INFO - Fetching page: https://www.tiktok.com/@kiec.official
+2025-09-25 10:10:32,602 - INFO - Successfully fetched https://www.tiktok.com/@kiec.official (257800 chars)
+2025-09-25 10:10:32,613 - INFO - Max depth reached for https://www.tiktok.com/@kiec.official
+2025-09-25 10:10:33,621 - INFO - Crawling page 24: https://kiec.edu.np/interview/ (depth 1)
+2025-09-25 10:10:33,622 - INFO - Fetching page: https://kiec.edu.np/interview/
+2025-09-25 10:10:34,082 - INFO - Successfully fetched https://kiec.edu.np/interview/ (129448 chars)
+2025-09-25 10:10:34,112 - INFO - Max depth reached for https://kiec.edu.np/interview/
+2025-09-25 10:10:35,128 - INFO - Crawling page 25: https://kiec.edu.np/university/ (depth 1)
+2025-09-25 10:10:35,129 - INFO - Fetching page: https://kiec.edu.np/university/
+2025-09-25 10:10:35,557 - INFO - Successfully fetched https://kiec.edu.np/university/ (140929 chars)
+2025-09-25 10:10:35,621 - INFO - Max depth reached for https://kiec.edu.np/university/
+2025-09-25 10:10:36,631 - INFO - Crawling page 26: https://twitter.com/kiecpage (depth 1)
+2025-09-25 10:10:36,632 - INFO - Fetching page: https://twitter.com/kiecpage
+2025-09-25 10:10:37,101 - WARNING - Network error for https://twitter.com/kiecpage: ClientResponseError, retrying...
+2025-09-25 10:10:38,106 - INFO - Retrying page (1/3): https://twitter.com/kiecpage
+2025-09-25 10:10:38,519 - WARNING - Network error for https://twitter.com/kiecpage: ClientResponseError, retrying...
+2025-09-25 10:10:40,525 - INFO - Retrying page (2/3): https://twitter.com/kiecpage
+2025-09-25 10:10:40,912 - WARNING - Network error for https://twitter.com/kiecpage: ClientResponseError, retrying...
+2025-09-25 10:10:43,925 - INFO - Retrying page (3/3): https://twitter.com/kiecpage
+2025-09-25 10:10:44,359 - ERROR - Network error for https://twitter.com/kiecpage: ClientResponseError (max retries exceeded)
+2025-09-25 10:10:44,359 - ERROR - Failed to crawl https://twitter.com/kiecpage: Network error: ClientResponseError
+2025-09-25 10:10:44,361 - INFO - Crawling page 26: https://kiec.edu.np/kiec-services/ (depth 1)
+2025-09-25 10:10:44,361 - INFO - Fetching page: https://kiec.edu.np/kiec-services/
+2025-09-25 10:10:44,891 - INFO - Successfully fetched https://kiec.edu.np/kiec-services/ (149192 chars)
+2025-09-25 10:10:44,968 - INFO - Max depth reached for https://kiec.edu.np/kiec-services/
+2025-09-25 10:10:45,975 - INFO - Crawling page 27: https://kiec.edu.np/wp-json/oembed/1.0/embed (depth 1)
+2025-09-25 10:10:45,976 - INFO - Fetching page: https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 10:10:46,151 - WARNING - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed, retrying...
+2025-09-25 10:10:47,155 - INFO - Retrying page (1/3): https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 10:10:47,332 - WARNING - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed, retrying...
+2025-09-25 10:10:49,348 - INFO - Retrying page (2/3): https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 10:10:49,528 - WARNING - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed, retrying...
+2025-09-25 10:10:52,540 - INFO - Retrying page (3/3): https://kiec.edu.np/wp-json/oembed/1.0/embed
+2025-09-25 10:10:52,754 - ERROR - HTTP 400 for https://kiec.edu.np/wp-json/oembed/1.0/embed (max retries exceeded)
+2025-09-25 10:10:52,755 - ERROR - Failed to crawl https://kiec.edu.np/wp-json/oembed/1.0/embed: HTTP 400 (max retries)
+2025-09-25 10:10:52,757 - INFO - Crawling page 27: https://www.youtube.com/c/kiecpage (depth 1)
+2025-09-25 10:10:52,757 - INFO - Fetching page: https://www.youtube.com/c/kiecpage
+2025-09-25 10:10:53,496 - INFO - Successfully fetched https://www.youtube.com/c/kiecpage (1083408 chars)
+2025-09-25 10:10:53,517 - INFO - Max depth reached for https://www.youtube.com/c/kiecpage
+2025-09-25 10:10:54,519 - INFO - Crawling page 28: http://kiec.edu.np/how-to-obtain-a-visa-for/ (depth 1)
+2025-09-25 10:10:54,520 - INFO - Fetching page: http://kiec.edu.np/how-to-obtain-a-visa-for/
+2025-09-25 10:10:54,912 - INFO - Successfully fetched http://kiec.edu.np/how-to-obtain-a-visa-for/ (94860 chars)
+2025-09-25 10:10:54,973 - INFO - Max depth reached for http://kiec.edu.np/how-to-obtain-a-visa-for/
+2025-09-25 10:10:55,983 - INFO - Crawling page 29: https://kiec.edu.np/resources/counselor-dashboard/ (depth 1)
+2025-09-25 10:10:55,984 - INFO - Fetching page: https://kiec.edu.np/resources/counselor-dashboard/
+2025-09-25 10:10:56,347 - INFO - Successfully fetched https://kiec.edu.np/resources/counselor-dashboard/ (103265 chars)
+2025-09-25 10:10:56,401 - INFO - Max depth reached for https://kiec.edu.np/resources/counselor-dashboard/
+2025-09-25 10:10:57,414 - INFO - Crawling page 30: https://www.xe.com/currencyconverter/ (depth 1)
+2025-09-25 10:10:57,416 - INFO - Fetching page: https://www.xe.com/currencyconverter/
+2025-09-25 10:10:58,725 - INFO - Successfully fetched https://www.xe.com/currencyconverter/ (240399 chars)
+2025-09-25 10:10:58,772 - INFO - Max depth reached for https://www.xe.com/currencyconverter/
+2025-09-25 10:10:59,777 - INFO - Crawling page 31: https://kiec.edu.np/ (depth 1)
+2025-09-25 10:10:59,779 - INFO - Fetching page: https://kiec.edu.np/
+2025-09-25 10:11:00,438 - INFO - Successfully fetched https://kiec.edu.np/ (234438 chars)
+2025-09-25 10:11:00,532 - INFO - Max depth reached for https://kiec.edu.np/
+2025-09-25 10:11:01,538 - INFO - Crawling page 32: http://kiec.edu.np/index.php (depth 1)
+2025-09-25 10:11:01,539 - INFO - Fetching page: http://kiec.edu.np/index.php
+2025-09-25 10:11:02,297 - INFO - Successfully fetched http://kiec.edu.np/index.php (234438 chars)
+2025-09-25 10:11:02,404 - INFO - Max depth reached for http://kiec.edu.np/index.php
+2025-09-25 10:11:03,413 - INFO - Crawling page 33: https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/ (depth 1)
+2025-09-25 10:11:03,414 - INFO - Fetching page: https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/
+2025-09-25 10:11:03,751 - INFO - Successfully fetched https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/ (98133 chars)
+2025-09-25 10:11:03,809 - INFO - Max depth reached for https://kiec.edu.np/event/turn-ambitions-into-action-study-at-jcu-brisbane/
+2025-09-25 10:11:04,819 - INFO - Crawling page 34: http://kiec.edu.np/cdn-cgi/l/email-protection (depth 1)
+2025-09-25 10:11:04,819 - INFO - Fetching page: http://kiec.edu.np/cdn-cgi/l/email-protection
+2025-09-25 10:11:04,833 - WARNING - HTTP 404 for http://kiec.edu.np/cdn-cgi/l/email-protection
+2025-09-25 10:11:04,836 - ERROR - Failed to crawl http://kiec.edu.np/cdn-cgi/l/email-protection: HTTP 404
+2025-09-25 10:11:04,837 - INFO - Crawling page 34: https://kiec.edu.np/wp-json/wp/v2/pages/2136 (depth 1)
+2025-09-25 10:11:04,837 - INFO - Fetching page: https://kiec.edu.np/wp-json/wp/v2/pages/2136
+2025-09-25 10:11:05,250 - INFO - Successfully fetched https://kiec.edu.np/wp-json/wp/v2/pages/2136 (120774 chars)
+2025-09-25 10:11:05,256 - INFO - Max depth reached for https://kiec.edu.np/wp-json/wp/v2/pages/2136
+2025-09-25 10:11:06,274 - INFO - Crawling page 35: https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/ (depth 1)
+2025-09-25 10:11:06,277 - INFO - Fetching page: https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/
+2025-09-25 10:11:06,684 - INFO - Successfully fetched https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/ (98002 chars)
+2025-09-25 10:11:06,742 - INFO - Max depth reached for https://kiec.edu.np/event/unlock-global-opportunities-with-charles-darwin-university/
+2025-09-25 10:11:07,774 - INFO - Crawling page 36: http://kiec.edu.np/gallery/ (depth 1)
+2025-09-25 10:11:07,776 - INFO - Fetching page: http://kiec.edu.np/gallery/
+2025-09-25 10:11:08,229 - INFO - Successfully fetched http://kiec.edu.np/gallery/ (103214 chars)
+2025-09-25 10:11:08,289 - INFO - Max depth reached for http://kiec.edu.np/gallery/
+2025-09-25 10:11:09,301 - INFO - Crawling page 37: https://www.facebook.com/kiec.officialpage (depth 1)
+2025-09-25 10:11:09,302 - INFO - Fetching page: https://www.facebook.com/kiec.officialpage
+2025-09-25 10:11:10,351 - INFO - Successfully fetched https://www.facebook.com/kiec.officialpage (511201 chars)
+2025-09-25 10:11:10,362 - INFO - Max depth reached for https://www.facebook.com/kiec.officialpage
+2025-09-25 10:11:11,370 - INFO - Crawling page 38: https://kiec.edu.np/wp-json/ (depth 1)
+2025-09-25 10:11:11,371 - INFO - Fetching page: https://kiec.edu.np/wp-json/
+2025-09-25 10:11:11,696 - INFO - Successfully fetched https://kiec.edu.np/wp-json/ (316066 chars)
+2025-09-25 10:11:11,714 - INFO - Max depth reached for https://kiec.edu.np/wp-json/
+2025-09-25 10:11:12,720 - INFO - Crawling page 39: http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg (depth 1)
+2025-09-25 10:11:12,721 - INFO - Fetching page: http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg
+2025-09-25 10:11:12,755 - INFO - Successfully fetched http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg (41196 chars)
+2025-09-25 10:11:12,761 - INFO - Max depth reached for http://kiec.edu.np/wp-content/uploads/2024/05/favicon.svg
+2025-09-25 10:11:13,772 - INFO - Crawling page 40: https://www.instagram.com/kiecpage (depth 1)
+2025-09-25 10:11:13,773 - INFO - Fetching page: https://www.instagram.com/kiecpage
+2025-09-25 10:11:15,001 - INFO - Successfully fetched https://www.instagram.com/kiecpage (822139 chars)
+2025-09-25 10:11:15,022 - INFO - Max depth reached for https://www.instagram.com/kiecpage
+2025-09-25 10:11:16,027 - INFO - Crawling page 41: https://www.instagram.com/kiec.official/ (depth 1)
+2025-09-25 10:11:16,028 - INFO - Fetching page: https://www.instagram.com/kiec.official/
+2025-09-25 10:11:16,866 - INFO - Successfully fetched https://www.instagram.com/kiec.official/ (828108 chars)
+2025-09-25 10:11:16,887 - INFO - Max depth reached for https://www.instagram.com/kiec.official/
+2025-09-25 10:11:17,897 - INFO - Crawling page 42: https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/ (depth 1)
+2025-09-25 10:11:17,899 - INFO - Fetching page: https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/
+2025-09-25 10:11:18,736 - INFO - Successfully fetched https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/ (98270 chars)
+2025-09-25 10:11:18,827 - INFO - Max depth reached for https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/
+2025-09-25 10:11:19,844 - INFO - Crawling page 43: https://prettyclickcosmetics.com/products/glitter-vibes-nail-polish (depth 1)
+2025-09-25 10:11:19,845 - INFO - Fetching page: https://prettyclickcosmetics.com/products/glitter-vibes-nail-polish
+2025-09-25 10:11:20,410 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/glitter-vibes-nail-polish (493564 chars)
+2025-09-25 10:11:20,522 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/glitter-vibes-nail-polish
+2025-09-25 10:11:21,535 - INFO - Crawling page 44: https://prettyclickcosmetics.com/products/dermal-pearl-collagen-essence-face-mask (depth 1)
+2025-09-25 10:11:21,536 - INFO - Fetching page: https://prettyclickcosmetics.com/products/dermal-pearl-collagen-essence-face-mask
+2025-09-25 10:11:21,955 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/dermal-pearl-collagen-essence-face-mask (423755 chars)
+2025-09-25 10:11:22,067 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/dermal-pearl-collagen-essence-face-mask
+2025-09-25 10:11:23,069 - INFO - Crawling page 45: https://prettyclickcosmetics.com/collections/skin1004 (depth 1)
+2025-09-25 10:11:23,070 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/skin1004
+2025-09-25 10:11:23,279 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/skin1004 (668905 chars)
+2025-09-25 10:11:23,450 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/skin1004
+2025-09-25 10:11:24,461 - INFO - Crawling page 46: https://cdnwidget.judge.me (depth 1)
+2025-09-25 10:11:24,483 - INFO - Fetching page: https://cdnwidget.judge.me
+2025-09-25 10:11:25,772 - WARNING - HTTP 403 for https://cdnwidget.judge.me
+2025-09-25 10:11:25,773 - ERROR - Failed to crawl https://cdnwidget.judge.me: HTTP 403
+2025-09-25 10:11:25,774 - INFO - Crawling page 46: https://facebook.com/prettyclicknepal (depth 1)
+2025-09-25 10:11:25,775 - INFO - Fetching page: https://facebook.com/prettyclicknepal
+2025-09-25 10:11:27,517 - INFO - Successfully fetched https://facebook.com/prettyclicknepal (511191 chars)
+2025-09-25 10:11:27,530 - INFO - Max depth reached for https://facebook.com/prettyclicknepal
+2025-09-25 10:11:28,532 - INFO - Crawling page 47: https://www.youtube.com/@PrettyclickNepal (depth 1)
+2025-09-25 10:11:28,534 - INFO - Fetching page: https://www.youtube.com/@PrettyclickNepal
+2025-09-25 10:11:29,216 - INFO - Successfully fetched https://www.youtube.com/@PrettyclickNepal (894995 chars)
+2025-09-25 10:11:29,268 - INFO - Max depth reached for https://www.youtube.com/@PrettyclickNepal
+2025-09-25 10:11:30,284 - INFO - Crawling page 48: https://prettyclickcosmetics.com/products/la-colors-color-block-10-color-eyeshadow-palette (depth 1)
+2025-09-25 10:11:30,285 - INFO - Fetching page: https://prettyclickcosmetics.com/products/la-colors-color-block-10-color-eyeshadow-palette
+2025-09-25 10:11:30,836 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/la-colors-color-block-10-color-eyeshadow-palette (436363 chars)
+2025-09-25 10:11:30,949 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/la-colors-color-block-10-color-eyeshadow-palette
+2025-09-25 10:11:31,961 - INFO - Crawling page 49: https://prettyclickcosmetics.com/collections/cosrx (depth 1)
+2025-09-25 10:11:31,963 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/cosrx
+2025-09-25 10:11:32,576 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/cosrx (640706 chars)
+2025-09-25 10:11:32,748 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/cosrx
+2025-09-25 10:11:33,759 - INFO - Crawling page 50: https://prettyclickcosmetics.com/search (depth 1)
+2025-09-25 10:11:33,760 - INFO - Fetching page: https://prettyclickcosmetics.com/search
+2025-09-25 10:11:34,132 - INFO - Successfully fetched https://prettyclickcosmetics.com/search (413405 chars)
+2025-09-25 10:11:34,243 - INFO - Max depth reached for https://prettyclickcosmetics.com/search
+2025-09-25 10:11:35,250 - INFO - Crawling page 51: https://prettyclickcosmetics.com/collections/im-from (depth 1)
+2025-09-25 10:11:35,252 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/im-from
+2025-09-25 10:11:35,470 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/im-from (514999 chars)
+2025-09-25 10:11:35,609 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/im-from
+2025-09-25 10:11:36,623 - INFO - Crawling page 52: https://prettyclickcosmetics.com/products/profusion-cosmetics-blush-hour-soft-matte-liquid-blush-6ml-strawberry-daiquiri (depth 1)
+2025-09-25 10:11:36,626 - INFO - Fetching page: https://prettyclickcosmetics.com/products/profusion-cosmetics-blush-hour-soft-matte-liquid-blush-6ml-strawberry-daiquiri
+2025-09-25 10:11:36,848 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/profusion-cosmetics-blush-hour-soft-matte-liquid-blush-6ml-strawberry-daiquiri (430308 chars)
+2025-09-25 10:11:36,947 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/profusion-cosmetics-blush-hour-soft-matte-liquid-blush-6ml-strawberry-daiquiri
+2025-09-25 10:11:37,952 - INFO - Crawling page 53: https://prettyclickcosmetics.com/products/milani-conceal-perfect-blur-out-smoothing-primer-21g (depth 1)
+2025-09-25 10:11:37,953 - INFO - Fetching page: https://prettyclickcosmetics.com/products/milani-conceal-perfect-blur-out-smoothing-primer-21g
+2025-09-25 10:11:38,118 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/milani-conceal-perfect-blur-out-smoothing-primer-21g (433402 chars)
+2025-09-25 10:11:38,225 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/milani-conceal-perfect-blur-out-smoothing-primer-21g
+2025-09-25 10:11:39,239 - INFO - Crawling page 54: https://cdn.judge.me (depth 1)
+2025-09-25 10:11:39,241 - INFO - Fetching page: https://cdn.judge.me
+2025-09-25 10:11:40,892 - INFO - Successfully fetched https://cdn.judge.me (1434430 chars)
+2025-09-25 10:11:41,228 - INFO - Max depth reached for https://cdn.judge.me
+2025-09-25 10:11:42,241 - INFO - Crawling page 55: https://prettyclickcosmetics.com (depth 1)
+2025-09-25 10:11:42,242 - INFO - Fetching page: https://prettyclickcosmetics.com
+2025-09-25 10:11:42,839 - INFO - Successfully fetched https://prettyclickcosmetics.com (1388927 chars)
+2025-09-25 10:11:43,249 - INFO - Max depth reached for https://prettyclickcosmetics.com
+2025-09-25 10:11:44,259 - INFO - Crawling page 56: https://cdn.shopify.com (depth 1)
+2025-09-25 10:11:44,260 - INFO - Fetching page: https://cdn.shopify.com
+2025-09-25 10:11:44,569 - INFO - Successfully fetched https://cdn.shopify.com (70443 chars)
+2025-09-25 10:11:44,582 - INFO - Max depth reached for https://cdn.shopify.com
+2025-09-25 10:11:45,585 - INFO - Crawling page 57: https://prettyclickcosmetics.com/collections/wet-n-wild (depth 1)
+2025-09-25 10:11:45,585 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/wet-n-wild
+2025-09-25 10:11:46,133 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/wet-n-wild (634169 chars)
+2025-09-25 10:11:46,303 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/wet-n-wild
+2025-09-25 10:11:47,310 - INFO - Crawling page 58: https://prettyclickcosmetics.com/collections/good-molecules (depth 1)
+2025-09-25 10:11:47,311 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/good-molecules
+2025-09-25 10:11:48,031 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/good-molecules (489258 chars)
+2025-09-25 10:11:48,193 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/good-molecules
+2025-09-25 10:11:49,200 - INFO - Crawling page 59: https://prettyclickcosmetics.com/products/wet-n-wild-mega-stay-extreme-hold-brow-gel-5-6ml (depth 1)
+2025-09-25 10:11:49,201 - INFO - Fetching page: https://prettyclickcosmetics.com/products/wet-n-wild-mega-stay-extreme-hold-brow-gel-5-6ml
+2025-09-25 10:11:49,398 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/wet-n-wild-mega-stay-extreme-hold-brow-gel-5-6ml (423945 chars)
+2025-09-25 10:11:49,503 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/wet-n-wild-mega-stay-extreme-hold-brow-gel-5-6ml
+2025-09-25 10:11:50,507 - INFO - Crawling page 60: https://cdn1.judge.me (depth 1)
+2025-09-25 10:11:50,509 - INFO - Fetching page: https://cdn1.judge.me
+2025-09-25 10:11:51,337 - INFO - Successfully fetched https://cdn1.judge.me (1434430 chars)
+2025-09-25 10:11:51,599 - INFO - Max depth reached for https://cdn1.judge.me
+2025-09-25 10:11:52,613 - INFO - Crawling page 61: https://prettyclickcosmetics.com/products/copy-of-so-raspberry-frappe-body-mist-100ml (depth 1)
+2025-09-25 10:11:52,614 - INFO - Fetching page: https://prettyclickcosmetics.com/products/copy-of-so-raspberry-frappe-body-mist-100ml
+2025-09-25 10:11:52,871 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/copy-of-so-raspberry-frappe-body-mist-100ml (407360 chars)
+2025-09-25 10:11:52,972 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/copy-of-so-raspberry-frappe-body-mist-100ml
+2025-09-25 10:11:53,983 - INFO - Crawling page 62: https://prettyclickcosmetics.com/products/dear-klairs-freshly-juiced-vitamin-e-mask-90g (depth 1)
+2025-09-25 10:11:53,984 - INFO - Fetching page: https://prettyclickcosmetics.com/products/dear-klairs-freshly-juiced-vitamin-e-mask-90g
+2025-09-25 10:11:54,197 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/dear-klairs-freshly-juiced-vitamin-e-mask-90g (434032 chars)
+2025-09-25 10:11:54,345 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/dear-klairs-freshly-juiced-vitamin-e-mask-90g
+2025-09-25 10:11:55,350 - INFO - Crawling page 63: https://prettyclickcosmetics.com/pages/about-us-1 (depth 1)
+2025-09-25 10:11:55,351 - INFO - Fetching page: https://prettyclickcosmetics.com/pages/about-us-1
+2025-09-25 10:11:55,847 - INFO - Successfully fetched https://prettyclickcosmetics.com/pages/about-us-1 (349601 chars)
+2025-09-25 10:11:55,931 - INFO - Max depth reached for https://prettyclickcosmetics.com/pages/about-us-1
+2025-09-25 10:11:56,948 - INFO - Crawling page 64: https://prettyclickcosmetics.com/products/milani-conceal-perfect-2-in-one-foundation-concealer (depth 1)
+2025-09-25 10:11:56,949 - INFO - Fetching page: https://prettyclickcosmetics.com/products/milani-conceal-perfect-2-in-one-foundation-concealer
+2025-09-25 10:11:57,180 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/milani-conceal-perfect-2-in-one-foundation-concealer (557018 chars)
+2025-09-25 10:11:57,316 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/milani-conceal-perfect-2-in-one-foundation-concealer
+2025-09-25 10:11:58,332 - INFO - Crawling page 65: https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-city-girl (depth 1)
+2025-09-25 10:11:58,333 - INFO - Fetching page: https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-city-girl
+2025-09-25 10:11:58,559 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-city-girl (504198 chars)
+2025-09-25 10:11:58,679 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-city-girl
+2025-09-25 10:11:59,682 - INFO - Crawling page 66: https://prettyclickcosmetics.com/cart (depth 1)
+2025-09-25 10:11:59,683 - INFO - Fetching page: https://prettyclickcosmetics.com/cart
+2025-09-25 10:12:00,054 - INFO - Successfully fetched https://prettyclickcosmetics.com/cart (422302 chars)
+2025-09-25 10:12:00,162 - INFO - Max depth reached for https://prettyclickcosmetics.com/cart
+2025-09-25 10:12:01,167 - INFO - Crawling page 67: https://prettyclickcosmetics.com/collections/foundation (depth 1)
+2025-09-25 10:12:01,168 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/foundation
+2025-09-25 10:12:01,377 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/foundation (641913 chars)
+2025-09-25 10:12:01,641 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/foundation
+2025-09-25 10:12:02,648 - INFO - Crawling page 68: https://prettyclickcosmetics.com/collections/bronzer (depth 1)
+2025-09-25 10:12:02,649 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/bronzer
+2025-09-25 10:12:02,906 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/bronzer (423580 chars)
+2025-09-25 10:12:03,030 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/bronzer
+2025-09-25 10:12:04,034 - INFO - Crawling page 69: https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes (depth 1)
+2025-09-25 10:12:04,035 - INFO - Fetching page: https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes
+2025-09-25 10:12:04,499 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes (509309 chars)
+2025-09-25 10:12:04,630 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes
+2025-09-25 10:12:05,633 - INFO - Crawling page 70: https://prettyclickcosmetics.com/pages/return-policy (depth 1)
+2025-09-25 10:12:05,634 - INFO - Fetching page: https://prettyclickcosmetics.com/pages/return-policy
+2025-09-25 10:12:06,081 - INFO - Successfully fetched https://prettyclickcosmetics.com/pages/return-policy (348289 chars)
+2025-09-25 10:12:06,167 - INFO - Max depth reached for https://prettyclickcosmetics.com/pages/return-policy
+2025-09-25 10:12:07,183 - INFO - Crawling page 71: https://prettyclickcosmetics.com/products/color-craze-nail-polish (depth 1)
+2025-09-25 10:12:07,184 - INFO - Fetching page: https://prettyclickcosmetics.com/products/color-craze-nail-polish
+2025-09-25 10:12:07,777 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/color-craze-nail-polish (944996 chars)
+2025-09-25 10:12:07,986 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/color-craze-nail-polish
+2025-09-25 10:12:09,002 - INFO - Crawling page 72: https://prettyclickcosmetics.com/products/dermal-snail-collagen-essence-face-mask (depth 1)
+2025-09-25 10:12:09,002 - INFO - Fetching page: https://prettyclickcosmetics.com/products/dermal-snail-collagen-essence-face-mask
+2025-09-25 10:12:09,488 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/dermal-snail-collagen-essence-face-mask (422947 chars)
+2025-09-25 10:12:09,651 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/dermal-snail-collagen-essence-face-mask
+2025-09-25 10:12:10,667 - INFO - Crawling page 73: https://prettyclickcosmetics.com/collections/skincare (depth 1)
+2025-09-25 10:12:10,667 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/skincare
+2025-09-25 10:12:10,893 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/skincare (643104 chars)
+2025-09-25 10:12:11,060 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/skincare
+2025-09-25 10:12:12,070 - INFO - Crawling page 74: https://prettyclickcosmetics.com/products/prettyclick-lip-cream-desire (depth 1)
+2025-09-25 10:12:12,070 - INFO - Fetching page: https://prettyclickcosmetics.com/products/prettyclick-lip-cream-desire
+2025-09-25 10:12:12,465 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/prettyclick-lip-cream-desire (461819 chars)
+2025-09-25 10:12:12,587 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/prettyclick-lip-cream-desire
+2025-09-25 10:12:13,599 - INFO - Crawling page 75: https://prettyclickcosmetics.com/products/l-a-colors-2-pcs-makeup-puff-12-pcs-makeup-puff (depth 1)
+2025-09-25 10:12:13,600 - INFO - Fetching page: https://prettyclickcosmetics.com/products/l-a-colors-2-pcs-makeup-puff-12-pcs-makeup-puff
+2025-09-25 10:12:14,104 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/l-a-colors-2-pcs-makeup-puff-12-pcs-makeup-puff (408120 chars)
+2025-09-25 10:12:14,213 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/l-a-colors-2-pcs-makeup-puff-12-pcs-makeup-puff
+2025-09-25 10:12:15,215 - INFO - Crawling page 76: https://prettyclickcosmetics.com/collections/roc-skincare (depth 1)
+2025-09-25 10:12:15,217 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/roc-skincare
+2025-09-25 10:12:15,784 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/roc-skincare (554520 chars)
+2025-09-25 10:12:15,931 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/roc-skincare
+2025-09-25 10:12:16,934 - INFO - Crawling page 77: https://prettyclickcosmetics.com/pages/content-creator (depth 1)
+2025-09-25 10:12:16,935 - INFO - Fetching page: https://prettyclickcosmetics.com/pages/content-creator
+2025-09-25 10:12:17,349 - INFO - Successfully fetched https://prettyclickcosmetics.com/pages/content-creator (344429 chars)
+2025-09-25 10:12:17,429 - INFO - Max depth reached for https://prettyclickcosmetics.com/pages/content-creator
+2025-09-25 10:12:18,440 - INFO - Crawling page 78: https://prettyclickcosmetics.com/products/cala-personal-trimmer-for-men (depth 1)
+2025-09-25 10:12:18,442 - INFO - Fetching page: https://prettyclickcosmetics.com/products/cala-personal-trimmer-for-men
+2025-09-25 10:12:18,711 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/cala-personal-trimmer-for-men (413378 chars)
+2025-09-25 10:12:18,816 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/cala-personal-trimmer-for-men
+2025-09-25 10:12:19,832 - INFO - Crawling page 79: https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n5.1ce463e1cc056566f977610764d93d4704464858.woff2 (depth 1)
+2025-09-25 10:12:19,833 - INFO - Fetching page: https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n5.1ce463e1cc056566f977610764d93d4704464858.woff2
+2025-09-25 10:12:19,862 - WARNING - HTTP 403 for https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n5.1ce463e1cc056566f977610764d93d4704464858.woff2
+2025-09-25 10:12:19,863 - ERROR - Failed to crawl https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n5.1ce463e1cc056566f977610764d93d4704464858.woff2: HTTP 403
+2025-09-25 10:12:19,864 - INFO - Crawling page 79: https://prettyclickcosmetics.com/pages/privacy-policy (depth 1)
+2025-09-25 10:12:19,865 - INFO - Fetching page: https://prettyclickcosmetics.com/pages/privacy-policy
+2025-09-25 10:12:20,270 - INFO - Successfully fetched https://prettyclickcosmetics.com/pages/privacy-policy (355872 chars)
+2025-09-25 10:12:20,377 - INFO - Max depth reached for https://prettyclickcosmetics.com/pages/privacy-policy
+2025-09-25 10:12:21,382 - INFO - Crawling page 80: https://prettyclickcosmetics.com/products/la-girl-pro-matte-foundation (depth 1)
+2025-09-25 10:12:21,384 - INFO - Fetching page: https://prettyclickcosmetics.com/products/la-girl-pro-matte-foundation
+2025-09-25 10:12:21,576 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/la-girl-pro-matte-foundation (579725 chars)
+2025-09-25 10:12:21,702 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/la-girl-pro-matte-foundation
+2025-09-25 10:12:22,714 - INFO - Crawling page 81: https://prettyclickcosmetics.com/products/prettyclick-lip-cream-petal (depth 1)
+2025-09-25 10:12:22,715 - INFO - Fetching page: https://prettyclickcosmetics.com/products/prettyclick-lip-cream-petal
+2025-09-25 10:12:22,974 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/prettyclick-lip-cream-petal (427784 chars)
+2025-09-25 10:12:23,084 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/prettyclick-lip-cream-petal
+2025-09-25 10:12:24,114 - INFO - Crawling page 82: https://prettyclickcosmetics.com/products/prettyclick-soft-high-resilience-5-pcs-beauty-blender (depth 1)
+2025-09-25 10:12:24,118 - INFO - Fetching page: https://prettyclickcosmetics.com/products/prettyclick-soft-high-resilience-5-pcs-beauty-blender
+2025-09-25 10:12:24,313 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/prettyclick-soft-high-resilience-5-pcs-beauty-blender (408289 chars)
+2025-09-25 10:12:24,419 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/prettyclick-soft-high-resilience-5-pcs-beauty-blender
+2025-09-25 10:12:25,435 - INFO - Crawling page 83: https://prettyclickcosmetics.com/collections/primer (depth 1)
+2025-09-25 10:12:25,435 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/primer
+2025-09-25 10:12:25,704 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/primer (564848 chars)
+2025-09-25 10:12:25,847 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/primer
+2025-09-25 10:12:26,857 - INFO - Crawling page 84: https://prettyclickcosmetics.com/pages/paypal (depth 1)
+2025-09-25 10:12:26,858 - INFO - Fetching page: https://prettyclickcosmetics.com/pages/paypal
+2025-09-25 10:12:27,248 - INFO - Successfully fetched https://prettyclickcosmetics.com/pages/paypal (346627 chars)
+2025-09-25 10:12:27,399 - INFO - Max depth reached for https://prettyclickcosmetics.com/pages/paypal
+2025-09-25 10:12:28,409 - INFO - Crawling page 85: https://prettyclickcosmetics.com/products/kundal-hair-loss-relief-shampoo-with-caffeine-500ml-white-musk (depth 1)
+2025-09-25 10:12:28,409 - INFO - Fetching page: https://prettyclickcosmetics.com/products/kundal-hair-loss-relief-shampoo-with-caffeine-500ml-white-musk
+2025-09-25 10:12:28,835 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/kundal-hair-loss-relief-shampoo-with-caffeine-500ml-white-musk (420709 chars)
+2025-09-25 10:12:28,934 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/kundal-hair-loss-relief-shampoo-with-caffeine-500ml-white-musk
+2025-09-25 10:12:29,940 - INFO - Crawling page 86: https://monorail-edge.shopifysvc.com (depth 1)
+2025-09-25 10:12:29,942 - INFO - Fetching page: https://monorail-edge.shopifysvc.com
+2025-09-25 10:12:30,454 - WARNING - HTTP 404 for https://monorail-edge.shopifysvc.com
+2025-09-25 10:12:30,455 - ERROR - Failed to crawl https://monorail-edge.shopifysvc.com: HTTP 404
+2025-09-25 10:12:30,457 - INFO - Crawling page 86: https://prettyclickcosmetics.com/products/la-girl-shock-wave-nude-lip-liner-pencil (depth 1)
+2025-09-25 10:12:30,461 - INFO - Fetching page: https://prettyclickcosmetics.com/products/la-girl-shock-wave-nude-lip-liner-pencil
+2025-09-25 10:12:30,759 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/la-girl-shock-wave-nude-lip-liner-pencil (489126 chars)
+2025-09-25 10:12:30,902 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/la-girl-shock-wave-nude-lip-liner-pencil
+2025-09-25 10:12:31,911 - INFO - Crawling page 87: https://prettyclickcosmetics.com/products/im-from-rice-serum-30ml (depth 1)
+2025-09-25 10:12:31,912 - INFO - Fetching page: https://prettyclickcosmetics.com/products/im-from-rice-serum-30ml
+2025-09-25 10:12:32,196 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/im-from-rice-serum-30ml (440058 chars)
+2025-09-25 10:12:32,313 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/im-from-rice-serum-30ml
+2025-09-25 10:12:33,320 - INFO - Crawling page 88: https://prettyclickcosmetics.com/products/cosrx-the-niacinamide-15-serum (depth 1)
+2025-09-25 10:12:33,321 - INFO - Fetching page: https://prettyclickcosmetics.com/products/cosrx-the-niacinamide-15-serum
+2025-09-25 10:12:33,605 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/cosrx-the-niacinamide-15-serum (467291 chars)
+2025-09-25 10:12:33,719 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/cosrx-the-niacinamide-15-serum
+2025-09-25 10:12:34,733 - INFO - Crawling page 89: https://prettyclickcosmetics.com/collections/lip-liner (depth 1)
+2025-09-25 10:12:34,734 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/lip-liner
+2025-09-25 10:12:34,955 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/lip-liner (459974 chars)
+2025-09-25 10:12:35,083 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/lip-liner
+2025-09-25 10:12:36,085 - INFO - Crawling page 90: https://prettyclickcosmetics.com/products/diamond-crush-nail-polish (depth 1)
+2025-09-25 10:12:36,086 - INFO - Fetching page: https://prettyclickcosmetics.com/products/diamond-crush-nail-polish
+2025-09-25 10:12:36,620 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/diamond-crush-nail-polish (467884 chars)
+2025-09-25 10:12:36,745 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/diamond-crush-nail-polish
+2025-09-25 10:12:37,750 - INFO - Crawling page 91: https://prettyclickcosmetics.com/collections/eyeliner (depth 1)
+2025-09-25 10:12:37,751 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/eyeliner
+2025-09-25 10:12:37,950 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/eyeliner (623915 chars)
+2025-09-25 10:12:38,169 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/eyeliner
+2025-09-25 10:12:39,173 - INFO - Crawling page 92: https://prettyclickcosmetics.com/products/profusion-cosmetics-feel-good-skin-long-wear-skin-perfector-30ml-fair-1 (depth 1)
+2025-09-25 10:12:39,175 - INFO - Fetching page: https://prettyclickcosmetics.com/products/profusion-cosmetics-feel-good-skin-long-wear-skin-perfector-30ml-fair-1
+2025-09-25 10:12:39,371 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/profusion-cosmetics-feel-good-skin-long-wear-skin-perfector-30ml-fair-1 (412075 chars)
+2025-09-25 10:12:39,472 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/profusion-cosmetics-feel-good-skin-long-wear-skin-perfector-30ml-fair-1
+2025-09-25 10:12:40,487 - INFO - Crawling page 93: https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-dream-girl (depth 1)
+2025-09-25 10:12:40,488 - INFO - Fetching page: https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-dream-girl
+2025-09-25 10:12:40,751 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-dream-girl (514373 chars)
+2025-09-25 10:12:40,867 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/prettyclick-lipstick-3g-dream-girl
+2025-09-25 10:12:41,883 - INFO - Crawling page 94: https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes-set (depth 1)
+2025-09-25 10:12:41,885 - INFO - Fetching page: https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes-set
+2025-09-25 10:12:42,345 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes-set (448793 chars)
+2025-09-25 10:12:42,449 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes-set
+2025-09-25 10:12:43,452 - INFO - Crawling page 95: https://prettyclickcosmetics.com/products/timeless-matrixyl%C2%AE%EF%B8%8F-3000 (depth 1)
+2025-09-25 10:12:43,453 - INFO - Fetching page: https://prettyclickcosmetics.com/products/timeless-matrixyl%C2%AE%EF%B8%8F-3000
+2025-09-25 10:12:43,700 - INFO - Successfully fetched https://prettyclickcosmetics.com/products/timeless-matrixyl%C2%AE%EF%B8%8F-3000 (423149 chars)
+2025-09-25 10:12:43,823 - INFO - Max depth reached for https://prettyclickcosmetics.com/products/timeless-matrixyl%C2%AE%EF%B8%8F-3000
+2025-09-25 10:12:44,837 - INFO - Crawling page 96: https://prettyclickcosmetics.com/collections/lipstick (depth 1)
+2025-09-25 10:12:44,838 - INFO - Fetching page: https://prettyclickcosmetics.com/collections/lipstick
+2025-09-25 10:12:45,114 - INFO - Successfully fetched https://prettyclickcosmetics.com/collections/lipstick (643458 chars)
+2025-09-25 10:12:45,329 - INFO - Max depth reached for https://prettyclickcosmetics.com/collections/lipstick
+2025-09-25 10:12:46,334 - INFO - Crawl completed - Successful: 107, Pages: 96, Failed: 11
+2025-09-25 10:12:46,338 - INFO - Closing HTTP session...
+2025-09-25 10:12:46,448 - INFO - HTTP session closed successfully
+2025-09-25 10:12:46,456 - INFO - Output files saved successfully
+2025-09-25 10:12:46,457 - INFO - Crawler session completed

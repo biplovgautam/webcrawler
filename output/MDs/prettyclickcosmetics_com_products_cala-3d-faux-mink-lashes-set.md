@@ -1,7 +1,7 @@
 # Cala 3D Faux Mink Multi-Dimensional Lashes – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/products/cala-3d-faux-mink-lashes-set
-**Crawled:** 2025-09-25T09:39:08.368452
+**Crawled:** 2025-09-25T10:12:42.448686
 
 ---
 
