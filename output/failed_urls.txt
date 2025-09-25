@@ -1,17 +1,13 @@
-Failed URLs - 2025-09-25T00:04:17.496950
+Failed URLs - 2025-09-25T09:39:20.694961
 ==================================================
 
-https://www.tranquilityspa.com.np/ - Cannot connect to host www.tranquilityspa.com.np:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')]
-tel://015970680 - tel://015970680
-tel://+9779801165960 - tel://+9779801165960
-mailto://support@jeeveehealth.com.np - mailto://support@jeeveehealth.com.np
-https://play.google.com/store/apps/details - 404
-https://fonts.gstatic.com - 404
-https://twitter.com/kiecpage - 400, message='Got more than 8190 bytes (10460) when reading Header value is too long.', url='https://twitter.com/kiecpage'
-http://kiec.edu.np/cdn-cgi/l/email-protection - 404
-https://kiec.edu.np/wp-json/oembed/1.0/embed - 400
-https://kiec.edu.np/xmlrpc.php - 405
-https://x.com/kiecpage - 400, message='Got more than 8190 bytes (10460) when reading Header value is too long.', url='https://x.com/kiecpage'
-https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n7.e4ad9032e203f9a0977786c356573ced65a7419a.woff2 - 403
-https://cdnwidget.judge.me - 403
-https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n5.1ce463e1cc056566f977610764d93d4704464858.woff2 - 403
+https://www.tranquilityspa.com.np/ - Network error: ClientConnectorCertificateError
+https://play.google.com/store/apps/details - HTTP 404
+https://fonts.gstatic.com - HTTP 404
+https://kiec.edu.np/wp-json/oembed/1.0/embed - HTTP 400 (max retries)
+https://x.com/kiecpage - Network error: ClientResponseError
+http://kiec.edu.np/cdn-cgi/l/email-protection - HTTP 404
+https://kiec.edu.np/xmlrpc.php - HTTP 405 (max retries)
+https://twitter.com/kiecpage - Network error: ClientResponseError
+https://cdnwidget.judge.me - HTTP 403
+https://prettyclickcosmetics.com/cdn/fonts/instrument_sans/instrumentsans_n7.e4ad9032e203f9a0977786c356573ced65a7419a.woff2 - HTTP 403

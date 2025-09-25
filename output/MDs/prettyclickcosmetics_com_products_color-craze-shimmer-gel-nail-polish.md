@@ -3,7 +3,7 @@
 *Add luster to your nail look with these Shimmer Gel polishes. Available in 8 glimmering shades. Achieve salon-quality results and create a gel-like sparkle in just one step. No UV light needed and easy to remove.*
 
 **URL:** https://prettyclickcosmetics.com/products/color-craze-shimmer-gel-nail-polish
-**Crawled:** 2025-09-25T00:03:03.483666
+**Crawled:** 2025-09-25T09:38:52.812959
 
 ---
 

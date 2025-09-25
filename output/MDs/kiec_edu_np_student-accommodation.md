@@ -3,7 +3,7 @@
 *Discover top student accommodation options in Australia and globally, with end-to-end support and verified listings from Uhomes and Amberstudent.*
 
 **URL:** https://kiec.edu.np/student-accommodation/
-**Crawled:** 2025-09-25T00:02:10.374049
+**Crawled:** 2025-09-25T09:36:47.877371
 
 ---
 

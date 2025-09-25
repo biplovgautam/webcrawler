@@ -3,7 +3,7 @@
 *PROTECT SKIN WITH CERAMIDE MOISTURIZER - Rice bran that protects rice grain with ceramide over the large daily temperature range of Yeoju will protect our skin barrier by forming a ceramide barrier. It contains 41% rice bran essence which is from an organic farm in Yeoju, Korea. RICE BRAN OIL ORIGINATED CERAMIDE - cont*
 
 **URL:** https://prettyclickcosmetics.com/products/im-from-rice-cream-50g
-**Crawled:** 2025-09-25T00:03:28.956305
+**Crawled:** 2025-09-25T09:39:03.666170
 
 ---
 

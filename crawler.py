@@ -10,6 +10,7 @@ import shutil
 import json
 from datetime import datetime
 
+
 CRAWL_DEPTH = 1 
 ALLOWED_DOMAIN = ""  # Leave empty to crawl any domain
 PAGES_PER_SEED = 50
@@ -115,12 +116,44 @@ class WebCrawler:
             print(f"Warning: Could not clean output directory: {e}")
         
     async def start_session(self):
-        timeout = aiohttp.ClientTimeout(total=TIMEOUT)
-        self.session = aiohttp.ClientSession(timeout=timeout)
+        """Initialize session with comprehensive timeout and connection settings"""
+        try:
+            timeout = aiohttp.ClientTimeout(
+                total=TIMEOUT,
+                connect=10,  # Connection timeout
+                sock_read=TIMEOUT-5  # Socket read timeout
+            )
+            
+            # Connection limits to prevent overwhelming servers
+            connector = aiohttp.TCPConnector(
+                limit=10,  # Total connection pool size
+                limit_per_host=2,  # Max 2 connections per host
+                keepalive_timeout=30
+            )
+            
+            self.session = aiohttp.ClientSession(
+                timeout=timeout,
+                connector=connector,
+                headers={
+                    'User-Agent': 'Mozilla/5.0 (compatible; WebCrawler/1.0)'
+                }
+            )
+            
+        except Exception as e:
+            print(f"Session initialization error: {e}")
+            # Fallback to basic session
+            timeout = aiohttp.ClientTimeout(total=TIMEOUT)
+            self.session = aiohttp.ClientSession(timeout=timeout)
     
     async def close_session(self):
+        """Safely close session with error handling"""
         if self.session:
-            await self.session.close()
+            try:
+                await self.session.close()
+                # Wait a bit for proper cleanup
+                await asyncio.sleep(0.1)
+            except Exception as e:
+                print(f"Session close warning: {e}")
     
     def is_valid_domain(self, url):
         if not ALLOWED_DOMAIN:  # If empty, allow any domain
@@ -141,69 +174,151 @@ class WebCrawler:
                 return True
         return False
     
-    async def fetch_page(self, url):
+    async def fetch_page(self, url, retry_count=0):
+        """Fetch page with retry logic and comprehensive error handling"""
         try:
             async with self.session.get(url) as response:
                 if response.status == 200:
                     content = await response.text()
                     return content, response.status
+                elif response.status in [404, 403, 401]:
+                    # Don't retry for these errors
+                    return None, f"HTTP {response.status}"
                 else:
-                    return None, response.status
+                    # Retry for server errors (5xx) and other issues
+                    if retry_count < MAX_RETRIES:
+                        await asyncio.sleep(REQUEST_DELAY * (retry_count + 1))
+                        return await self.fetch_page(url, retry_count + 1)
+                    return None, f"HTTP {response.status} (max retries)"
+                    
+        except asyncio.TimeoutError:
+            if retry_count < MAX_RETRIES:
+                await asyncio.sleep(REQUEST_DELAY * (retry_count + 1))
+                return await self.fetch_page(url, retry_count + 1)
+            return None, f"Timeout after {MAX_RETRIES} retries"
+            
+        except aiohttp.ClientError as e:
+            if retry_count < MAX_RETRIES:
+                await asyncio.sleep(REQUEST_DELAY * (retry_count + 1))
+                return await self.fetch_page(url, retry_count + 1)
+            return None, f"Network error: {type(e).__name__}"
+            
         except Exception as e:
-            return None, str(e)
+            # Don't retry for unexpected errors, but log them
+            return None, f"Unexpected error: {type(e).__name__}: {str(e)}"
     
     def extract_links(self, content, base_url):
-        soup = BeautifulSoup(content, 'html.parser')
-        links = []
-        
-        for tag in soup.find_all(['a', 'link'], href=True):
-            href = tag.get('href')
-            if href:
-                full_url = urljoin(base_url, href)
-                normalized = self.normalize_url(full_url)
-                if self.is_valid_domain(normalized) and not self.is_blocked_url(normalized):
-                    links.append(normalized)
-        
-        return list(set(links))
+        """Extract links with error handling for malformed HTML/URLs"""
+        try:
+            soup = BeautifulSoup(content, 'html.parser')
+            links = []
+            
+            for tag in soup.find_all(['a', 'link'], href=True):
+                try:
+                    href = tag.get('href')
+                    if not href:
+                        continue
+                        
+                    # Handle relative URLs and malformed URLs
+                    try:
+                        full_url = urljoin(base_url, href)
+                        normalized = self.normalize_url(full_url)
+                        
+                        # Additional validation
+                        if not normalized.startswith(('http://', 'https://')):
+                            continue
+                            
+                        if self.is_valid_domain(normalized) and not self.is_blocked_url(normalized):
+                            links.append(normalized)
+                            
+                    except Exception:
+                        # Skip malformed URLs
+                        continue
+                        
+                except Exception:
+                    # Skip malformed tags
+                    continue
+            
+            return list(set(links))  # Remove duplicates
+            
+        except Exception as e:
+            print(f"  Link extraction error: {type(e).__name__}")
+            return []
     
     def extract_content(self, html_content, url):
-        soup = BeautifulSoup(html_content, 'html.parser')
-        
-        # Remove unwanted elements
-        for element in soup(['script', 'style', 'nav', 'footer', 'aside', 'header']):
-            element.decompose()
-        
-        # Extract title
-        title_tag = soup.find('title')
-        title = title_tag.get_text(strip=True) if title_tag else self.url_to_title(url)
-        
-        # Extract meta description
-        meta_desc = soup.find('meta', {'name': 'description'})
-        description = meta_desc.get('content', '').strip() if meta_desc else ''
-        
-        # Find main content area
-        main_content = (soup.find('main') or 
-                       soup.find('article') or 
-                       soup.find('div', class_=re.compile('content|main', re.I)) or
-                       soup.body)
-        
-        if main_content:
-            # Get clean text content
-            content_text = main_content.get_text(separator='\n', strip=True)
-        else:
-            content_text = soup.get_text(separator='\n', strip=True)
-        
-        # Clean up content
-        lines = [line.strip() for line in content_text.split('\n') if line.strip()]
-        clean_content = '\n\n'.join(lines)
-        
-        return {
-            'title': title,
-            'description': description, 
-            'content': clean_content,
-            'url': url,
-            'timestamp': datetime.now().isoformat()
-        }
+        """Extract content with error handling for malformed HTML"""
+        try:
+            soup = BeautifulSoup(html_content, 'html.parser')
+            
+            # Remove unwanted elements
+            for element in soup(['script', 'style', 'nav', 'footer', 'aside', 'header']):
+                element.decompose()
+            
+            # Extract title with fallbacks
+            title = None
+            try:
+                title_tag = soup.find('title')
+                title = title_tag.get_text(strip=True) if title_tag else None
+            except Exception:
+                pass
+            
+            if not title:
+                title = self.url_to_title(url)
+            
+            # Extract meta description with error handling
+            description = ""
+            try:
+                meta_desc = soup.find('meta', {'name': 'description'})
+                description = meta_desc.get('content', '').strip() if meta_desc else ''
+            except Exception:
+                pass
+            
+            # Find main content area with multiple fallbacks
+            main_content = None
+            try:
+                main_content = (soup.find('main') or 
+                               soup.find('article') or 
+                               soup.find('div', class_=re.compile('content|main', re.I)) or
+                               soup.body)
+            except Exception:
+                main_content = soup.body
+            
+            # Extract text content
+            if main_content:
+                try:
+                    content_text = main_content.get_text(separator='\n', strip=True)
+                except Exception:
+                    content_text = str(main_content)
+            else:
+                try:
+                    content_text = soup.get_text(separator='\n', strip=True)
+                except Exception:
+                    content_text = "Content extraction failed"
+            
+            # Clean up content
+            try:
+                lines = [line.strip() for line in content_text.split('\n') if line.strip()]
+                clean_content = '\n\n'.join(lines)
+            except Exception:
+                clean_content = content_text
+            
+            return {
+                'title': title,
+                'description': description, 
+                'content': clean_content,
+                'url': url,
+                'timestamp': datetime.now().isoformat()
+            }
+            
+        except Exception as e:
+            # If all else fails, return basic structure
+            return {
+                'title': self.url_to_title(url),
+                'description': '', 
+                'content': f"Content extraction failed: {type(e).__name__}",
+                'url': url,
+                'timestamp': datetime.now().isoformat()
+            }
     
     def url_to_title(self, url):
         parsed = urlparse(url)
@@ -236,15 +351,37 @@ class WebCrawler:
         return markdown
     
     def save_markdown(self, content, filename):
+        """Save markdown with error handling and recovery"""
         try:
-            # Directory is already created in clean_output_dir()
             filepath = os.path.join(MDS_DIR, filename)
             
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(content)
                 
+        except UnicodeEncodeError:
+            # Try with different encoding if UTF-8 fails
+            try:
+                filepath = os.path.join(MDS_DIR, filename)
+                with open(filepath, 'w', encoding='utf-8', errors='replace') as f:
+                    f.write(content)
+                print(f"  Warning: Used fallback encoding for {filename}")
+            except Exception as e:
+                print(f"  Critical save error: {e}")
+                
+        except OSError as e:
+            # Handle filename/path issues
+            try:
+                # Create safe filename
+                safe_filename = re.sub(r'[^\w\-_.]', '_', filename)[:50] + '.md'
+                filepath = os.path.join(MDS_DIR, safe_filename)
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(content)
+                print(f"  Used safe filename: {safe_filename}")
+            except Exception as e:
+                print(f"  Critical save error: {e}")
+                
         except Exception as e:
-            print(f"  Save error: {e}")  # Remove duplicates
+            print(f"  Unexpected save error: {e}")
     
     def save_jsonl_index(self):
         """Save crawled pages data to JSONL index file"""
@@ -345,39 +482,71 @@ class WebCrawler:
         return discovered_links
     
     async def crawl(self):
-        await self.start_session()
-        
-        # Clean previous results
-        self.clean_output_dir()
-        
-        seed_count = self.load_seeds()
-        print(f"Starting crawl with {seed_count} seeds\n")
-        
-        while self.url_queue and self.crawled_pages < MAX_PAGES:
-            url, depth = self.url_queue.popleft()
+        """Main crawl method with comprehensive error handling"""
+        try:
+            await self.start_session()
             
-            # Check per-seed limit
-            seed_url = self.find_seed_for_url(url)
-            if seed_url and len(self.seed_pages[seed_url]) >= PAGES_PER_SEED:
-                continue
+            # Clean previous results
+            self.clean_output_dir()
             
-            links = await self.crawl_url(url, depth)
+            seed_count = self.load_seeds()
+            print(f"Starting crawl with {seed_count} seeds\n")
             
-            # Track which seed this page belongs to
-            if seed_url:
-                self.seed_pages[seed_url].append(url)
-        
-        await self.close_session()
-        
-        # Save output files
-        self.save_jsonl_index()
-        self.save_failed_urls()
-        
-        print(f"\nCrawl completed:")
-        print(f"Total pages crawled: {self.crawled_pages}")
-        print(f"Failed URLs: {len(self.failed_urls)}")
-        for seed, pages in self.seed_pages.items():
-            print(f"  {seed}: {len(pages)} pages")
+            successful_requests = 0
+            
+            while self.url_queue and self.crawled_pages < MAX_PAGES:
+                try:
+                    url, depth = self.url_queue.popleft()
+                    
+                    # Check per-seed limit
+                    seed_url = self.find_seed_for_url(url)
+                    if seed_url and len(self.seed_pages[seed_url]) >= PAGES_PER_SEED:
+                        continue
+                    
+                    links = await self.crawl_url(url, depth)
+                    
+                    # Track which seed this page belongs to
+                    if seed_url:
+                        self.seed_pages[seed_url].append(url)
+                        
+                    if links is not None:  # Successful request
+                        successful_requests += 1
+                        
+                except Exception as e:
+                    print(f"Error processing URL from queue: {e}")
+                    continue
+            
+            # Show crawl statistics
+            print(f"\nCrawl Statistics:")
+            print(f"Successful requests: {successful_requests}")
+            print(f"Total pages processed: {self.crawled_pages}")
+            print(f"Failed requests: {len(self.failed_urls)}")
+            
+            if successful_requests == 0:
+                print("⚠️  Warning: No pages were successfully crawled")
+            
+        except Exception as e:
+            print(f"Critical crawl error: {e}")
+            
+        finally:
+            # Always close session and save what we have
+            try:
+                await self.close_session()
+            except Exception as e:
+                print(f"Session cleanup error: {e}")
+            
+            # Save output files even if crawl was interrupted
+            try:
+                self.save_jsonl_index()
+                self.save_failed_urls()
+            except Exception as e:
+                print(f"Error saving output files: {e}")
+            
+            print(f"\nCrawl completed:")
+            print(f"Total pages crawled: {self.crawled_pages}")
+            print(f"Failed URLs: {len(self.failed_urls)}")
+            for seed, pages in self.seed_pages.items():
+                print(f"  {seed}: {len(pages)} pages")
     
     def find_seed_for_url(self, url):
         for seed in self.seed_pages.keys():
@@ -397,7 +566,7 @@ if __name__ == "__main__":
     else:
         print("✓ Configuration valid\n")
         show_config()
-        print("\n✅ Step 5: File Output System Test")
+        print("\n✅ Step 6: Error Handling & Resilience Test")
         
         crawler = WebCrawler()
         asyncio.run(crawler.crawl())

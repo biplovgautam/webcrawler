@@ -3,7 +3,7 @@
 *🌟 Your UK Study Journey Starts Here!✨ KIEC proudly invites you to an exclusive session with Mr. Prashant Prasanna, Manager – International Student Recruitment & Admissions at Chisholm Institute. This is your chance to learn everything about:✅ Programs & courses at Chisholm✅ Admission requirements & application process✅ Scholarships and opportunities for international students✅ Campus life*
 
 **URL:** https://kiec.edu.np/event/connect-learn-succeed-with-chisholm-institute/
-**Crawled:** 2025-09-25T00:02:21.708553
+**Crawled:** 2025-09-25T09:37:25.368951
 
 ---
 

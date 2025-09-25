@@ -3,7 +3,7 @@
 *Learn the essential steps to secure visas for multiple countries including Australia, the UK, and North America with our expert insights.*
 
 **URL:** http://kiec.edu.np/how-to-obtain-a-visa-for/
-**Crawled:** 2025-09-25T00:02:40.269204
+**Crawled:** 2025-09-25T09:37:12.264310
 
 ---
 

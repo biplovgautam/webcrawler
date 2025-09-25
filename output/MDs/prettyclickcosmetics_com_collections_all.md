@@ -1,7 +1,7 @@
 # Products – Prettyclick
 
 **URL:** https://prettyclickcosmetics.com/collections/all
-**Crawled:** 2025-09-25T00:03:11.806165
+**Crawled:** 2025-09-25T09:38:45.049903
 
 ---
 
@@ -19,7 +19,7 @@ Clear all
 
 Clear all
 
-886 products
+883 products
 
 Filter
 
@@ -67,7 +67,7 @@ Availability
 
 In stock
 
-646
+643
 
 Out of stock
 
@@ -129,7 +129,7 @@ Availability
 
 In stock
 
-646
+643
 
 Out of stock
 
@@ -531,36 +531,6 @@ Add to cart
 
 Compare
 
-Eyelash Glue
-
-Ardell Natural Starter Kit
-
-Regular price
-
-Rs750.00
-
-Sale price
-
-Rs750.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
 Eyelash
 
 Ardell Professional 1 Pair Faux Mink Demi Wispies
@@ -572,36 +542,6 @@ Rs750.00
 Sale price
 
 Rs750.00
-
-Regular price
-
-Unit price
-
-/
-
-per
-
-Add to cart
-
-View details
-
-Choose your option
-
-Add to cart
-
-Compare
-
-Eyelash
-
-Ardell Professional 1 Pair Faux Mink Wispies
-
-Regular price
-
-Rs800.00
-
-Sale price
-
-Rs800.00
 
 Regular price
 
@@ -734,6 +674,66 @@ Unit price
 per
 
 Choose options
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Eyelash
+
+Ardell Studio Effects Lashes Demi Wispies 1 pair
+
+Regular price
+
+Rs499.00
+
+Sale price
+
+Rs499.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
+
+View details
+
+Choose your option
+
+Add to cart
+
+Compare
+
+Eyelash
+
+Ardell Studio Effects Lashes Wispies 1 pair
+
+Regular price
+
+Rs499.00
+
+Sale price
+
+Rs499.00
+
+Regular price
+
+Unit price
+
+/
+
+per
+
+Add to cart
 
 View details
 

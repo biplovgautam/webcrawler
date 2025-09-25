@@ -3,7 +3,7 @@
 *It's Blush Hour, and we're mixing up something special just for you! Our Liquid Blush is like a cocktail-inspired fusion for your cheeks - with a twist! This neat formula goes on smooth and dries to a soft matte finish, giving you a richly pigmented flush that is vegan and cruelty-free, making it a guilt-free indulgenc*
 
 **URL:** https://prettyclickcosmetics.com/products/profusion-cosmetics-blush-hour-soft-matte-liquid-blush-6ml-strawberry-daiquiri
-**Crawled:** 2025-09-25T00:04:09.008781
+**Crawled:** 2025-09-25T09:39:13.268274
 
 ---
 
